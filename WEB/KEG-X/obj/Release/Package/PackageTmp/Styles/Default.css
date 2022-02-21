@@ -1,0 +1,293 @@
+BODY {
+	BACKGROUND: #ffffff; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; text-align:justify
+}
+input {border: 1px solid; border-color: #BEBCBC} 
+TD {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+a:link, a:visited { text-decoration:none; }
+a:hover { color: #cc0000; }
+Header {
+	COLOR: #0066CC
+}
+CODE {
+	COLOR: #404040
+}
+H1 {
+	FONT-SIZE: 150%
+}
+H2 {
+	FONT-SIZE: 140%
+}
+H3 {
+	FONT-SIZE: 120%
+}
+H4 {
+	FONT-SIZE: 100%
+}
+.dgHeader {
+	BACKGROUND: #aec2dd; color:#cc0000; font-weight:bold; text-align:center;
+}
+.dgItem {
+	FONT-SIZE: 9pt; BACKGROUND: #ffffff
+}
+.dgAltItem {
+	BACKGROUND: #f0f1f3
+}
+.dgSelItem {
+	
+}
+.dgEditItem {
+	
+}
+.dgFooter {
+	BACKGROUND: #ffffff
+}
+.dgPager {
+	BACKGROUND: #ffffff
+}
+/* .sideHead {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;BACKGROUND-COLOR: #EFF3FB;text-align:right;
+}
+.sideHead1 {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;BACKGROUND-COLOR: #EFF3FB;
+}*/
+.sideHead {
+	BACKGROUND-COLOR: #ffffff; text-align:right;	
+}
+.sideHead1 {
+	BACKGROUND-COLOR: #ffffff;	
+}
+.addHead {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;BACKGROUND-COLOR: #DFDEE2;
+}
+.addGridHead {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;BACKGROUND-COLOR: #648199; text-align:center;	
+}
+.addGridHeadLeft {
+	FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;BACKGROUND-COLOR: #5284BD;
+}
+.addNew {
+	FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; text-align:left;
+}
+.noteMsg {
+	FONT-SIZE: 8pt; COLOR: red; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+.footer {
+	FONT-SIZE: 7pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; text-align:center;
+}
+.bodyTextNoPadding {
+    font-family:verdana; 
+    font-size: .8em;
+    color: black; 
+    letter-spacing:0; 
+    line-height:150%;
+}
+.allBorders {
+    border-left: 1 solid #CCDDEF; 
+    border-right: 1 solid #CCDDEF; 
+    border-bottom: 1 solid #CCDDEF;
+    border-top: 1 solid #CCDDEF;
+}
+.bodyText {
+    font-family:verdana;
+    font-size: .8em;
+    color: black;
+    letter-spacing:0;
+    line-height:150%;
+    padding-left:30;
+    padding-right: 20;
+    padding-top: 10;
+}
+     
+.bodyTextLeftPadding {
+    font-family:verdana;
+    font-size: .8em;
+    color: black;
+    letter-spacing:0;
+    line-height:150%;
+    padding-left:10;
+}
+
+.bodyTextLowPadding {
+    font-family:verdana;
+    font-size: .9em;
+    color: black;
+    letter-spacing:0;
+    line-height:150%;
+    padding-left:10;
+} 
+
+.bodyTextLowPaddingSelected { 
+    font-family:verdana; 
+    font-size: .9em;
+    color: black;
+    letter-spacing:0;
+    line-height:150%;
+    padding-left:10;
+    background-color:#EEEEEE;
+} 
+
+.bodyTextNoPadding {
+    font-family:verdana; 
+    font-size: .8em;
+    color: black; 
+    letter-spacing:0; 
+    line-height:150%;
+}
+
+.bodyTextNoTopPadding { 
+    font-family:verdana; 
+    font-size: .8em;
+    color: black; 
+    letter-spacing:0; 
+    line-height:150%;
+    padding-left:30; 
+    padding-right: 20; 
+}
+
+.bodyTextLowTopPadding { 
+    font-family:verdana; 
+    font-size: .8em;
+    color: black; 
+    letter-spacing:0; 
+    line-height:150%;
+    padding-left:30; 
+    padding-right: 20; 
+    padding-top: 3;
+}
+
+.bodyTextLeftPadding5 { 
+    font-family:verdana; 
+    font-size: .8em;
+    color: black; 
+    letter-spacing:0; 
+    line-height:150%;
+    padding-left:5; 
+}
+
+.bottomRow { 
+    background-color: #3266CC; 
+    padding-left:30; 
+    font-family:tahoma;     
+} 
+
+.button0 { 
+    font-family:Trebuchet MS; 
+    font-size: .6em; 
+    color: black; 
+    cursor:hand; 
+} 
+
+.button1 { 
+    font-family:Trebuchet MS; 
+    font-size: .6em; 
+    color: black; 
+    text-decoration:underline;
+    cursor:hand; 
+} 
+
+.buttonCell { 
+    background-color: #FEE17B;
+    padding-right:20; 
+}
+
+.buttonRow { 
+    border-bottom: 5 solid #FEE17B;
+    padding-left:30; 
+} 
+
+.callOutStyle {
+    background-color: #648199; 
+    font-family:Verdana, Arial, Helvetica, sans-serif; 
+    font-size: 10pt;
+    color: white; 
+    font-weight:bold; 
+    line-height:150%;
+}
+/*.callOutStyle {
+    background-color: #CCCCCC; 
+    font-weight:bold; 
+    line-height:150%;
+}*/
+
+.callOutHeaderStyle {
+    background-color: #6699CC; 
+    padding-left:7; 
+    font-family:tahoma; 
+    font-size: 0.9em; 
+    color: white; 
+    font-weight:bold; 
+    line-height:150%;
+}
+
+
+.callOutStyleLowLeftPadding {
+    background-color: #6699CC; 
+    font-family:tahoma; 
+    font-size: 0.9em; 
+    color: white; 
+    font-weight:bold; 
+    line-height:150%;
+    padding-left:15; 
+    padding-right: 20;     
+    padding-top: 3;
+    padding-bottom: 3;
+
+}
+
+.callOutStyleNoLeftPadding {
+    background-color: #6699CC; 
+    font-family:tahoma; 
+    font-size: 0.9em; 
+    color: white; 
+    font-weight:bold; 
+    line-height:150%;
+    padding-right: 20;     
+    padding-top: 3;
+    padding-bottom: 3;
+
+}
+
+.callOutStyleNoBorder {
+    background-color: #6699CC; 
+    font-family:tahoma; 
+    font-size: 0.9em; 
+    color: white; 
+    font-weight:bold; 
+    line-height:150%;
+    padding-left:30; 
+    padding-right: 20;     
+    padding-top: 3;
+    padding-bottom: 3;
+
+}
+
+.darkBlueShadow {
+    background-image:url(images/gradient_onblue.gif); 
+    background-repeat: repeat-x; 
+} 
+a.helpHyperLink:hover {
+	color: #ffffff;
+	font-family:Tahoma;
+	font-size: .7em;
+}
+
+a.helpHyperLink:link {
+	color: #ffffff;
+	font-family:Tahoma;
+	font-size: .7em;
+}
+a.helpHyperLink:visited {
+	color: #ffffff;
+	font-family:Tahoma;
+	font-size: .7em;
+}
+.Zindex
+{
+	z-index: 8001 !important;
+}
+.someinput::-ms-clear {
+    display: none;
+}
+

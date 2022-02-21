@@ -1,0 +1,307 @@
+E:\KEGX\Prod\With SSL\KEG-X\bin\KEG-X.dll.config
+E:\KEGX\Prod\With SSL\KEG-X\bin\KEG-X.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\KEG-X.pdb
+E:\KEGX\Prod\With SSL\KEG-X\bin\KEG-X.xml
+E:\KEGX\Prod\With SSL\KEG-X\bin\BLL.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\ClosedXML.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportSource.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.Shared.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.Web.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\DAL.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\DocumentFormat.OpenXml.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\Property.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\System.Data.SqlServerCe.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\stdole.dll
+E:\KEGX\Prod\With SSL\KEG-X\bin\BLL.pdb
+E:\KEGX\Prod\With SSL\KEG-X\bin\BLL.xml
+E:\KEGX\Prod\With SSL\KEG-X\bin\DAL.pdb
+E:\KEGX\Prod\With SSL\KEG-X\bin\DAL.xml
+E:\KEGX\Prod\With SSL\KEG-X\bin\Property.pdb
+E:\KEGX\Prod\With SSL\KEG-X\bin\Property.xml
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbprojResolveAssemblyReference.cache
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG_X.Resources.resources
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbproj.GenerateResource.Cache
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbproj.CoreCompileInputs.cache
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG-X.dll
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG-X.xml
+E:\KEGX\Prod\With SSL\KEG-X\obj\Release\KEG-X.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\KEG-X.dll.config
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\KEG-X.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\KEG-X.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\KEG-X.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\BLL.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\ClosedXML.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.Shared.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.Web.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\DAL.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\DocumentFormat.OpenXml.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\Property.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\System.Data.SqlServerCe.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\stdole.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\BLL.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\BLL.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\DAL.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\DAL.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\Property.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\bin\Property.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG_X.Resources.resources
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\KEG-X\obj\Release\KEG-X.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\KEG-X.dll.config
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\KEG-X.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\KEG-X.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\KEG-X.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\BLL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\ClosedXML.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.Shared.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.Web.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\DAL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\DocumentFormat.OpenXml.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\System.Data.SqlServerCe.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\stdole.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\BLL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\DAL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\DAL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\bin\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG_X.Resources.resources
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\KEG-X\obj\Release\KEG-X.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\KEG-X.dll.config
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\KEG-X.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\KEG-X.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\KEG-X.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\BLL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\ClosedXML.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.Shared.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.Web.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\DAL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\DocumentFormat.OpenXml.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\System.Data.SqlServerCe.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\stdole.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\BLL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\DAL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\DAL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\bin\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG_X.Resources.resources
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\KEG-X\obj\Release\KEG-X.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\KEG-X.dll.config
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\KEG-X.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\KEG-X.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\KEG-X.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\BLL.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\ClosedXML.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportSource.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.Shared.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.Web.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\DAL.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\DocumentFormat.OpenXml.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Logging.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Security.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Newtonsoft.Json.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Owin.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Property.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\stdole.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\BLL.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\DAL.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\DAL.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Property.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Property.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Logging.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Logging.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Security.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\Newtonsoft.Json.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG_X.Resources.resources
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\KEG-X\obj\Release\KEG-X.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\KEG-X.dll.config
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\KEG-X.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\KEG-X.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\KEG-X.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\BLL.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\ClosedXML.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportSource.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.Shared.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.Web.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\DAL.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\DocumentFormat.OpenXml.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Logging.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Protocols.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Tokens.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Security.Cookies.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Security.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Newtonsoft.Json.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Owin.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Property.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\System.Data.SqlServerCe.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.AnalysisServices.AdomdClient.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\stdole.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\BLL.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\BLL.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\DAL.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\DAL.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Property.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Property.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Logging.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Logging.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Protocols.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Protocols.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.IdentityModel.Tokens.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Security.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Security.Cookies.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\Newtonsoft.Json.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.vbproj.AssemblyReference.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG_X.Resources.resources
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.vbproj.GenerateResource.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.vbproj.CoreCompileInputs.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.vbproj.CopyComplete
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\KEG-X\obj\Release\KEG-X.pdb

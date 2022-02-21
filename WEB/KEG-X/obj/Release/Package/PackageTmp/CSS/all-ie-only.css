@@ -1,0 +1,12 @@
+.right-side a img { vertical-align:middle}
+.changebtn{ float:left}
+.header .right-side { width:195px}
+.changebtn { padding:2px 5px}
+.half-panel2 label { width:25%}
+.half-panel2 input[type="text"], .half-panel2 input[type="password"], .half-panel2 input[type="file"] {
+    width: 67% !important;
+}
+.half-panel2 .select {
+    width: 67% !important;
+}
+.full label { width:auto; display:inline}

@@ -1,0 +1,97 @@
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\bin\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\bin\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\bin\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\Property.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\Property\obj\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\bin\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\bin\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\bin\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\Property.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\Property\obj\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\bin\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\bin\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\bin\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\Property.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X-1\KEG-X\KEG-X\Property\obj\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\bin\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\bin\Release\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\bin\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\Property.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\Property\obj\Release\Property.pdb
+E:\KEGX\Prod\With SSL\Property\bin\Release\Property.dll
+E:\KEGX\Prod\With SSL\Property\bin\Release\Property.pdb
+E:\KEGX\Prod\With SSL\Property\bin\Release\Property.xml
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.Resources.resources
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.vbproj.GenerateResource.Cache
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.vbproj.CoreCompileInputs.cache
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.dll
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.xml
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.pdb
+E:\KEGX\Prod\With SSL\Property\obj\Release\Property.vbprojResolveAssemblyReference.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\bin\Release\Property.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\bin\Release\Property.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\bin\Release\Property.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\obj\Release\Property.Resources.resources
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\obj\Release\Property.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\obj\Release\Property.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\obj\Release\Property.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\obj\Release\Property.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\Property\obj\Release\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\bin\Release\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\bin\Release\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\bin\Release\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\obj\Release\Property.Resources.resources
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\obj\Release\Property.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\obj\Release\Property.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\obj\Release\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\obj\Release\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL\Property\obj\Release\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\bin\Release\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\bin\Release\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\bin\Release\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\obj\Release\Property.Resources.resources
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\obj\Release\Property.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\obj\Release\Property.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\obj\Release\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\obj\Release\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\Property\obj\Release\Property.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\bin\Release\Property.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\bin\Release\Property.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\bin\Release\Property.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.Resources.resources
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\Property\obj\Release\Property.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\bin\Release\Property.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\bin\Release\Property.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\bin\Release\Property.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.vbproj.AssemblyReference.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.Resources.resources
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.vbproj.GenerateResource.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.vbproj.CoreCompileInputs.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\Property\obj\Release\Property.pdb

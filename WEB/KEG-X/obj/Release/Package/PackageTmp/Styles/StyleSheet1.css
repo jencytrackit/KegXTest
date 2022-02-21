@@ -1,0 +1,420 @@
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:13px;
+}
+.mymenustyle /*a:link, .menutext a:visited, .menutext a:hover*/
+{ 
+    font-size: 11px !important; 
+    /*font-style: normal;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+    text-align: left !important;*/
+}
+/*.menutext a:hover
+{
+    color: #ffffff !important;
+}*/
+.info, .success, .warning, .error, .validation {
+    border: 1px solid;
+    margin: 10px 0px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+}
+.info {
+    color: #00529B;
+    background-color: #BDE5F8;
+    background-image: url('images/info.png');
+}
+.success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+    background-image:url('images/success.png');
+}
+.warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+    background-image: url('images/warning.png');
+}
+.error {
+    color: #D8000C;
+    background-color: #FFBABA;
+    background-image: url('images/error.png');
+}
+.container
+{
+}
+.info p, .success p, .warning p, .error p {
+    padding: 0px 50px;
+}
+.info a, .success a, .warning a, .error a {
+    float: right;
+    padding: 10px;
+    cursor:pointer;
+}
+.container img {
+    border: none;
+}
+
+/* validation */
+.validation {
+    color: #D8000C;
+    background-color: #FFBABA;
+    background-image: url('images/error.png');
+}
+.validation ul
+{
+	padding: 0px 30px;
+}
+/*
+START - STYLE 1
+*/
+.compassStyle1
+{
+	BORDER-COLOR			: #000000;
+	BORDER-WIDTH			: 1px;
+	BORDER-STYLE			: Solid;
+	FONT-FAMILY				: Tahoma;
+	FONT-SIZE				: 8pt;
+	FONT-WEIGHT				: bold;
+	COLOR					: #000000;
+	BACKGROUND-COLOR		: #DFDEE2;
+	PADDING					: 4px;
+	width					: 100%;
+}
+
+A.compassLinkStyle1:link
+{
+	TEXT-DECORATION			: none;
+	COLOR					: aqua;
+}
+
+A.compassLinkStyle1:visited
+{
+	TEXT-DECORATION			: none;
+	COLOR					: blue;
+}
+
+A.compassLinkStyle1:active
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle1:hover
+{
+	TEXT-DECORATION			: underline;
+	COLOR					: red;
+}
+/*
+END - STYLE 1
+*/
+
+/*
+START - STYLE 2
+*/
+.compassStyle2
+{
+	BORDER-COLOR			: #000000;
+	BORDER-WIDTH			: 1px;
+	BORDER-STYLE			: Solid;
+	FONT-FAMILY				: Tahoma;
+	FONT-SIZE				: 8pt;
+	FONT-WEIGHT				: bold;
+	COLOR					: Black;
+	BACKGROUND-COLOR		: Gray;
+	PADDING					: 4px;
+	width					: 100%;
+}
+
+A.compassLinkStyle2:link
+{
+	TEXT-DECORATION			: none;
+	COLOR					: black;
+}
+
+A.compassLinkStyle2:visited
+{
+	TEXT-DECORATION			: none;
+	COLOR					: aqua;
+}
+
+A.compassLinkStyle2:active
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle2:hover
+{
+	TEXT-DECORATION			: underline;
+	COLOR					: red;
+}
+/*
+END - STYLE 2
+*/
+
+/*
+START - STYLE 3
+*/
+.compassStyle3
+{
+	BORDER-COLOR			: #000000;
+	BORDER-WIDTH			: 1px;
+	BORDER-STYLE			: dashed;
+	FONT-FAMILY				: Verdana;
+	FONT-SIZE				: 10pt;
+	FONT-WEIGHT				: bold;
+	COLOR					: White;
+	BACKGROUND-COLOR		: #6565D9;
+	PADDING					: 4px;
+	width					: 100%;
+}
+
+A.compassLinkStyle3:link
+{
+	TEXT-DECORATION			: none;
+	COLOR					: aqua;
+}
+
+A.compassLinkStyle3:visited
+{
+	TEXT-DECORATION			: none;
+	COLOR					: black;
+}
+
+A.compassLinkStyle3:active
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle3:hover
+{
+	TEXT-DECORATION			: underline;
+	COLOR					: Maroon;
+}
+/*
+END - STYLE 3
+*/
+
+/*
+START - STYLE 4
+*/
+.compassStyle4
+{
+	BORDER-COLOR			: #000000;
+	BORDER-WIDTH			: 1px;
+	BORDER-STYLE			: Solid;
+	FONT-FAMILY				: Tahoma;
+	FONT-SIZE				: 8pt;
+	FONT-WEIGHT				: bold;
+	COLOR					: White;
+	BACKGROUND-COLOR		: Navy;
+	PADDING					: 4px;
+	width					: 100%;
+}
+
+A.compassLinkStyle4:link
+{
+	TEXT-DECORATION			: none;
+	COLOR					: Yellow;
+}
+
+A.compassLinkStyle4:visited
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle4:active
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle4:hover
+{
+	TEXT-DECORATION			: underline;
+	COLOR					: red;
+}
+/*
+END - STYLE 4
+*/
+
+/*
+START - STYLE 5
+*/
+.compassStyle5
+{
+	BORDER-COLOR			: #000000;
+	BORDER-WIDTH			: 1px;
+	BORDER-STYLE			: Solid;
+	FONT-FAMILY				: Tahoma;
+	FONT-SIZE				: 8pt;
+	FONT-WEIGHT				: bold;
+	COLOR					: White;
+	BACKGROUND-COLOR		: #B45050;
+	PADDING					: 4px;
+	width					: 100%;
+}
+
+A.compassLinkStyle5:link
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle5:visited
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle5:active
+{
+	TEXT-DECORATION			: none;
+	COLOR					: white;
+}
+
+A.compassLinkStyle5:hover
+{
+	TEXT-DECORATION			: underline;
+	COLOR					: Silver;
+}
+/*
+END - STYLE 4
+*/
+
+
+/*
+START - MENU BAR STYLES
+*/
+div.menuBar,
+div.menuBar a.menuButton,
+div.menu,
+div.menu a.menuItem
+{
+	FONT-FAMILY: Tahoma, "MS Sans Serif", sans-serif;
+	FONT-SIZE: 8pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: normal;
+	COLOR: #000000;
+}
+
+div.menuBar
+{
+	BACKGROUND-COLOR: #d0d0d0;
+	BORDER-LEFT: #000000 1px solid;
+	BORDER-RIGHT: #000000 1px solid;
+	BORDER-TOP: #000000 1px solid;
+	BORDER-BOTTOM: #000000 1px solid;
+	PADDING: 4px 2px 4px 2px;
+	TEXT-ALIGN: left;
+}
+
+div.menuBar a.menuButton
+{
+	BACKGROUND-COLOR: transparent;
+	BORDER: 1px solid #d0d0d0;
+	COLOR: #000000;
+	CURSOR: default;
+	LEFT: 0px;
+	MARGIN: 1px;
+	PADDING: 2px 6px 2px 6px;
+	POSITION: relative;
+	TEXT-DECORATION: none;
+	TOP: 0px;
+	Z-INDEX: 100;
+}
+
+div.menuBar a.menuButton:hover
+{
+	BACKGROUND-COLOR: #B6BDD2;
+	BORDER-COLOR: #000000;
+	COLOR: #000000;
+}
+
+div.menuBar a.menuButtonActive,
+div.menuBar a.menuButtonActive:hover
+{
+	BACKGROUND-COLOR: #DBD8D1;
+	BORDER-COLOR: #0A246A;
+	COLOR: #000000;
+}
+
+div.menu
+{
+	BACKGROUND-COLOR: #DBD8D1;
+	BORDER: 1px solid;
+	BORDER-COLOR: #000000;
+	LEFT: 0px;
+	PADDING: 0px 1px 1px 0px;
+	POSITION: absolute;
+	TOP: 0px;
+	VISIBILITY: hidden;
+	Z-INDEX: 101;
+}
+
+div.menu a.menuItem
+{
+	COLOR: #000000;
+	CURSOR: default;
+	DISPLAY: block;
+	PADDING: 3px 1em;
+	TEXT-DECORATION: none;
+	WHITE-SPACE: nowrap;
+}
+
+div.menu a.menuItem:hover, div.menu a.menuItemHighlight
+{
+	BACKGROUND-COLOR: #B6BDD2;
+	COLOR: #000000;
+}
+
+div.menu a.menuItem span.menuItemText
+{
+}
+
+div.menu a.menuItem span.menuItemArrow
+{
+	MARGIN-RIGHT: -.75em;
+}
+
+div.menu div.menuItemSep
+{
+	BORDER-TOP: 1px solid #909090;
+	BORDER-BOTTOM: 1px solid #f0f0f0;
+	MARGIN: 4px 2px;
+}
+
+DIV.menu DIV.menuItemHdr
+{
+	FONT-WEIGHT: bold;
+	PADDING-RIGHT: 1em;
+	PADDING-LEFT: 1em;
+	PADDING-BOTTOM: 3px;
+	PADDING-TOP: 3px
+}
+.table td
+{
+	padding:3px 10px 3px 10px;
+	/*margin-left: 40px;	*/
+	
+}
+.MandatoryField
+{
+	color:Red;
+	font-weight:bold;
+	font-size:13px;
+	vertical-align:middle;
+	text-align:center;
+}
+.nopadding td
+{
+	padding:0px;
+}
+/*
+END - MENU BAR STYLES
+*/
+

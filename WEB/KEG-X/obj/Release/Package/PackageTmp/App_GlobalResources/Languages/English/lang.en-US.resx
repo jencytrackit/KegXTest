@@ -1,0 +1,3838 @@
+﻿<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblCalendar" xml:space="preserve">
+    <value>Select a date</value>
+  </data>
+  <data name="gridCompanyName" xml:space="preserve">
+    <value>Company Name</value>
+  </data>
+  <data name="gridLocationName" xml:space="preserve">
+    <value>Location Name</value>
+  </data>
+  <data name="gridEmployeeName" xml:space="preserve">
+    <value>Employee Name</value>
+  </data>
+  <data name="gridSupplierName" xml:space="preserve">
+    <value>Supplier Name</value>
+  </data>
+  <data name="gridManufacturerName" xml:space="preserve">
+    <value>Manufacturer Name</value>
+  </data>
+  <data name="addATSCodedValues" xml:space="preserve">
+    <value>CodedValues Record</value>
+  </data>
+  <data name="lblReaderType" xml:space="preserve">
+<value>Reader Type</value>
+</data>
+  <data name="lblType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="TextDirection" xml:space="preserve">
+    <value>LTR</value>
+  </data>
+  <data name="rfvType" xml:space="preserve">
+    <value>Type is Required.</value>
+  </data>
+  <data name="lblTypeID" xml:space="preserve">
+    <value>Type ID</value>
+  </data>
+  <data name="rfvTypeID" xml:space="preserve">
+    <value>TypeID is Required.</value>
+  </data>
+  <data name="regvalTypeID" xml:space="preserve">
+    <value>Numeric value is Required in TypeID.</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="rfvName" xml:space="preserve">
+    <value>Name is Required.</value>
+  </data>
+  <data name="addATSCompEmp" xml:space="preserve">
+    <value>CompEmp Record</value>
+  </data>
+  <data name="rfvCompanyID" xml:space="preserve">
+    <value>CompanyName is Required.</value>
+  </data>
+  <data name="gridExternalCompanyName" xml:space="preserve">
+    <value>External Company Name</value>
+  </data>
+  <data name="gridContactPerson" xml:space="preserve">
+    <value>Contact Person</value>
+  </data>
+  <data name="gridDepartmentID" xml:space="preserve">
+    <value>Section ID</value>
+  </data>
+  <data name="gridDepartmentName" xml:space="preserve">
+    <value>Section Name</value>
+  </data>
+  <data name="addATSDepartments" xml:space="preserve">
+    <value>Section Record</value>
+  </data>
+  <data name="lblDepartmentName" xml:space="preserve">
+    <value>Section Name</value>
+  </data>
+  <data name="rfvDepartmentName" xml:space="preserve">
+    <value>Section is Required.</value>
+  </data>
+  <data name="rfvWSName" xml:space="preserve">
+    <value>City Name is Required.</value>
+  </data>
+  <data name="gridContactID" xml:space="preserve">
+    <value>Contact ID</value>
+  </data>
+  <data name="gridDepartment" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="gridPhoneNo" xml:space="preserve">
+    <value>Phone No</value>
+  </data>
+  <data name="gridEmailID" xml:space="preserve">
+    <value>Email ID</value>
+  </data>
+  <data name="addATSECompContacts" xml:space="preserve">
+    <value>External Contacts Record</value>
+  </data>
+  <data name="rfvContactPerson" xml:space="preserve">
+    <value>ContactPerson is Required.</value>
+  </data>
+  <data name="lblDepartment" xml:space="preserve">
+    <value>Department</value>
+  </data>
+  <data name="lblPhoneNo" xml:space="preserve">
+    <value>Phone No</value>
+  </data>
+  <data name="lblEmailID" xml:space="preserve">
+    <value>Email ID</value>
+  </data>
+  <data name="valEmailAddress" xml:space="preserve">
+    <value>Email address is invalid.</value>
+  </data>
+  <data name="rfvExternalCompanyName" xml:space="preserve">
+    <value>ExternalCompanyName is Required.</value>
+  </data>
+  <data name="gridEmployeeID" xml:space="preserve">
+    <value>Employee ID</value>
+  </data>
+  <data name="gridEmployeeNo" xml:space="preserve">
+    <value>Employee No</value>
+  </data>
+  <data name="gridPosition" xml:space="preserve">
+    <value>Designation</value>
+  </data>
+  <data name="gridPhone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="gridEmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="gridShow" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="addATSEmployees" xml:space="preserve">
+    <value>EMPLOYEES RECORD</value>
+  </data>
+  <data name="rfvEmployeeName" xml:space="preserve">
+    <value>EmployeeName is Required.</value>
+  </data>
+  <data name="lblEmployeeNo" xml:space="preserve">
+    <value>Employee No</value>
+  </data>
+  <data name="rfvDepartmentID" xml:space="preserve">
+    <value>Department Name is Required.</value>
+  </data>
+  <data name="lblPosition" xml:space="preserve">
+    <value>Designation</value>
+  </data>
+  <data name="lblPhone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="rfvEmail" xml:space="preserve">
+    <value>Email is Required.</value>
+  </data>
+  <data name="lblShow" xml:space="preserve">
+    <value>Show</value>
+  </data>
+  <data name="gridErrID" xml:space="preserve">
+    <value>Err ID</value>
+  </data>
+  <data name="gridErrorCode" xml:space="preserve">
+    <value>Error Code</value>
+  </data>
+  <data name="gridErrorSource" xml:space="preserve">
+    <value>Error Source</value>
+  </data>
+  <data name="gridErrorDescription" xml:space="preserve">
+    <value>Error Description</value>
+  </data>
+  <data name="gridTimeStamp" xml:space="preserve">
+    <value>Time Stamp</value>
+  </data>
+  <data name="addATSErrorLog" xml:space="preserve">
+    <value>ErrorLog Record</value>
+  </data>
+  <data name="lblErrorCode" xml:space="preserve">
+    <value>Error Code</value>
+  </data>
+  <data name="lblErrorSource" xml:space="preserve">
+    <value>Error Source</value>
+  </data>
+  <data name="lblErrorDescription" xml:space="preserve">
+    <value>Error Description</value>
+  </data>
+  <data name="lblTimeStamp" xml:space="preserve">
+    <value>Time Stamp</value>
+  </data>
+  <data name="cvTimeStamp" xml:space="preserve">
+    <value>Invalid date for TimeStamp.</value>
+  </data>
+  <data name="gridECompanyID" xml:space="preserve">
+    <value>E Company ID</value>
+  </data>
+  <data name="gridAddress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="gridCity" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="gridState" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="gridCountry" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="gridFax" xml:space="preserve">
+    <value>Fax</value>
+  </data>
+  <data name="gridWebsite" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="gridECompType" xml:space="preserve">
+    <value>External Company Type</value>
+  </data>
+  <data name="addATSExternalCompany" xml:space="preserve">
+    <value>ExternalCompany Record</value>
+  </data>
+  <data name="lblAddress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="lblCity" xml:space="preserve">
+    <value>City</value>
+  </data>
+  <data name="lblState" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="lblFax" xml:space="preserve">
+    <value>Fax</value>
+  </data>
+  <data name="lblWebsite" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="lblECompType" xml:space="preserve">
+    <value>External Company Type</value>
+  </data>
+  <data name="rfvECompType" xml:space="preserve">
+    <value>External Company Type is Required.</value>
+  </data>
+  <data name="gridLocationID" xml:space="preserve">
+    <value>Location ID</value>
+  </data>
+  <data name="gridOffice" xml:space="preserve">
+    <value>Office</value>
+  </data>
+  <data name="gridBuilding" xml:space="preserve">
+    <value>Building</value>
+  </data>
+  <data name="gridFloor" xml:space="preserve">
+    <value>Floor</value>
+  </data>
+  <data name="gridRoom" xml:space="preserve">
+    <value>Room</value>
+  </data>
+  <data name="addATSLocation" xml:space="preserve">
+    <value>Location Record</value>
+  </data>
+  <data name="rfvLocationName" xml:space="preserve">
+    <value>LocationName is Required.</value>
+  </data>
+  <data name="lblOffice" xml:space="preserve">
+    <value>Office</value>
+  </data>
+  <data name="lblBuilding" xml:space="preserve">
+    <value>Building</value>
+  </data>
+  <data name="rfvBuilding" xml:space="preserve">
+    <value>Building is Required.</value>
+  </data>
+  <data name="lblFloor" xml:space="preserve">
+    <value>Floor</value>
+  </data>
+  <data name="rfvFloor" xml:space="preserve">
+    <value>Floor is Required.</value>
+  </data>
+  <data name="lblRoom" xml:space="preserve">
+    <value>Room</value>
+  </data>
+  <data name="rfvRoom" xml:space="preserve">
+    <value>Room is Required.</value>
+  </data>
+  <data name="gridCompanyID" xml:space="preserve">
+    <value>Company ID</value>
+  </data>
+  <data name="gridShortNote" xml:space="preserve">
+    <value>Short Note</value>
+  </data>
+  <data name="gridCompanyType" xml:space="preserve">
+    <value>Company Type</value>
+  </data>
+  <data name="gridParentCompanyID" xml:space="preserve">
+    <value>Parent Company ID</value>
+  </data>
+  <data name="addATSOrganization" xml:space="preserve">
+    <value>Company Record</value>
+  </data>
+  <data name="lblShortNote" xml:space="preserve">
+    <value>Short Note</value>
+  </data>
+  <data name="lblCompanyType" xml:space="preserve">
+    <value>Company Type</value>
+  </data>
+  <data name="rfvCompanyType" xml:space="preserve">
+    <value>CompanyType is Required.</value>
+  </data>
+  <data name="regvalCompanyType" xml:space="preserve">
+    <value>Numeric value is Required in CompanyType.</value>
+  </data>
+  <data name="lblParentCompanyID" xml:space="preserve">
+    <value>Parent Company Name</value>
+  </data>
+  <data name="rfvParentCompanyID" xml:space="preserve">
+    <value>Parent Company is Required.</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="lblCPassword" xml:space="preserve">
+    <value>Confirm Password</value>
+  </data>
+  <data name="lblOldPassword" xml:space="preserve">
+    <value>Old Password</value>
+  </data>
+  <data name="lblNewPassword" xml:space="preserve">
+    <value>New Password</value>
+  </data>
+  <data name="valComparePassword" xml:space="preserve">
+    <value>Password fields must match.</value>
+  </data>
+  <data name="valPasswordLength" xml:space="preserve">
+    <value>Password Should Contain Atleast 6 Characters.</value>
+  </data>
+  <data name="gridAllowedCompaniesNo" xml:space="preserve">
+    <value>Allowed Companies No</value>
+  </data>
+  <data name="lblAllowedCompaniesNo" xml:space="preserve">
+    <value>Allowed Companies No</value>
+  </data>
+  <data name="rfvAllowedCompaniesNo" xml:space="preserve">
+    <value>AllowedCompaniesNo is Required.</value>
+  </data>
+  <data name="regvalAllowedCompaniesNo" xml:space="preserve">
+    <value>Numeric value is Required in AllowedCompaniesNo.</value>
+  </data>
+  <data name="gridLogID" xml:space="preserve">
+    <value>Log ID</value>
+  </data>
+  <data name="gridChangeSource" xml:space="preserve">
+    <value>Change Source</value>
+  </data>
+  <data name="gridChangeDescription" xml:space="preserve">
+    <value>Change Description</value>
+  </data>
+  <data name="addATSUserLog" xml:space="preserve">
+    <value>UserLog Record</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>User Name</value>
+  </data>
+  <data name="rfvUserName" xml:space="preserve">
+    <value>UserName is Required.</value>
+  </data>
+  <data name="regvalUserName" xml:space="preserve">
+    <value>Numeric value is Required in UserName.</value>
+  </data>
+  <data name="lblChangeSource" xml:space="preserve">
+    <value>Change Source</value>
+  </data>
+  <data name="rfvChangeSource" xml:space="preserve">
+    <value>ChangeSource is Required.</value>
+  </data>
+  <data name="lblChangeDescription" xml:space="preserve">
+    <value>Change Description</value>
+  </data>
+  <data name="rfvChangeDescription" xml:space="preserve">
+    <value>ChangeDescription is Required.</value>
+  </data>
+  <data name="gridUserID" xml:space="preserve">
+    <value>User ID</value>
+  </data>
+  <data name="gridRole" xml:space="preserve">
+    <value>Role</value>
+  </data>
+  <data name="gridChangedBy" xml:space="preserve">
+    <value>Changed By</value>
+  </data>
+  <data name="gridDisable" xml:space="preserve">
+    <value>Disable</value>
+  </data>
+  <data name="gridLogged" xml:space="preserve">
+    <value>Logged</value>
+  </data>
+  <data name="addATSUsers" xml:space="preserve">
+    <value>Users Record</value>
+  </data>
+  <data name="rfvPassword" xml:space="preserve">
+    <value>Password is Required.</value>
+  </data>
+  <data name="rfvCPassword" xml:space="preserve">
+    <value>Confirm Password is Required.</value>
+  </data>
+  <data name="rfvOPassword" xml:space="preserve">
+    <value>Old Password is Required.</value>
+  </data>
+  <data name="rfvNPassword" xml:space="preserve">
+    <value>New Password is Required.</value>
+  </data>
+  <data name="rfvEmployee" xml:space="preserve">
+    <value>Employee is Required.</value>
+  </data>
+  <data name="lblRole" xml:space="preserve">
+    <value>Role</value>
+  </data>
+  <data name="rfvRole" xml:space="preserve">
+    <value>Role is Required.</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>Preferred Language</value>
+  </data>
+  <data name="lblChangedBy" xml:space="preserve">
+    <value>Changed By</value>
+  </data>
+  <data name="lblDisable" xml:space="preserve">
+    <value>Disable</value>
+  </data>
+  <data name="rfvDisable" xml:space="preserve">
+    <value>Disable is Required.</value>
+  </data>
+  <data name="lblLogged" xml:space="preserve">
+    <value>Logged</value>
+  </data>
+  <data name="lblFlag" xml:space="preserve">
+    <value>Flag</value>
+  </data>
+  <data name="lblAdd" xml:space="preserve">
+    <value>Add New Record</value>
+  </data>
+  <data name="lblNoRecords" xml:space="preserve">
+    <value>There are no records to display.</value>
+  </data>
+  <data name="gridPicture" xml:space="preserve">
+    <value>Picture</value>
+  </data>
+  <data name="gridPictureView" xml:space="preserve">
+    <value>Click to view Fullsize Image</value>
+  </data>
+  <data name="gridEdit" xml:space="preserve">
+    <value>View/Edit</value>
+  </data>
+  <data name="gridDelete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="gridMenu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="btnSave" xml:space="preserve">
+    <value> Save </value>
+  </data>
+  <data name="btnSaveAdd" xml:space="preserve">
+    <value>Save _Add New</value>
+  </data>
+  <data name="btnClear" xml:space="preserve">
+    <value>  Reset  </value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ddlSelect" xml:space="preserve">
+    <value>--Select One--</value>
+  </data>
+  <data name="Inserted" xml:space="preserve">
+    <value>Record Inserted Successfully!</value>
+  </data>
+  <data name="Updated" xml:space="preserve">
+    <value>Record Updated Successfully!</value>
+  </data>
+  <data name="Deleted" xml:space="preserve">
+    <value>Record Deleted Successfully!</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>Record Info Not Found!</value>
+  </data>
+  <data name="Errors" xml:space="preserve">
+    <value>Errors...</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>Are you sure you want to delete this record?</value>
+  </data>
+  <data name="ConfirmReturn" xml:space="preserve">
+    <value>Are you sure you want to CheckOut this Document?</value>
+  </data>
+  <data name="ManageDepartment" xml:space="preserve">
+    <value>MANAGE SECTION</value>
+  </data>
+  <data name="ManageEContacts" xml:space="preserve">
+    <value>MANAGE EXTERNAL CONTACTS</value>
+  </data>
+  <data name="ManageEmployees" xml:space="preserve">
+    <value>MANAGE EMPLOYEES</value>
+  </data>
+  <data name="ManageECompanies" xml:space="preserve">
+    <value>MANAGE EXTERNAL COMPANIES</value>
+  </data>
+  <data name="ManageLocations" xml:space="preserve">
+    <value>MANAGE LOCATIONS</value>
+  </data>
+  <data name="ManageNotifications" xml:space="preserve">
+    <value>MANAGE NOTIFICATIONS</value>
+  </data>
+  <data name="ManageOrganization" xml:space="preserve">
+    <value>MANAGE COMPANIES DETAILS</value>
+  </data>
+  <data name="ManageUsers" xml:space="preserve">
+    <value>MANAGE USERS</value>
+  </data>
+  <data name="leftCompanyName" xml:space="preserve">
+    <value>CompanyName</value>
+  </data>
+  <data name="leftLocationName" xml:space="preserve">
+    <value>Location</value>
+  </data>
+  <data name="leftEmployeeName" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="lblChangePassword" xml:space="preserve">
+    <value>CHANGE PASSWORD</value>
+  </data>
+  <data name="rfvFileSize" xml:space="preserve">
+    <value>File size exceeds the 5 MB Limit.</value>
+  </data>
+  <data name="rfvFileType" xml:space="preserve">
+    <value>Only jpg format files supported.</value>
+  </data>
+  <data name="msgError" xml:space="preserve">
+    <value>Failed...!</value>
+  </data>
+  <data name="valDepName" xml:space="preserve">
+    <value>Department Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="valECompanyName" xml:space="preserve">
+    <value>External Company Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="lblCompType1" xml:space="preserve">
+    <value>Individual</value>
+  </data>
+  <data name="lblCompType2" xml:space="preserve">
+    <value>Group</value>
+  </data>
+  <data name="lblCompType3" xml:space="preserve">
+    <value>Sister Company</value>
+  </data>
+  <data name="rfvCompType" xml:space="preserve">
+    <value>Company Type is Required.</value>
+  </data>
+  <data name="rfvCompName" xml:space="preserve">
+    <value>Company Name is Already Exists.</value>
+  </data>
+  <data name="valUserLoggedIN" xml:space="preserve">
+    <value>The Selected User Logged In. Please perform this action when user logs out.</value>
+  </data>
+  <data name="valPrefLang" xml:space="preserve">
+    <value>Please Select Preferred Language!</value>
+  </data>
+  <data name="valUserName" xml:space="preserve">
+    <value>Username should not contain blank spaces.</value>
+  </data>
+  <data name="valUserNameExist" xml:space="preserve">
+    <value>UserName is already exists. Please select another name.</value>
+  </data>
+  <data name="deleteFail" xml:space="preserve">
+    <value>Failed to Delete the Record!</value>
+  </data>
+  <data name="childExists" xml:space="preserve">
+    <value>Child Records Exists!</value>
+  </data>
+  <data name="deletePrev" xml:space="preserve">
+    <value>You Do Not Have Sufficient Previleges.</value>
+  </data>
+  <data name="updateFail" xml:space="preserve">
+    <value>Failed to Update the Record!</value>
+  </data>
+  <data name="changePassSucc" xml:space="preserve">
+    <value>Password Changed Successfully!</value>
+  </data>
+  <data name="changePassFail" xml:space="preserve">
+    <value>Failed to change the password. Check the Old Password..!</value>
+  </data>
+  <data name="lblHelp" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="lblForgotPassword" xml:space="preserve">
+    <value>Forgot Password</value>
+  </data>
+  <data name="lblValidationSummary" xml:space="preserve">
+    <value>Please enter the following information</value>
+  </data>
+  <data name="valLoginFailed" xml:space="preserve">
+    <value>Invalid Login...</value>
+  </data>
+  <data name="valAlreadyLoggedIn" xml:space="preserve">
+    <value>Another user with the same UserName is already logged in...</value>
+  </data>
+  <data name="valLoginDisabled" xml:space="preserve">
+    <value>Your Login is disabled...</value>
+  </data>
+  <data name="valLoginNoRole" xml:space="preserve">
+    <value>No Role Found for the User...</value>
+  </data>
+  <data name="valLoginSystemDown" xml:space="preserve">
+    <value>System Is Down..Please Try After Some Time.</value>
+  </data>
+  <data name="valLoginLoggedin" xml:space="preserve">
+    <value>Another Person Logged in with the same credentials...</value>
+  </data>
+  <data name="lblFooterText1" xml:space="preserve">
+    <value>Browsers : IE 6.0 or Later Versions</value>
+  </data>
+  <data name="lblFooterText2" xml:space="preserve">
+    <value>Recommended Screen Resolution : 1024 by 768 pixels</value>
+  </data>
+  <data name="lblSession1" xml:space="preserve">
+    <value>Note: Your session will expire in</value>
+  </data>
+  <data name="lblSession2" xml:space="preserve">
+    <value>minute(s) if you are idle,</value>
+  </data>
+  <data name="lblSession3" xml:space="preserve">
+    <value>Your session has expired. Please</value>
+  </data>
+  <data name="lblSession4" xml:space="preserve">
+    <value>return to the Login page</value>
+  </data>
+  <data name="lblSession5" xml:space="preserve">
+    <value>and log in again to continue accessing your account.</value>
+  </data>
+  <data name="lblSession6" xml:space="preserve">
+    <value>Session Expired</value>
+  </data>
+  <data name="IA" xml:space="preserve">
+    <value>INVALID ACCESS...</value>
+  </data>
+  <data name="addTSPrevileges" xml:space="preserve">
+    <value>TSPrevileges Record</value>
+  </data>
+  <data name="lblFormName" xml:space="preserve">
+    <value>Form Name</value>
+  </data>
+  <data name="rfvFormName" xml:space="preserve">
+    <value>FormName is Required.</value>
+  </data>
+  <data name="lblAllowView" xml:space="preserve">
+    <value>Allow View</value>
+  </data>
+  <data name="lblAllowAdd" xml:space="preserve">
+    <value>Allow Add</value>
+  </data>
+  <data name="lblAllowEdit" xml:space="preserve">
+    <value>Allow Edit</value>
+  </data>
+  <data name="lblAllowDelete" xml:space="preserve">
+    <value>Allow Delete</value>
+  </data>
+  <data name="gridPrivilegeID" xml:space="preserve">
+    <value>Privilege ID</value>
+  </data>
+  <data name="gridFeature_en" xml:space="preserve">
+    <value>Application Features</value>
+  </data>
+  <data name="gridAllowView" xml:space="preserve">
+    <value>Allow View</value>
+  </data>
+  <data name="gridAllowAdd" xml:space="preserve">
+    <value>Allow Add</value>
+  </data>
+  <data name="gridAllowEdit" xml:space="preserve">
+    <value>Allow Edit</value>
+  </data>
+  <data name="gridAllowDelete" xml:space="preserve">
+    <value>Allow Delete</value>
+  </data>
+  <data name="gridUserName" xml:space="preserve">
+    <value>User Name</value>
+  </data>
+  <data name="rfvUserID" xml:space="preserve">
+    <value>UserID is Required.</value>
+  </data>
+  <data name="gridAuditID" xml:space="preserve">
+    <value>Audit ID</value>
+  </data>
+  <data name="gridActionName" xml:space="preserve">
+    <value>Action Name</value>
+  </data>
+  <data name="gridFunctionName" xml:space="preserve">
+    <value>Function Name</value>
+  </data>
+  <data name="gridActionDate" xml:space="preserve">
+    <value>Action Date</value>
+  </data>
+  <data name="gridAuditTrail" xml:space="preserve">
+    <value>AUDIT TRAIL LIST</value>
+  </data>
+  <data name="gridDashBoard" xml:space="preserve">
+    <value>DashBoard</value>
+  </data>
+  <data name="gridBrowse" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="gridDashBoardCatalog" xml:space="preserve">
+    <value>Dashboard Catalog</value>
+  </data>
+  <data name="gridDashBoardMsg" xml:space="preserve">
+    <value>Add a Web Part to this City by selecting in Catalog.</value>
+  </data>
+  <data name="gridDashBoardLeftZone" xml:space="preserve">
+    <value>Left City</value>
+  </data>
+  <data name="gridDashBoardRightZone" xml:space="preserve">
+    <value>Right City</value>
+  </data>
+  <data name="gridInactiveWebParts" xml:space="preserve">
+    <value>Inactive Web Parts on this Page</value>
+  </data>
+  <data name="gridAddLocationVerification" xml:space="preserve">
+    <value>AddATSLocationVerification</value>
+  </data>
+  <data name="cdrpLoadCompany" xml:space="preserve">
+    <value>Loading Company Names...</value>
+  </data>
+  <data name="cdrpLoadcat" xml:space="preserve">
+    <value>Loading Category Names...</value>
+  </data>
+  <data name="cdrpLoadMed" xml:space="preserve">
+    <value>Loading Mediatype Names...</value>
+  </data>
+  <data name="cdrpLoadDepartment" xml:space="preserve">
+    <value>Loading Department Names...</value>
+  </data>
+  <data name="cdrpLoadWorkspace" xml:space="preserve">
+    <value>Loading Workspace Names...</value>
+  </data>
+  <data name="cdrpLoadLocation" xml:space="preserve">
+    <value>Loading Location Names...</value>
+  </data>
+  <data name="cdrpLoadEmployee" xml:space="preserve">
+    <value>Loading Employee Names...</value>
+  </data>
+  <data name="cdrpSelectCompany" xml:space="preserve">
+    <value>Select Company Name</value>
+  </data>
+  <data name="cdrpSelectCat" xml:space="preserve">
+    <value>Select Category Name</value>
+  </data>
+  <data name="cdrpSelectMed" xml:space="preserve">
+    <value>Select MediaType Name</value>
+  </data>
+  <data name="cdrpSelectDepartment" xml:space="preserve">
+    <value>Select Department Name</value>
+  </data>
+  <data name="cdrpSelectWorkspace" xml:space="preserve">
+    <value>Select Workspace Name</value>
+  </data>
+  <data name="cdrpSelectLocation" xml:space="preserve">
+    <value>Select Location Name</value>
+  </data>
+  <data name="cdrpSelectEmployee" xml:space="preserve">
+    <value>Select Employee Name</value>
+  </data>
+  <data name="cdrpLoadExternalComp" xml:space="preserve">
+    <value>Loading External Company Names...</value>
+  </data>
+  <data name="cdrpLoadContact" xml:space="preserve">
+    <value>Loading Contact Names...</value>
+  </data>
+  <data name="cdrpSelectExternalComp" xml:space="preserve">
+    <value>Select External Company Name</value>
+  </data>
+  <data name="cdrpSelectContact" xml:space="preserve">
+    <value>Select Contact Name</value>
+  </data>
+  <data name="ImageSize" xml:space="preserve">
+    <value>This image should  be  of size  4*4!</value>
+  </data>
+  <data name="auditDeleted" xml:space="preserve">
+    <value>Deleted </value>
+  </data>
+  <data name="auditCreated" xml:space="preserve">
+    <value>Created </value>
+  </data>
+  <data name="auditModified" xml:space="preserve">
+    <value> Modified</value>
+  </data>
+  <data name="addModifyUserPrivileges" xml:space="preserve">
+    <value>Add / Modify User Privileges</value>
+  </data>
+  <data name="lblRenewal" xml:space="preserve">
+    <value>License Renewal</value>
+  </data>
+  <data name="lblLiceFail" xml:space="preserve">
+    <value>License Validation Failed.</value>
+  </data>
+  <data name="rfvOldLic" xml:space="preserve">
+    <value>Old LicenseKey and UserName is required in license renewal.</value>
+  </data>
+  <data name="rfvLicExpired" xml:space="preserve">
+    <value>License Key Expired.</value>
+  </data>
+  <data name="addTABReaderTypes" xml:space="preserve">
+    <value>ReaderTypes Record</value>
+  </data>
+  <data name="lblReaderTypeName" xml:space="preserve">
+    <value>Reader Type Name</value>
+  </data>
+  <data name="rfvReaderTypeName" xml:space="preserve">
+    <value>ReaderTypeName is Required.</value>
+  </data>
+  <data name="lblReaderObject" xml:space="preserve">
+    <value>Reader Object</value>
+  </data>
+  <data name="addTABReaders" xml:space="preserve">
+    <value>TABReaders Record</value>
+  </data>
+  <data name="lblReaderName" xml:space="preserve">
+    <value>Reader Name</value>
+  </data>
+  <data name="rfvReaderName" xml:space="preserve">
+    <value>ReaderName is Required.</value>
+  </data>
+  <data name="lblReaderIPAddr" xml:space="preserve">
+    <value>Reader IP Addr</value>
+  </data>
+  <data name="lblReaderType" xml:space="preserve">
+    <value>Reader Type</value>
+  </data>
+  <data name="lblReaderClass" xml:space="preserve">
+    <value>Reader Class</value>
+  </data>
+  <data name="lblReaderClassName" xml:space="preserve">
+    <value>Reader Class Name</value>
+  </data>
+  <data name="gridRFIDReadID" xml:space="preserve">
+    <value>R FI DRead ID</value>
+  </data>
+  <data name="gridReaderName" xml:space="preserve">
+    <value>Reader Name</value>
+  </data>
+  <data name="gridRFIDRawTagData" xml:space="preserve">
+    <value>R FI DRaw Tag Data</value>
+  </data>
+  <data name="gridStatus" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="gridReadTime" xml:space="preserve">
+    <value>Read Time</value>
+  </data>
+  <data name="lblManageReaders" xml:space="preserve">
+    <value>MANAGE FIXED READERS</value>
+  </data>
+  <data name="lblTagDataList" xml:space="preserve">
+    <value>Tag Data List</value>
+  </data>
+  <data name="lblReaderTypes" xml:space="preserve">
+    <value>MANAGE READER TYPES/CLASSES</value>
+  </data>
+  <data name="lblReaderTypeDetails" xml:space="preserve">
+    <value>Reader Type/Class</value>
+  </data>
+  <data name="lblECompType1" xml:space="preserve">
+    <value>Manufacturer</value>
+  </data>
+  <data name="lblECompType2" xml:space="preserve">
+    <value>Supplier</value>
+  </data>
+  <data name="lblECompType3" xml:space="preserve">
+    <value>Insurance</value>
+  </data>
+  <data name="lblECompType4" xml:space="preserve">
+    <value>Custodian</value>
+  </data>
+  <data name="lblECompType5" xml:space="preserve">
+    <value>LeaseTo</value>
+  </data>
+  <data name="lblECompType6" xml:space="preserve">
+    <value>Maintenance</value>
+  </data>
+  <data name="lblCompanyName" xml:space="preserve">
+    <value>Company Name</value>
+  </data>
+  <data name="lblExternalCompanyName" xml:space="preserve">
+    <value>External Company Name</value>
+  </data>
+  <data name="lblContactPerson" xml:space="preserve">
+    <value>Contact Person</value>
+  </data>
+  <data name="lblEmployeeName" xml:space="preserve">
+    <value>Employee Name</value>
+  </data>
+  <data name="rfvCompanyName" xml:space="preserve">
+    <value>CompanyName is Required.</value>
+  </data>
+  <data name="gridComments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="lblComments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="lblCompanyAssociation" xml:space="preserve">
+    <value>Companies Association</value>
+  </data>
+  <data name="radNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="radYes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="lblReason" xml:space="preserve">
+    <value>Reason</value>
+  </data>
+  <data name="lblLocationName" xml:space="preserve">
+    <value>Location Name</value>
+  </data>
+  <data name="valEmpName" xml:space="preserve">
+    <value>Employee Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="lblYes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="lblNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="valECompContact" xml:space="preserve">
+    <value>Contact Name Already Exists for the selected External Company.</value>
+  </data>
+  <data name="valLocName" xml:space="preserve">
+    <value>Location Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="ManageTDWorkspace" xml:space="preserve">
+    <value>MANAGE CITY</value>
+  </data>
+  <data name="addTDWorkspace" xml:space="preserve">
+    <value>Workspace Record</value>
+  </data>
+  <data name="lblWorkspaceID" xml:space="preserve">
+    <value>City ID</value>
+  </data>
+  <data name="lblWorkspaceName" xml:space="preserve">
+    <value>City Name</value>
+  </data>
+  <data name="rfvWorkspaceName" xml:space="preserve">
+    <value>City Name is Required.</value>
+  </data>
+  <data name="ManageTDDocuments" xml:space="preserve">
+    <value>MANAGE DOCUMENTS</value>
+  </data>
+  <data name="addTDDocuments" xml:space="preserve">
+    <value>Documents Record</value>
+  </data>
+  <data name="addTDDocDeatils" xml:space="preserve">
+    <value>Document Details</value>
+  </data>
+  <data name="addMyDocuments" xml:space="preserve">
+    <value>MANAGE MY DOCUMENTS</value>
+  </data>
+  <data name="addTDDocuments1" xml:space="preserve">
+    <value>Employee-Documents Record</value>
+  </data>
+  <data name="lblDocumentID" xml:space="preserve">
+    <value>Document ID</value>
+  </data>
+  <data name="lblDocumentName" xml:space="preserve">
+    <value>Document Name</value>
+  </data>
+  <data name="rfvDocumentName" xml:space="preserve">
+    <value>DocumentName is Required.</value>
+  </data>
+  <data name="lblFileName" xml:space="preserve">
+    <value>File Name</value>
+  </data>
+  <data name="lblDocumentVer" xml:space="preserve">
+    <value>Document Version</value>
+  </data>
+  <data name="lblAuthor" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="lblCategoryName" xml:space="preserve">
+    <value>Category Name</value>
+  </data>
+  <data name="rfvCategoryID" xml:space="preserve">
+    <value>CategoryID is Required.</value>
+  </data>
+  <data name="lblMediaTypeName" xml:space="preserve">
+    <value>Media Type Name</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="rfvStatus" xml:space="preserve">
+    <value>Status is Required.</value>
+  </data>
+  <data name="rfvCreatedBy" xml:space="preserve">
+    <value>CreatedBy is Required.</value>
+  </data>
+  <data name="lblLastUpdatedBy" xml:space="preserve">
+    <value>Last Updated By</value>
+  </data>
+  <data name="regvalLastUpdatedBy" xml:space="preserve">
+    <value>Numeric value is Required in LastUpdatedBy.</value>
+  </data>
+  <data name="lblCreatedOn" xml:space="preserve">
+    <value>Created On</value>
+  </data>
+  <data name="rfvCreatedOn" xml:space="preserve">
+    <value>CreatedOn is Required.</value>
+  </data>
+  <data name="cvCreatedOn" xml:space="preserve">
+    <value>Invalid date for CreatedOn.</value>
+  </data>
+  <data name="lblUpdatedOn" xml:space="preserve">
+    <value>Updated On</value>
+  </data>
+  <data name="cvUpdatedOn" xml:space="preserve">
+    <value>Invalid date for UpdatedOn.</value>
+  </data>
+  <data name="lblTags" xml:space="preserve">
+    <value>Tags</value>
+  </data>
+  <data name="lblPassiveRFID" xml:space="preserve">
+    <value>Passive RFID</value>
+  </data>
+  <data name="lblBarCode" xml:space="preserve">
+    <value>Bar Code</value>
+  </data>
+  <data name="ManageCategory" xml:space="preserve">
+    <value>MANAGE CATEGORIES/MEDIA TYPE</value>
+  </data>
+  <data name="gridCategoryName" xml:space="preserve">
+    <value>Category Name</value>
+  </data>
+  <data name="rfvCategory" xml:space="preserve">
+    <value>Category is Required.</value>
+  </data>
+  <data name="rfvCategoryName" xml:space="preserve">
+    <value>CategoryName is Required.</value>
+  </data>
+  <data name="rfvMediaTypeNameName" xml:space="preserve">
+    <value>MediaType Name is Required.</value>
+  </data>
+  <data name="addATSCategory" xml:space="preserve">
+    <value>Category/MediaType Record</value>
+  </data>
+  <data name="gridCategoryID" xml:space="preserve">
+    <value>Category ID</value>
+  </data>
+  <data name="valCatName" xml:space="preserve">
+    <value>Category Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="valMTName" xml:space="preserve">
+    <value>Mediatype Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="valWorkSpaceName" xml:space="preserve">
+    <value>WorkSpace Name Already Exists for the selected Department.</value>
+  </data>
+  <data name="rfvUserNameExists" xml:space="preserve">
+    <value>Username Already Exists</value>
+  </data>
+  <data name="SelectOneCatMed" xml:space="preserve">
+    <value> Select One</value>
+  </data>
+  <data name="SelectCatType" xml:space="preserve">
+    <value> Category Type</value>
+  </data>
+  <data name="SelectMedType" xml:space="preserve">
+    <value> Media Type</value>
+  </data>
+  <data name="lblMediaType" xml:space="preserve">
+    <value> Media Type</value>
+  </data>
+  <data name="lblStatusASEmp" xml:space="preserve">
+    <value> Status</value>
+  </data>
+  <data name="lblAssUser" xml:space="preserve">
+    <value> Associate Employee</value>
+  </data>
+  <data name="lblUserNameAs" xml:space="preserve">
+    <value> UserName</value>
+  </data>
+  <data name="statusAssigned" xml:space="preserve">
+    <value>Assigned</value>
+  </data>
+  <data name="rfvStatusTD" xml:space="preserve">
+    <value> Please Select Status</value>
+  </data>
+  <data name="StatusTDCreated" xml:space="preserve">
+    <value>Created</value>
+  </data>
+  <data name="StatusReturned" xml:space="preserve">
+    <value>Returned</value>
+  </data>
+  <data name="rfvComments" xml:space="preserve">
+    <value> Please Enter Comments</value>
+  </data>
+  <data name="FUploaded" xml:space="preserve">
+    <value> The file has been uploaded</value>
+  </data>
+  <data name="sFUploaded" xml:space="preserve">
+    <value> Please select a file to upload</value>
+  </data>
+  <data name="gridWorkspaceName" xml:space="preserve">
+    <value> Workspace Name</value>
+  </data>
+  <data name="lblReaderName1" xml:space="preserve">
+    <value> Reader Name</value>
+  </data>
+  <data name="lblReadTime1" xml:space="preserve">
+    <value> Read Time</value>
+  </data>
+  <data name="lblWorkspaceName1" xml:space="preserve">
+    <value>Workspace Name</value>
+  </data>
+  <data name="sWorkspaceName" xml:space="preserve">
+    <value> City Record</value>
+  </data>
+  <data name="lblDepartmentName1" xml:space="preserve">
+    <value> Department Name</value>
+  </data>
+  <data name="lblUserName1" xml:space="preserve">
+    <value> User Name</value>
+  </data>
+  <data name="lblEmployeeID1" xml:space="preserve">
+    <value> EmployeeID</value>
+  </data>
+  <data name="returndocSuc" xml:space="preserve">
+    <value> Returning Document is successfull</value>
+  </data>
+  <data name="returndocFail" xml:space="preserve">
+    <value> Returning Document is failed</value>
+  </data>
+  <data name="returndocNP" xml:space="preserve">
+    <value> Returning Document is not possible</value>
+  </data>
+  <data name="rfvAssEmp" xml:space="preserve">
+    <value>Please select Associate Employee</value>
+  </data>
+  <data name="ddlCreated" xml:space="preserve">
+    <value>Created</value>
+  </data>
+  <data name="ddlReturned" xml:space="preserve">
+    <value>Returned</value>
+  </data>
+  <data name="ddlCirculated" xml:space="preserve">
+    <value>Circulated</value>
+  </data>
+  <data name="ddlDeleted" xml:space="preserve">
+    <value>Deleted</value>
+  </data>
+  <data name="EditNotPossible" xml:space="preserve">
+    <value>Edit is not Possible</value>
+  </data>
+  <data name="DocMod" xml:space="preserve">
+    <value>Document Assigined To Employee Modified :</value>
+  </data>
+  <data name="DocAss" xml:space="preserve">
+    <value>Document Assigined To Employee Created :</value>
+  </data>
+  <data name="DocRMod" xml:space="preserve">
+    <value>Document Record Modified :</value>
+  </data>
+  <data name="DocRCre" xml:space="preserve">
+    <value>Document Record Created :</value>
+  </data>
+  <data name="ReaderAssociationM" xml:space="preserve">
+    <value>Reader Association Modified :</value>
+  </data>
+  <data name="ReaderAssociationC" xml:space="preserve">
+    <value>Reader Association Created :</value>
+  </data>
+  <data name="AssOn" xml:space="preserve">
+    <value>Associated On</value>
+  </data>
+  <data name="rfvReaderClassName" xml:space="preserve">
+    <value>Reader Class Name is Required.</value>
+  </data>
+  <data name="lblAssociateBy" xml:space="preserve">
+    <value>Associate By</value>
+  </data>
+  <data name="rbnByDepartment" xml:space="preserve">
+    <value>By Section</value>
+  </data>
+  <data name="rbnByEmployee" xml:space="preserve">
+    <value>By Employee</value>
+  </data>
+  <data name="rbnByWorkspace" xml:space="preserve">
+    <value>By City</value>
+  </data>
+  <data name="ManageAssociations" xml:space="preserve">
+    <value>MANAGE ASSOCIATION</value>
+  </data>
+  <data name="AssNotPossible" xml:space="preserve">
+    <value>Association of document for this employee is not possible for Today</value>
+  </data>
+  <data name="BarCode" xml:space="preserve">
+    <value>BarCode</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>CategoryName</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>CreatedBy</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>CreatedOn</value>
+  </data>
+  <data name="DocumentID" xml:space="preserve">
+    <value>DocumentID</value>
+  </data>
+  <data name="DocumentName" xml:space="preserve">
+    <value>DocumentName</value>
+  </data>
+  <data name="FileName" xml:space="preserve">
+    <value>FileName</value>
+  </data>
+  <data name="MediaType" xml:space="preserve">
+    <value>MediaTypeName</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>Tag</value>
+  </data>
+  <data name="After" xml:space="preserve">
+    <value>After</value>
+  </data>
+  <data name="Before" xml:space="preserve">
+    <value>Before</value>
+  </data>
+  <data name="Between" xml:space="preserve">
+    <value>Between</value>
+  </data>
+  <data name="NotOn" xml:space="preserve">
+    <value>NotOn</value>
+  </data>
+  <data name="SearchCondOn" xml:space="preserve">
+    <value>On</value>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="btnRemove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="btnSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="gridSearch" xml:space="preserve">
+    <value>SEARCH</value>
+  </data>
+  <data name="gridBarCode" xml:space="preserve">
+    <value>BarCode</value>
+  </data>
+  <data name="gridCreatedBy" xml:space="preserve">
+    <value>Created By</value>
+  </data>
+  <data name="gridCreatedOn" xml:space="preserve">
+    <value>Created On</value>
+  </data>
+  <data name="gridFileName" xml:space="preserve">
+    <value>File Name</value>
+  </data>
+  <data name="gridMediaTypeName" xml:space="preserve">
+    <value>MediaTypeName</value>
+  </data>
+  <data name="gridPassiveRFID" xml:space="preserve">
+    <value>Passive RFID</value>
+  </data>
+  <data name="gridTag" xml:space="preserve">
+    <value>Tag Name</value>
+  </data>
+  <data name="lblEndDate" xml:space="preserve">
+    <value>End Date</value>
+  </data>
+  <data name="lblFilterBy" xml:space="preserve">
+    <value>Filter By</value>
+  </data>
+  <data name="lblIndexName" xml:space="preserve">
+    <value>Select Field Name</value>
+  </data>
+  <data name="lblNumericOption" xml:space="preserve">
+    <value>Numeric Option</value>
+  </data>
+  <data name="lblSearchBy" xml:space="preserve">
+    <value>Search By</value>
+  </data>
+  <data name="lblStartDate" xml:space="preserve">
+    <value>Start Date</value>
+  </data>
+  <data name="lblStringOption" xml:space="preserve">
+    <value>String Option</value>
+  </data>
+  <data name="rbnBegin" xml:space="preserve">
+    <value>Begins With</value>
+  </data>
+  <data name="rbnContains" xml:space="preserve">
+    <value>Contains</value>
+  </data>
+  <data name="rbnDoesNotContains" xml:space="preserve">
+    <value>Does Not Contains</value>
+  </data>
+  <data name="rbnEndWith" xml:space="preserve">
+    <value>End With</value>
+  </data>
+  <data name="rbnLike" xml:space="preserve">
+    <value>Like</value>
+  </data>
+  <data name="RbnNotLike" xml:space="preserve">
+    <value>Not Like</value>
+  </data>
+  <data name="rbnStartsWith" xml:space="preserve">
+    <value>Starts With</value>
+  </data>
+  <data name="rbnWithAtleastOne" xml:space="preserve">
+    <value>Like</value>
+  </data>
+  <data name="rbnWithExactPhrase" xml:space="preserve">
+    <value>With Exact Word</value>
+  </data>
+  <data name="rbnWithout" xml:space="preserve">
+    <value>Without the Word</value>
+  </data>
+
+  <data name="CompareDates" xml:space="preserve">
+<value>The End Date Should be Greater than Start Date</value>
+</data>
+
+  <data name="rfvStartDate" xml:space="preserve">
+<value>Please Select the Start Date</value>
+</data>
+
+  <data name="rfvDocumetID" xml:space="preserve">
+<value>Please Enter Number</value>
+</data>
+
+  <data name="rfvIndexName" xml:space="preserve">
+<value>Please Select Field Name</value>
+</data>
+
+
+  <data name="lblReaderType" xml:space="preserve">
+<value>Reader Type</value>
+</data>
+
+  <data name="valOne" xml:space="preserve">
+<value>IN</value>
+</data>
+  <data name="valNone" xml:space="preserve">
+<value>NONE</value>
+</data>
+  <data name="valOut" xml:space="preserve">
+<value>OUT</value>
+</data>
+  <data name="lblReadType" xml:space="preserve">
+  <value>Select Read Type</value>
+  </data>
+  <data name="gridRelation" xml:space="preserve">
+  <value>Relation</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+	<value>Home</value>
+</data>
+  <data name="gridManageUserPrivileges" xml:space="preserve">
+	<value>MANAGE USER PRIVILEGES</value>
+</data>
+  <data name="lblCompanyImage" xml:space="preserve">
+	<value>Company Image</value>
+</data>
+  <data name="forgotPwdmsg1" xml:space="preserve">
+    <value>Please enter your user Name below. Your password will be sent to the email address on file.</value>
+  </data>
+  <data name="forgotPwdmsg2" xml:space="preserve">
+    <value>If you experience problems receiving your password, or your email address has changed from the one on file, please contact administrator.</value>
+  </data>
+  <data name="CloseWindow" xml:space="preserve">
+    <value>Close Window</value>
+  </data>
+  <data name="RequiredFields" xml:space="preserve">
+    <value>Required Fields</value>
+  </data>
+  <data name="SendIT" xml:space="preserve">
+    <value>Send It</value>
+  </data>
+  <data name="InvalidUserName" xml:space="preserve">
+    <value>Invalid UserName</value>
+  </data>
+  <data name="FailedResetPassword" xml:space="preserve">
+    <value>Failed to Reset the Password.</value>
+  </data>
+  <data name="NewPasswordsent" xml:space="preserve">
+    <value>New Password has been sent.</value>
+  </data>
+  <data name="gridPassword" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="gridReason" xml:space="preserve">
+    <value>Reason</value>
+  </data>
+  <data name="seleUserName" xml:space="preserve">
+    <value>Please Select User Name</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+	<value>Add</value>
+</data>
+  <data name="DisableUser" xml:space="preserve">
+	<value>User Disabled Successfully!</value>
+</data>
+  <data name="EnableUser" xml:space="preserve">
+	<value>User Enabled Successfully!</value>
+</data>
+  <data name="deletePrevAdmin" xml:space="preserve">
+    <value>The Administrator records cannot be deleted.</value>
+  </data>
+  <data name="changePassSucc" xml:space="preserve">
+    <value>Password Changed Successfully!</value>
+  </data>
+  <data name="changePassFail" xml:space="preserve">
+    <value>Failed to change the password. Check the Old Password..!</value>
+  </data>
+  <data name="lblTrue" xml:space="preserve">
+	<value>True</value>
+</data>
+  <data name="lblFalse" xml:space="preserve">
+	<value>False</value>
+</data>
+  <data name="lblNA" xml:space="preserve">
+	<value>NA</value>
+</data>
+  <data name="lblClickLogin" xml:space="preserve">
+	<value>Login</value>
+</data>
+  <data name="gridReadType" xml:space="preserve">
+	<value>Read Type</value>
+</data>
+  <data name="lblDoc" xml:space="preserve">
+	<value>Document</value>
+</data>
+  <data name="advsearchReq" xml:space="preserve">
+	<value>Please select Search Field.</value>
+</data>
+  <data name="simpsearchReq" xml:space="preserve">
+	<value>Please Enter Search Value.</value>
+</data>
+  <data name="dtFormat" xml:space="preserve">
+	<value> Should be date format.</value>
+</data>
+  <data name="numFormat" xml:space="preserve">
+	<value> Should be number format.</value>
+</data>
+  <data name="strFormat" xml:space="preserve">
+	<value> Required.</value>
+</data>
+  <data name="SearchCondAnd" xml:space="preserve">
+	<value>And</value>
+</data>
+  <data name="SearchCondOr" xml:space="preserve">
+	<value>Or</value>
+</data>
+  <data name="valReaderName" xml:space="preserve">
+    <value>Reader Name Already Exists.</value>
+  </data>
+  <data name="valReaderType" xml:space="preserve">
+    <value>Reader Type Name Already Exists.</value>
+  </data>
+  <data name="valReaderClass" xml:space="preserve">
+    <value>Reader Class Name Already Exists.</value>
+  </data>
+  <data name="LocationListReport" xml:space="preserve">
+	<value>LOCATION LIST REPORT</value>
+</data>
+  <data name="ExternalCompanyAndContactsReport" xml:space="preserve">
+	<value>EXTERNAL COMPANY AND CONTACTS REPORT</value>
+</data>
+  <data name="EmployeeDetailsReport" xml:space="preserve">
+	<value>EMPLOYEE DETAILS REPORT</value>
+</data>
+  <data name="ShowReport" xml:space="preserve">
+	<value> Show Report </value>
+</data>
+  <data name="EmployeeReport" xml:space="preserve">
+    <value>Employees Report</value>
+  </data>
+  <data name="gridEmpReport" xml:space="preserve">
+    <value>Document Details By Employee Report</value>
+  </data>
+  <data name="lblEmp" xml:space="preserve">
+    <value>Employee</value>
+  </data>
+  <data name="ShowReport" xml:space="preserve">
+    <value>Show Report</value>
+  </data>
+  <data name="gridRfidReadings" xml:space="preserve">
+    <value>Document By RFID Readings</value>
+  </data>
+  <data name="lblDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="lblRange" xml:space="preserve">
+    <value>Range</value>
+  </data>
+  <data name="lblFrom" xml:space="preserve">
+    <value>From :</value>
+  </data>
+  <data name="lblTo" xml:space="preserve">
+    <value>To :</value>
+  </data>
+  <data name="gridstatusrpt" xml:space="preserve">
+    <value>Document Details By Status Report</value>
+  </data>
+  <data name="gridWorkspacerpt" xml:space="preserve">
+    <value>Document Details By City Report</value>
+  </data>
+  <data name="lblID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="ErrReadType" xml:space="preserve">
+    <value>Please Select read Type</value>
+  </data>
+  <data name="ErrDepName" xml:space="preserve">
+    <value>Please Select Department Name</value>
+  </data>
+  <data name="ErrWorName" xml:space="preserve">
+    <value>Please Select City Name</value>
+  </data>
+  <data name="ErrEmpName" xml:space="preserve">
+    <value>Please Select Employee Name</value>
+  </data>
+  <data name="ErrRelation" xml:space="preserve">
+    <value>Please Select Relation</value>
+  </data>
+  <data name="lblReaderTypeID" xml:space="preserve">
+    <value>Reader Type ID</value>
+  </data>
+  <data name="lblReaderDetailType" xml:space="preserve">
+    <value>ReaderDetailsType</value>
+  </data>
+  <data name="StatusDeleted" xml:space="preserve">
+    <value>Deleted</value>
+  </data>
+  <data name="StatusCirculated" xml:space="preserve">
+    <value>Circulated</value>
+  </data>
+  <data name="AuditDocDelete" xml:space="preserve">
+    <value>Document Record Deleted:</value>
+  </data>
+  <data name="advSearch" xml:space="preserve">
+    <value>Advanced Search</value>
+  </data>
+  <data name="simpSearch" xml:space="preserve">
+    <value>Simple Search</value>
+  </data>
+  <data name="addToSearch" xml:space="preserve">
+    <value>Add to Search</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>DOCUMENT SEARCH RESULTS</value>
+  </data>
+  <data name="searchValue" xml:space="preserve">
+    <value>Value</value>
+  </data>
+  <data name="DocumentsGraph" xml:space="preserve">
+    <value>Documents Graph</value>
+  </data>
+  <data name="DocumentsByStatus" xml:space="preserve">
+    <value>Documents By Status</value>
+  </data>
+  <data name="graphDocuments" xml:space="preserve">
+    <value>Documents by Top 10 Categories</value>
+  </data>
+  <data name="NumberDocuments" xml:space="preserve">
+    <value>Number of Documents</value>
+  </data>
+  <data name="graphDocumentsByCatAll" xml:space="preserve">
+    <value>Documents by Top 10 Categories For All Companies</value>
+  </data>
+  <data name="addAssocation" xml:space="preserve">
+    <value>ADD ASSOCIATION</value>
+  </data>
+  <data name="enterIP" xml:space="preserve">
+    <value>Please Enter IP Adress</value>
+  </data>
+  <data name="enterIPInvalid" xml:space="preserve">
+    <value>Invalid IP Address</value>
+  </data>
+  <data name="eg" xml:space="preserve">
+    <value>Ex.</value>
+  </data>
+  <data name="AssignEmployee" xml:space="preserve">
+    <value>Assign Employee</value>
+  </data>
+  <data name="ReturnDocument" xml:space="preserve">
+    <value>Move Document</value>
+  </data>
+  <data name="lblRFIDReadings" xml:space="preserve">
+<value>MANAGE RFID READINGS</value>
+</data>
+  <data name="rbnAll" xml:space="preserve">
+<value>All</value>
+</data>
+  <data name="rbnIn" xml:space="preserve">
+<value>In</value>
+</data>
+  <data name="rbnOut" xml:space="preserve">
+<value>Out</value>
+</data>
+  <data name="rbnNone" xml:space="preserve">
+<value>None</value>
+</data>
+  <data name="lblUpdateType" xml:space="preserve">
+<value>Update Type</value>
+</data>
+  <data name="rbnBulk" xml:space="preserve">
+<value>Bulk</value>
+</data>
+  <data name="rbnIndividual" xml:space="preserve">
+<value>Individual</value>
+</data>
+  <data name="DocTransID" xml:space="preserve">
+<value>ID</value>
+</data>
+  <data name="LocationType" xml:space="preserve">
+<value>Location Type</value>
+</data>
+  <data name="RFIDRawTagData" xml:space="preserve">
+<value>Tag Data</value>
+</data>
+  <data name="rfvCheckBoxChecked" xml:space="preserve">
+<value>Please Check atleast one in the grid</value>
+</data>
+  <data name="WorkspaceDetailsReport" xml:space="preserve">
+    <value>DOCUMENT DETAILS BY CITY REPORT</value>
+  </data>
+  <data name="StatusDetailsReport" xml:space="preserve">
+    <value>DOCUMENT DETAILS REPORT</value>
+  </data>
+  <data name="RFIDReadingsReportDetailsReport" xml:space="preserve">
+    <value>DOCUMENT DETAILS BY RFID REPORT</value>
+  </data>
+  <data name="DocumentByEmployeeDetailsReport" xml:space="preserve">
+    <value>DOCUMENT BY EMPLOYEE REPORT</value>
+  </data>
+  <data name="lblLogicalDeviceList" xml:space="preserve">
+	<value>LOGICAL DEVICE LIST</value>
+</data>
+  <data name="lblCheckHere" xml:space="preserve">
+	<value>Check Here</value>
+</data>
+  <data name="lblReadType" xml:space="preserve">
+	<value>Read Type </value>
+</data>
+
+  <data name="lblFilterBy" xml:space="preserve">
+	<value>Filter By</value>
+</data>
+
+  <data name="ManageTABLogocalDevice" xml:space="preserve">
+	<value>MANAGE LOGICAL DEVICE</value>
+</data>
+  <data name="addTABLogocalDevice" xml:space="preserve">
+	<value>LogicalDevice Record</value>
+</data>
+  <data name="lblReaderName" xml:space="preserve">
+    <value>Reader Name</value>
+  </data>
+  <data name="BackToFixedReaders" xml:space="preserve">
+	<value> Back To Fixed Readers</value>
+</data>
+  <data name="UploadFile" xml:space="preserve">
+	<value> Upload</value>
+</data>
+  <data name="rfvReaderID" xml:space="preserve">
+	<value>ReaderID is Required.</value>
+</data>
+  <data name="rfvCPass" xml:space="preserve">
+<value>Please Enter Username,Password and Confirm Password</value>
+</data>
+  <data name="rfvLogicalDeviceName" xml:space="preserve">
+<value>Device Name is Required.</value>
+</data>
+  <data name="lblDeviceName" xml:space="preserve">
+	<value>Device Name</value>
+</data>
+  <data name="rfvReadType" xml:space="preserve">
+<value>ReadType is Required.</value>
+</data>
+
+  <data name="rfvAntennaID" xml:space="preserve">
+	<value>AntennaID is Required.</value>
+</data>
+  <data name="rfvPrevAntennaValue" xml:space="preserve">
+	<value>Previous Antenna Support is Greater than Present Given Value</value>
+</data>
+  <data name="rfvFieldsNoDelete" xml:space="preserve">
+	<value>Required Files will not be Deleted</value>
+</data>
+
+  <data name="ManageRaeders" xml:space="preserve">
+	<value>MANAGE READERS</value>
+</data>
+  <data name="PropertyID" xml:space="preserve">
+	<value>PropertyID</value>
+</data>
+  <data name="PropertyName" xml:space="preserve">
+	<value>Property Name </value>
+</data>
+  <data name="xmlOPTIONAL" xml:space="preserve">
+    <value>OPTIONAL</value>
+  </data>
+  <data name="PropertyValue" xml:space="preserve">
+	<value>Property Value</value>
+</data>
+  <data name="lblReaderID" xml:space="preserve">
+	<value>Reader ID</value>
+</data>
+  <data name="rfvyes" xml:space="preserve">
+	<value>YES</value>
+</data>
+  <data name="rfvno" xml:space="preserve">
+	<value>NO</value>
+</data>
+  <data name="addTABAntennaProperties" xml:space="preserve">
+	<value>TABAntennaProperties Record</value>
+</data>
+  <data name="TABReadersList" xml:space="preserve">
+	<value>READERS LIST</value>
+</data>
+  <data name="TABReaderPropertiesRecord" xml:space="preserve">
+	<value>Reader Record</value>
+</data>
+  <data name="ReaderProperties" xml:space="preserve">
+	<value>Reader Properties</value>
+</data>
+  <data name="lblReqOpt" xml:space="preserve">
+	<value>Required/Optional</value>
+</data>
+  <data name="lblExample" xml:space="preserve">
+	<value>Example</value>
+</data>
+  <data name="lblAntennaProperties" xml:space="preserve">
+	<value>Antenna Properties</value>
+</data>
+  <data name="rfvFileTypexml" xml:space="preserve">
+    <value>Only XML format files supported</value>
+  </data>
+  <data name="rfvUpFile" xml:space="preserve">
+    <value>Uploading File Should not be empty</value>
+  </data>
+  <data name="xmlANTENNACONFIG" xml:space="preserve">
+    <value>ANTENNACONFIG</value>
+  </data>
+  <data name="xmlANTENNACONFIGYesNo" xml:space="preserve">
+    <value>AntennaConfig value is Should be 'Yes' or 'No'</value>
+  </data>
+  <data name="xmlANTENNASUPPORT" xml:space="preserve">
+    <value>ANTENNASUPPORT</value>
+  </data>
+
+  <data name="xmlANTENNASUPPORTErr" xml:space="preserve">
+    <value>AntennaSupport value Should be Greater than or Equal to 0</value>
+  </data>
+
+  <data name="xmlREQUIRED" xml:space="preserve">
+    <value>REQUIRED</value>
+  </data>
+  <data name="xmlREQUIREDErr" xml:space="preserve">
+    <value>Required values for Reader are Compulsory</value>
+  </data>
+  <data name="xmlANTENNACONFIGErr" xml:space="preserve">
+    <value>AntennaConfig value is Compulsory if AntennaSupport value is greater than Zero</value>
+  </data>
+
+  <data name="xmlANTENNACONFIGErr0" xml:space="preserve">
+    <value>AntennaConfig value should be 'No' if AntennaSupport value is equal to zero</value>
+  </data>
+
+  <data name="xmlANTENNACONFIGErr1" xml:space="preserve">
+    <value>AntennaConfig value should be 'Yes' if AntennaSupport value is greater then zero</value>
+  </data>
+
+  <data name="tblPropertyName" xml:space="preserve">
+	<value>PropertyName</value>
+</data>
+  <data name="tblPropertyValue" xml:space="preserve">
+	<value>PropertyValue</value>
+</data>
+  <data name="tblPropertyValue1" xml:space="preserve">
+	<value>PropertyValue1</value>
+</data>
+  <data name="tblRequOpt" xml:space="preserve">
+	<value>RequOpt</value>
+</data>
+  <data name="tblTRLAntID" xml:space="preserve">
+	<value>TRLAntID</value>
+</data>
+  <data name="xmlWrongXML" xml:space="preserve">
+	<value>InCorrect Syntax Xml File Uploaded.. Please Upload Correct Syntax Xml</value>
+</data>
+  <data name="xmlREADERPARAMS" xml:space="preserve">
+	<value>READERPARAMS</value>
+</data>
+  <data name="xmlREADERPARAMScaps" xml:space="preserve">
+	<value>All XML tags for READERPARAMS should be in capital letters</value>
+</data>
+  <data name="xmlAntennaSupportTagErr" xml:space="preserve">
+	<value>AntennaSupport Tag is not there in Required Field in XML file</value>
+</data>
+  <data name="xmlAntennaConfigTagErr" xml:space="preserve">
+	<value>AntennaConfig Tag is Mandatory if AntennaSupport is Greater than '0'</value>
+</data>
+
+
+  <data name="xmlANTENNA" xml:space="preserve">
+	<value>ANTENNA</value>
+</data>
+  <data name="lblAntennaPropertiesList" xml:space="preserve">
+	<value>AntennaProperties List</value>
+</data>
+  <data name="lblManageTABAntennaProperties" xml:space="preserve">
+	<value>Manage Antenna Properties</value>
+</data>
+  <data name="lblTABAntennaPropertiesRecord" xml:space="preserve">
+	<value>AntennaPropertiesRecord</value>
+</data>
+
+  <data name="lblAntennaID" xml:space="preserve">
+	<value>Antenna ID</value>
+</data>
+  <data name="lblPropertyName" xml:space="preserve">
+	<value>Property Name</value>
+</data>
+  <data name="lblPropertyValue" xml:space="preserve">
+	<value>Property Value</value>
+</data>
+  <data name="lblReaderConfiFile" xml:space="preserve">
+	<value>Reader Config File</value>
+</data>
+  <data name="lblAntennaSupport" xml:space="preserve">
+	<value>Antenna Support</value>
+</data>
+
+
+  <data name="lblAntennaConfig" xml:space="preserve">
+	<value>Antenna Config</value>
+</data>
+  <data name="rfvPropertyName" xml:space="preserve">
+	<value>PropertyName is Required.</value>
+</data>
+  <data name="rfvPropertyValue" xml:space="preserve">
+	<value>PropertyValue is Required.</value>
+</data>
+
+
+
+
+  <data name="gridLogicalDeviceID" xml:space="preserve">
+    <value>Logical Device ID</value>
+  </data>
+
+  <data name="gridDeviceName" xml:space="preserve">
+    <value>Device Name</value>
+  </data>
+
+  <data name="gridSource" xml:space="preserve">
+    <value>Source</value>
+  </data>
+
+  <data name="gridReaderName" xml:space="preserve">
+    <value>Reader Name</value>
+  </data>
+
+  <data name="gridAntennaID" xml:space="preserve">
+    <value>Antenna ID</value>
+  </data>
+
+  <data name="gridRelation" xml:space="preserve">
+    <value>Relation</value>
+  </data>
+
+  <data name ="lblAntenna" xml:space ="preserve ">
+    <value>Avialable Antennas</value>
+  </data>
+
+  <data name="lblLogicalDevice" xml:space="preserve">
+    <value>Logical Device</value>
+  </data>
+  <data name="addTDWorkflow" xml:space="preserve">
+	<value>Workflow Record</value>
+</data>
+  <data name="lblWorkFlowName" xml:space="preserve">
+	<value>Work Flow Name</value>
+</data>
+  <data name="rfvWorkFlowName" xml:space="preserve">
+	<value>WorkFlowName is Required.</value>
+</data>
+  <data name="lblDescription" xml:space="preserve">
+	<value>Description</value>
+</data>
+  <data name="addTDStages" xml:space="preserve">
+	<value>Stages Record</value>
+</data>
+  <data name="lblStageName" xml:space="preserve">
+	<value>Stage Name</value>
+</data>
+  <data name="rfvStageName" xml:space="preserve">
+	<value>StageName is Required.</value>
+</data>
+  <data name="lblWorkFlowName" xml:space="preserve">
+	<value>Work Flow Name</value>
+</data>
+  <data name="rfvWorkflowID" xml:space="preserve">
+	<value>Workflow is Required.</value>
+</data>
+  <data name="lblNotes" xml:space="preserve">
+	<value>Notes</value>
+</data>
+  <data name="lblStageID" xml:space="preserve">
+	<value>Stage ID</value>
+</data>
+  <data name="lblWorkflowID" xml:space="preserve">
+	<value>Workflow ID</value>
+</data>
+  <data name="ManageTDWorkflow" xml:space="preserve">
+	<value>MANAGE WORKFLOWS</value>
+</data>
+  <data name="ManageTDStages" xml:space="preserve">
+	<value>WORKFLOW STAGES</value>
+</data>
+  <data name="ManageTDStagesRelations" xml:space="preserve">
+	<value>WORKFLOW MAP</value>
+</data>
+  <data name="rfvNextStageID" xml:space="preserve">
+	<value>NextStageID is Required.</value>
+</data>
+  <data name="lblNextStageID" xml:space="preserve">
+	<value>Next Stage ID</value>
+</data>
+  <data name="lblNextStageName" xml:space="preserve">
+	<value>Next Stage Name</value>
+</data>
+  <data name="lblBackWorkflow" xml:space="preserve">
+	<value>Back To WorkFlow</value>
+</data>
+  <data name="lblStartingStage" xml:space="preserve">
+	<value>Starting Stage</value>
+</data>
+  <data name="workflowMapErr" xml:space="preserve">
+	<value>There is a Problem with </value>
+</data>
+  <data name="workflowMapErr1" xml:space="preserve">
+	<value>Validation should be done first</value>
+</data>
+  <data name="WorkflowProcess1" xml:space="preserve">
+	<value>Process</value>
+</data>
+  <data name="WorkflowProcess2" xml:space="preserve">
+	<value>Start</value>
+</data>
+  <data name="WorkflowProcess3" xml:space="preserve">
+	<value>Pause</value>
+</data>
+  <data name="WorkflowProcess4" xml:space="preserve">
+	<value>End</value>
+</data>
+  <data name="WorkflowProcess5" xml:space="preserve">
+	<value>Synchronized</value>
+</data>
+  <data name="valWorkflowName" xml:space="preserve">
+    <value>Workflow Name Already Exists for the selected Company.</value>
+  </data>
+
+
+  <data name="WorkflowByStatesReport" xml:space="preserve">
+    <value>WORKFLOW BY STAGES</value>
+  </data>
+
+  <data name="WorkflowByDocumentReport" xml:space="preserve">
+    <value>DOCUMENT FROM WORKFLOW REPORT</value>
+  </data>
+
+  <data name="WorkflowAgainstByDocumentReport" xml:space="preserve">
+    <value>WORKFLOW AGAINST DOCUMENT</value>
+  </data>
+
+  <data name="NoWorkflowByDocumentReport" xml:space="preserve">
+    <value>DOCUMENTS BY WITHOUT WORKFLOW</value>
+  </data>
+
+  <data name="DocumentAgainstWorkflowReport" xml:space="preserve">   
+  <value>DOCUMENTS AGAINST  WORKFLOW REPORT</value>
+  </data>
+
+  <data name="NoRecordWorkflow" xml:space="preserve">        
+    <value>This workflow doesn’t have stages</value>
+  </data>
+
+  <data name="WorkflowExistsEmployee" xml:space="preserve">        
+    <value>Workflow exists for the selected Employee.. Edit is not possible</value>
+  </data>
+
+  <data name="WorkflowExistsUser" xml:space="preserve">        
+    <value>Workflow exists for the selected User.. Delete is not possible</value>
+  </data>
+
+  <data name="WorkflowExistsDepartment" xml:space="preserve">        
+    <value>Workflow exists for the selected Department.. Delete is not possible</value>
+  </data>
+
+
+  <data name="lblNextStage" xml:space="preserve">        
+    <value>Next Stage</value>
+  </data>
+  <data name="lblIntialStage" xml:space="preserve">        
+    <value>Select Initial Stage</value>
+  </data>
+
+  <data name="rfvWorkflowStagesEdit" xml:space="preserve">        
+    <value>Workflow Exists in Document.. Edit is not possible</value>
+  </data>
+
+  <data name="rfvWorkflowStagesDelete" xml:space="preserve">        
+    <value>Workflow Exists in Document.. Delete is not possible</value>
+  </data>
+
+
+  <data name="lblDSAlerrtID" xml:space="preserve">        
+    <value>AlertID</value>
+  </data>
+  <data name="lblDSAlerStatus" xml:space="preserve">        
+    <value>Alert Status</value>
+  </data>
+  <data name="lblDSWorkflowStatus" xml:space="preserve">        
+    <value>Workflow Status</value>
+  </data>
+  <data name="lblDSAWorkflowStatus" xml:space="preserve">        
+    <value>Present Read Location</value>
+  </data>
+  <data name="lblDSDocAlerts" xml:space="preserve">        
+    <value>Document Alerts</value>
+  </data>
+  <data name="rfvStageExists" xml:space="preserve">        
+    <value>Stage Name Already Exists for this Workflow</value>
+  </data>
+  <data name="rfvDepEmpStage" xml:space="preserve">        
+    <value>Please Select Section or Employees</value>
+  </data>
+
+  <data name="rfvtwostages" xml:space="preserve">        
+    <value>At least two stages to be created</value>
+  </data>
+
+  <data name="lblGridAction" xml:space="preserve">        
+    <value>Action</value>
+  </data>
+  <data name="lblGridSyncFlag" xml:space="preserve">        
+    <value>SyncFlag</value>
+  </data>
+  <data name="btnPreview" xml:space="preserve">        
+    <value>Preview</value>
+  </data>
+  <data name="msgDocumentMoved" xml:space="preserve">        
+    <value>Document is already moved.</value>
+  </data>
+
+  <data name="lblPreviousStageG" xml:space="preserve">        
+    <value>Previous Stage</value>
+  </data>
+  <data name="lblNextStageG" xml:space="preserve">        
+    <value>Next Stage</value>
+  </data>
+  <data name="lblCommnetsG" xml:space="preserve">        
+    <value>Comments</value>
+  </data>
+  <data name="btnCloseG" xml:space="preserve">        
+    <value>Close</value>
+  </data>
+  <data name="rfvnextprevstages" xml:space="preserve">        
+    <value>Please Select Next or Previous Stage</value>
+  </data>
+  <data name="rfvcommentsgrid" xml:space="preserve">        
+    <value>Comments can't be Blank</value>
+  </data>
+  <data name="lblCommnetsGR" xml:space="preserve">        
+    <value>Comments on Document Movement</value>
+  </data>
+
+  <data name="lblErrSerach1" xml:space="preserve">        
+    <value>Please select one of the Field Name</value>
+  </data>
+  <data name="lblActivityID" xml:space="preserve">        
+    <value>ActivityID</value>
+  </data>
+
+  <data name="lblOutofWorkflow" xml:space="preserve">        
+    <value>OUT OF WORKFLOW</value>
+  </data>
+  <data name="lblInvalidMovement" xml:space="preserve">        
+    <value>INVALID MOVEMENT</value>
+  </data>
+  <data name="lblInvalidEntry" xml:space="preserve">        
+    <value>INVALID ENTRY</value>
+  </data>
+  <data name="lblInvalidExit" xml:space="preserve">        
+    <value>INVALID EXIT</value>
+  </data>
+
+
+
+
+  <data name="addTDRoom" xml:space="preserve">
+	<value>TDRoom Record</value>
+</data>
+  <data name="lblRoomName" xml:space="preserve">
+	<value>Room Name</value>
+</data>
+  <data name="rfvRoomName" xml:space="preserve">
+	<value>RoomName is Required.</value>
+</data>
+  <data name="lblRoomCode" xml:space="preserve">
+	<value>Room Code</value>
+</data>
+  <data name="lblRoomDescription" xml:space="preserve">
+	<value>Room Description</value>
+</data>
+  <data name="lblPassiveRFID" xml:space="preserve">
+	<value>Passive RFID</value>
+</data>
+  <data name="lblBarCode" xml:space="preserve">
+	<value>Bar Code</value>
+</data>
+  <data name="lblLocationName" xml:space="preserve">
+	<value>Location Name</value>
+</data>
+  <data name="rfvLocationID" xml:space="preserve">
+	<value>LocationID is Required.</value>
+</data>
+  <data name="ManageTDRoom" xml:space="preserve">
+	<value>MANAGE ROOMS</value>
+</data>
+  <data name="gridRoomID" xml:space="preserve">
+	<value>RoomID</value>
+</data>
+
+
+
+  <data name="addTDRack" xml:space="preserve">
+	<value>TDRack Record</value>
+</data>
+  <data name="lblRackName" xml:space="preserve">
+	<value>Rack Name</value>
+</data>
+  <data name="rfvRackName" xml:space="preserve">
+	<value>RackName is Required.</value>
+</data>
+  <data name="lblRackCode" xml:space="preserve">
+	<value>Rack Code</value>
+</data>
+  <data name="lblRowNumber" xml:space="preserve">
+	<value>Row Number</value>
+</data>
+  <data name="regvalRowNumber" xml:space="preserve">
+	<value>Numeric value is Required in RowNumber.</value>
+</data>
+  <data name="lblRoomName" xml:space="preserve">
+	<value>Room Name</value>
+</data>
+  <data name="rfvRoomID" xml:space="preserve">
+	<value>RoomID is Required.</value>
+</data>
+  <data name="gridRackID" xml:space="preserve">
+	<value>RackID</value>
+</data>
+  <data name="addTDShelf" xml:space="preserve">
+	<value>TDShelf Record</value>
+</data>
+  <data name="lblShelfName" xml:space="preserve">
+	<value>Shelf Name</value>
+</data>
+  <data name="rfvShelfName" xml:space="preserve">
+	<value>ShelfName is Required.</value>
+</data>
+  <data name="lblShelfCode" xml:space="preserve">
+	<value>Shelf Code</value>
+</data>
+  <data name="lblPassiveRFID" xml:space="preserve">
+	<value>Passive RFID</value>
+</data>
+  <data name="lblBarCode" xml:space="preserve">
+	<value>Bar Code</value>
+</data>
+  <data name="lblRackName" xml:space="preserve">
+	<value>Rack Name</value>
+</data>
+  <data name="rfvRackID" xml:space="preserve">
+	<value>RackID is Required.</value>
+</data>
+
+  <data name="addTDShelf" xml:space="preserve">
+	<value>TDShelf Record</value>
+</data>
+  <data name="lblShelfName" xml:space="preserve">
+	<value>Shelf Name</value>
+</data>
+  <data name="rfvShelfName" xml:space="preserve">
+	<value>ShelfName is Required.</value>
+</data>
+  <data name="lblShelfCode" xml:space="preserve">
+	<value>Shelf Code</value>
+</data>
+  <data name="gridShelfID" xml:space="preserve">
+	<value>ShelfID</value>
+</data>
+
+
+
+
+
+  <data name="lbBackToLocation" xml:space="preserve">
+	<value>Back To Location</value>
+</data>
+  <data name="lbAddNewRoom" xml:space="preserve">
+	<value>Add New Room</value>
+</data>
+  <data name="gridAddNewRackName" xml:space="preserve">
+	<value>Add New Rack</value>
+</data>
+  <data name="gridAddNewShelfName" xml:space="preserve">
+	<value>Add New Shelf</value>
+</data>
+
+
+
+  <data name="lblRoomDetails" xml:space="preserve">
+	<value>Room Details</value>
+</data>
+  <data name="lblRackDetails" xml:space="preserve">
+	<value>Rack Details</value>
+</data>
+  <data name="lblShelfDetails" xml:space="preserve">
+	<value>Shelf Details</value>
+</data>
+
+
+  <data name="rfvRoomNameExists" xml:space="preserve">
+	<value>Room Name Exists for this location</value>
+</data>
+  <data name="rfvRackNameExists" xml:space="preserve">
+	<value>Rack Name Exists for this Room</value>
+</data>
+  <data name="rfvShelfNameExists" xml:space="preserve">
+	<value>Shelf Name Exists for this Rack</value>
+</data>
+
+
+  <data name="lblCHECKIN" xml:space="preserve">
+	<value>Check-In</value>
+</data>
+  <data name="lblCHECKOUT" xml:space="preserve">
+	<value>Check-Out</value>
+</data>
+  <data name="lblMISSING" xml:space="preserve">
+	<value>MISSING</value>
+</data>
+  <data name="lblARCHIVE" xml:space="preserve">
+	<value>ARCHIVE</value>
+</data>
+  <data name="lblDAMAGED" xml:space="preserve">
+	<value>DAMAGED</value>
+</data>
+  <data name="lblDocumentByShelfRep" xml:space="preserve">
+	<value>DOCUMENTS Vs SHELF</value>
+</data>
+  <data name="StatusTDOnHold" xml:space="preserve">
+    <value>On-Hold</value>
+  </data>
+  <data name="StatusTDInProgress" xml:space="preserve">
+    <value>In-Progress</value>
+  </data>
+  <data name="StatusTDClosed" xml:space="preserve">
+    <value>Closed</value>
+  </data>
+  <data name="lblBiztalkReaderEdit" xml:space="preserve">
+    <value>Biztalk Related readers are not editable</value>
+  </data>
+  <data name="lblBiztalkReaderDelete" xml:space="preserve">
+    <value>Biztalk Related readers cannot be deleted.</value>
+  </data>
+  <data name="docCheckinDelete" xml:space="preserve">        
+    <value>Only CheckIn status records can be deleted.</value>
+  </data>
+  <data name="gridWorkSpace" xml:space="preserve">
+    <value>WorkSpace</value>
+  </data>
+  <data name="lblDocumentNo" xml:space="preserve">
+    <value>Document No</value>
+  </data>
+  <data name="valPassiveRFID" xml:space="preserve">
+	<value>Passive RFID can not be greater than 24 characters.</value>
+</data>
+
+
+
+
+  <data name="lblcasenoyr" xml:space="preserve">
+	<value>Case(No/Year)</value>
+</data>
+  <data name="lblcasenoyrRFV" xml:space="preserve">
+	<value>Please enter Case (No/Year)</value>
+</data>
+  <data name="lbljoballo" xml:space="preserve">
+	<value>Job Allocation No</value>
+</data>
+  <data name="lblcasetype" xml:space="preserve">
+	<value>Case Type</value>
+</data>
+  <data name="lblcasetypeRFV" xml:space="preserve">
+	<value>Please enter Case Type</value>
+</data>
+  <data name="lblfirstparty" xml:space="preserve">
+	<value>First Party</value>
+</data>
+
+  <data name="lblsecparty" xml:space="preserve">
+	<value>Second Party</value>
+</data>
+  <data name="lblCPRsecparty" xml:space="preserve">
+	<value>CPR of Second Party</value>
+</data>
+  <data name="lblparcelvalue" xml:space="preserve">
+	<value>Parcel Value</value>
+</data>
+
+  <data name="lblfeevalue" xml:space="preserve">
+	<value>Fee Value</value>
+</data>
+  <data name="lbldeednum" xml:space="preserve">
+	<value>Deed Number</value>
+</data>
+
+  <data name="lblcaseid" xml:space="preserve">
+	<value>Case ID</value>
+</data>
+  <data name="lbllastRead" xml:space="preserve">
+	<value>Last Read</value>
+</data>
+
+  <data name="valRFIDAlreadyAssign" xml:space="preserve">
+	<value>RFID Already Assigned</value>
+</data>
+
+
+
+
+  <data name="cdrpLoadReg" xml:space="preserve">
+    <value>Loading Registrar Names...</value>
+  </data>
+  <data name="cdrpSelectReg" xml:space="preserve">
+    <value>Select Registrar</value>
+  </data>
+  <data name="lblRegName" xml:space="preserve">
+    <value>Registrar Name</value>
+  </data>
+  <data name="ManageCategoryReg" xml:space="preserve">
+    <value>MANAGE CASETYPES</value>
+  </data>
+  <data name="rfvRegName" xml:space="preserve">
+    <value>Registrar Name is Required.</value>
+  </data>
+  <data name="addATSCategoryReg" xml:space="preserve">
+    <value>Case Type Record</value>
+  </data>
+  <data name="valRegName" xml:space="preserve">
+    <value>Registrar Name Already Exists for the selected Company.</value>
+  </data>
+  <data name="SelectReg" xml:space="preserve">
+    <value> Registrar</value>
+  </data>
+  <data name="lblReg" xml:space="preserve">
+    <value> Registrar</value>
+  </data>
+  <data name="Reg" xml:space="preserve">
+    <value>Registrar Name</value>
+  </data>
+  <data name="gridRegName" xml:space="preserve">
+    <value>Registrar Name</value>
+  </data>
+
+  <data name="lblRestration" xml:space="preserve">
+    <value>Registration Counter Use</value>
+  </data>
+  <data name="lblRoom8" xml:space="preserve">
+    <value>Room 8 Use</value>
+  </data>
+
+  <data name="rfvJobAllNum" xml:space="preserve">
+    <value>Please Enter Job Allocation Number </value>
+  </data>
+
+  <data name="lblcprnum" xml:space="preserve">
+    <value>CPR Number</value>
+  </data>
+  <data name="lblcancelst" xml:space="preserve">
+    <value>CANCEL</value>
+  </data>
+
+  <data name="lblCaseLoc" xml:space="preserve">
+    <value>Case Location</value>
+  </data>
+
+  <data name="lblCaseNotes" xml:space="preserve">
+    <value>Notes</value>
+  </data>
+  <data name="lblCaseSubLoc" xml:space="preserve">
+    <value>Case Sub Location</value>
+  </data>
+
+
+  <data name="lblCancelDocument" xml:space="preserve">
+    <value>Cancel Document</value>
+  </data>
+
+
+  <data name="lblDocumentsCompGraph" xml:space="preserve">
+    <value>No of Files per Panel</value>
+  </data>
+  <data name="radToday" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="radWeekView" xml:space="preserve">
+    <value>Week View</value>
+  </data>
+  <data name="radMonthView" xml:space="preserve">
+    <value>Month View</value>
+  </data>
+  <data name="radWorkflowGraph" xml:space="preserve">
+    <value>No of Files per Workflow</value>
+  </data>
+  <data name="radYearGraph" xml:space="preserve">
+    <value>No of Files per Month</value>
+  </data>
+  <data name="lblIntroductionReport" xml:space="preserve">
+    <value>Introduction Report</value>
+  </data>
+  <data name="lblDailyReport" xml:space="preserve">
+    <value>Daily Report</value>
+  </data>
+  <data name="lblAuditReport" xml:space="preserve">
+    <value>Audit Report</value>
+  </data>
+  <data name="lblDocumentNumber" xml:space="preserve">
+    <value>Enter the Document No</value>
+  </data>
+  <data name="lblIncludeDate" xml:space="preserve">
+    <value>Include Date Range</value>
+  </data>
+  <data name="lblPropertytype" xml:space="preserve">
+    <value>Property Type</value>
+  </data>
+  <data name="lblCaseClassification" xml:space="preserve">
+    <value>Case Classification</value>
+  </data>
+
+  <data name="ManageTDRequestDocuments" xml:space="preserve">
+    <value>REQUEST DOCUMENTS</value>
+  </data>
+  <data name="lblRequest" xml:space="preserve">
+	  <value>Request</value>
+  </data>
+  <data name="lblREQUESTED" xml:space="preserve">
+	  <value>Requested</value>
+  </data>
+  <data name="lblCANCELED" xml:space="preserve">
+    <value>CANCELED</value>
+  </data>
+  <data name="lblRequestConfirm" xml:space="preserve">
+    <value>Document Request has been sent.</value>
+  </data>
+  <data name="lblCancelConfirm" xml:space="preserve">
+    <value>Document Request has been cancelled.</value>
+  </data>
+  <data name="lblPageSize" xml:space="preserve">
+    <value>Set Page Size </value>
+  </data>
+  <data name="lblREQUESTEDBY" xml:space="preserve">
+	<value>Requested By</value>
+</data>
+  <data name="lblREQUESTEDON" xml:space="preserve">
+	<value>Requested On</value>
+</data>
+  <data name="lblCANCELEDON" xml:space="preserve">
+	<value>Canceled On</value>
+</data>
+  <data name="lblCANCELEDBY" xml:space="preserve">
+	<value>Canceled By</value>
+</data>
+  <data name="lblISSUEDON" xml:space="preserve">
+	<value>Issued On</value>
+</data>
+  <data name="lblISSUEDBY" xml:space="preserve">
+	<value>Issued By</value>
+</data>
+  <data name="lblRETURNEDON" xml:space="preserve">
+	<value>Returned On</value>
+</data>
+
+  <data name="lblFIRSTNAME" xml:space="preserve">
+	<value>First Name</value>
+</data>
+  <data name="lblSECONDNAME" xml:space="preserve">
+	<value>Second Name</value>
+</data>
+  <data name="lblFAMILYNAME" xml:space="preserve">
+	<value>Last Name</value>
+</data>
+  <data name="lblADJDTELEPHONE" xml:space="preserve">
+	<value>ADJD Telephone</value>
+</data>
+  <data name="lblLastSeen" xml:space="preserve">
+	<value>Last Seen Location</value>
+</data>
+  <data name="lblCaseFiles" xml:space="preserve">
+	<value>Case Files List</value>
+</data>
+  <data name="ManTABRole" xml:space="preserve">
+	<value>Manage Roles</value>
+</data>
+  <data name="addTABRole" xml:space="preserve">
+	<value>Role Record</value>
+</data>
+  <data name="lblRoleName" xml:space="preserve">
+	<value>Role Name</value>
+</data>
+  <data name="rfvRoleName" xml:space="preserve">
+	<value>Role Name is Required.</value>
+</data>
+  <data name="lblCourtName" xml:space="preserve">
+	  <value>Branch</value>
+  </data>
+  <data name="lblBranchName" xml:space="preserve">
+	  <value>Court Level</value>
+  </data>
+  <data name="lblCaseNo" xml:space="preserve">
+	  <value>Case No</value>
+  </data>
+  <data name="lblRegion" xml:space="preserve">
+	  <value>Court</value>
+  </data>
+
+  <data name="lbladdLocation" xml:space="preserve">
+	<value>Add Location</value>
+</data>
+  <data name="lbleditLocation" xml:space="preserve">
+	<value>Edit Location</value>
+</data>
+  <data name="btnADD" xml:space="preserve">
+    <value>  New  </value>
+  </data>
+  <data name="lblPleaseselectanode" xml:space="preserve">
+    <value>Please select a node</value>
+  </data>
+
+  <data name="lblPrefix" xml:space="preserve">
+    <value>Prefix</value>
+  </data>
+  <data name="lblPrefixRFV" xml:space="preserve">
+    <value>Prefix value is required.</value>
+  </data>
+
+  <data name="lblSVGX" xml:space="preserve">
+    <value>SVG X Value</value>
+  </data>
+  <data name="lblSVGY" xml:space="preserve">
+    <value>SVG Y Value</value>
+  </data>
+  <data name="lblReaderDet" xml:space="preserve">
+    <value>Reader Details</value>
+  </data>
+  <data name="lblSelectReader" xml:space="preserve">
+    <value>Select Readers</value>
+  </data>
+  <data name="lblSelectAntennas" xml:space="preserve">
+    <value>Select Antennas</value>
+  </data>
+  <data name="lblFloorMap" xml:space="preserve">
+    <value>SVG Co-Ordinates for Room</value>
+  </data>
+  <data name="lblGetAntennas" xml:space="preserve">
+    <value>Get Available Antennas</value>
+  </data>
+
+  <data name="lblSVGXRFV" xml:space="preserve">
+    <value>SVG X Value is Required.</value>
+  </data>
+  <data name="lblSVGYRFV" xml:space="preserve">
+    <value>SVG Y Value is Required.</value>
+  </data>
+  <data name="lblReaderDetRFV" xml:space="preserve">
+    <value>Reader Details are Required.</value>
+  </data>
+  <data name="lblLevel6RFV" xml:space="preserve">
+    <value>Further levels are not allowed.</value>
+  </data>
+  <data name="lblcasetypeRFV1" xml:space="preserve">
+	<value>Case Type is required</value>
+</data>
+  <data name="lblYear" xml:space="preserve">
+	<value>Year</value>
+</data>
+  <data name="lblYearRFV" xml:space="preserve">
+	<value>Year is Required</value>
+</data>
+  <data name="lblCaseSerialization" xml:space="preserve">
+	<value>Case Serialization No</value>
+</data>
+  <data name="lblCaseSerializationInvalid" xml:space="preserve">
+	<value>Invalid String in Case Serialization No</value>
+</data>
+  <data name="lblPrefixExist" xml:space="preserve">
+    <value>Prefix value already exist.</value>
+  </data>
+  <data name="lblBranchNameRFV" xml:space="preserve">
+	  <value>Branch Name is required.</value>
+  </data>
+  <data name="lblFloorMap" xml:space="preserve">
+    <value>Floor Map</value>
+  </data>
+  <data name="lblSearchFields" xml:space="preserve">
+    <value>All the fields are required.</value>
+  </data>
+  <data name="lblFileSelect" xml:space="preserve">
+    <value>Please Select File.</value>
+  </data>
+  <data name="lblCaseNoRFV" xml:space="preserve">
+	  <value>Case No is required.</value>
+  </data>
+
+  <data name="lblPanel" xml:space="preserve">
+	  <value>Panel</value>
+  </data>
+  <data name="lblGenNo" xml:space="preserve">
+	  <value>General No</value>
+  </data>
+  <data name="lblRowID" xml:space="preserve">
+	  <value>Row ID</value>
+  </data>
+  <data name="lblPanelRFV" xml:space="preserve">
+	  <value>Panel is Required</value>
+  </data>
+  <data name="lblGenNoRFV" xml:space="preserve">
+	  <value>General No is Required</value>
+  </data>
+  <data name="lblRowIDRFV" xml:space="preserve">
+	  <value>Row ID is Required</value>
+  </data>
+  <data name="lblHistory" xml:space="preserve">
+	<value>History</value>
+</data>
+
+  <data name="lblActivate" xml:space="preserve">
+	<value>Activate</value>
+</data>
+  <data name="lblDeActivate" xml:space="preserve">
+	<value>De Activate</value>
+</data>
+  <data name="lblAlertConfiguration" xml:space="preserve">
+	<value>Alert Configuration</value>
+</data>
+  <data name="lblshowMap" xml:space="preserve">
+	<value>Show on Map</value>
+</data>
+  <data name="gridManageTDZONES" xml:space="preserve">
+	<value>MANAGE CITIES</value>
+</data>
+  <data name="addTDZONES" xml:space="preserve">
+	<value>CITIES Record</value>
+</data>
+  <data name="lblZONENAME" xml:space="preserve">
+	<value>City Name</value>
+</data>
+  <data name="rfvZONENAME" xml:space="preserve">
+	<value>City Name is Required.</value>
+</data>
+  <data name="lblZONETYPE" xml:space="preserve">
+	<value>City Type</value>
+</data>
+  <data name="rfvZONETYPE" xml:space="preserve">
+	<value>City Type is Required.</value>
+</data>
+  <data name="addTDZONEGROUP" xml:space="preserve">
+	<value>Cities</value>
+</data>
+  <data name="lblGROUPNAME" xml:space="preserve">
+	<value>City Name</value>
+</data>
+  <data name="rfvGROUPNAME" xml:space="preserve">
+	<value>City Name is Required.</value>
+</data>
+  <data name="rfvZONEID" xml:space="preserve">
+	<value>City is Required.</value>
+</data>
+  <data name="addTDZONESENTRY" xml:space="preserve">
+	<value>CITY ENTRY Record</value>
+</data>
+  <data name="lblENTRYLEVEL" xml:space="preserve">
+	<value>Entry Level</value>
+</data>
+  <data name="rfvENTRYLEVEL" xml:space="preserve">
+	<value>Entry Level is Required.</value>
+</data>
+  <data name="lblENTRYHRS" xml:space="preserve">
+	<value>Entry Hrs</value>
+</data>
+  <data name="rfvENTRYHRS" xml:space="preserve">
+	<value>Entry Hrs is Required.</value>
+</data>
+  <data name="regvalENTRYHRS" xml:space="preserve">
+	<value>Numeric value is Required in Entry Hrs.</value>
+</data>
+  <data name="lblENTRYALARM" xml:space="preserve">
+	<value>Entry Alarm</value>
+</data>
+  <data name="rfvENTRYALARM" xml:space="preserve">
+	<value>Entry Alarm is Required.</value>
+</data>
+  <data name="lblENTRYEMAIL" xml:space="preserve">
+	<value>Entry Email</value>
+</data>
+  <data name="rfvENTRYEMAIL" xml:space="preserve">
+	<value>Entry Email is Required.</value>
+</data>
+  <data name="lblENTRYSMS" xml:space="preserve">
+	<value>Entry SMS</value>
+</data>
+  <data name="rfvENTRYSMS" xml:space="preserve">
+	<value>Entry SMS is Required.</value>
+</data>
+  <data name="addTDZONESENTRYESC" xml:space="preserve">
+	<value>CITIES ENTRY ESCALATION Record</value>
+</data>
+  <data name="rfvENTRYCRITERIAID" xml:space="preserve">
+	<value>Entry Criteria is Required.</value>
+</data>
+  <data name="addTDZONESEXIT" xml:space="preserve">
+	<value>CITIES EXIT Record</value>
+</data>
+  <data name="lblEXITLEVEL" xml:space="preserve">
+	<value>Exit Level</value>
+</data>
+  <data name="rfvEXITLEVEL" xml:space="preserve">
+	<value>Exit Level is Required.</value>
+</data>
+  <data name="lblEXITHRS" xml:space="preserve">
+	<value>Exit Hrs</value>
+</data>
+  <data name="rfvEXITHRS" xml:space="preserve">
+	<value>Exit Hrs is Required.</value>
+</data>
+  <data name="regvalEXITHRS" xml:space="preserve">
+	<value>Numeric value is Required in Exit Hrs.</value>
+</data>
+  <data name="lblEXITALARM" xml:space="preserve">
+	<value>Exit Alarm</value>
+</data>
+  <data name="rfvEXITALARM" xml:space="preserve">
+	<value>Exit Alarm is Required.</value>
+</data>
+  <data name="lblEXITEMAIL" xml:space="preserve">
+	<value>Exit Email</value>
+</data>
+  <data name="rfvEXITEMAIL" xml:space="preserve">
+	<value>Exit Email is Required.</value>
+</data>
+  <data name="lblEXITSMS" xml:space="preserve">
+	<value>Exit SMS</value>
+</data>
+  <data name="rfvEXITSMS" xml:space="preserve">
+	<value>Exit SMS is Required.</value>
+</data>
+  <data name="addTDZONESEXITESC" xml:space="preserve">
+	<value>CITIES EXIT ESCALATION Record</value>
+</data>
+  <data name="rfvEXITCRITERIAID" xml:space="preserve">
+	<value>Exit Criteria is Required.</value>
+</data>
+  <data name="lblRepository" xml:space="preserve">
+	<value>Repository</value>
+</data>
+  <data name="lblNonRepository" xml:space="preserve">
+	<value>Non-Repository</value>
+</data>
+  <data name="lblLocEmpRFV" xml:space="preserve">
+	<value>Location or Employee is required.</value>
+</data>
+  <data name="LBLENTRYCRITERIA" xml:space="preserve">
+	<value>WORKFLOW ENTRY CRITERIA</value>
+</data>
+  <data name="LBLEXITCRITERIA" xml:space="preserve">
+	<value>WORKFLOW EXIT CRITERIA</value>
+</data>
+  <data name="gridManageTDZONESEXIT" xml:space="preserve">
+	<value>MANAGE WORKFLOW EXIT CRITERIA</value>
+</data>
+  <data name="gridManageTDZONESENTRY" xml:space="preserve">
+	<value>MANAGE WORKFLOW ENTRY CRITERIA</value>
+</data>
+  <data name="lblBackZones" xml:space="preserve">
+	<value>Back To Cities</value>
+</data>
+  <data name="validEnryHrs" xml:space="preserve">
+	<value>Entered Hrs already exists for this City.</value>
+</data>
+  <data name="RFVAlertConfiguration" xml:space="preserve">
+	<value>Any one of Alert Configuration is required.</value>
+</data>
+  <data name="rfvZONENAMEExists" xml:space="preserve">
+	<value>City Name is already exists.</value>
+</data>
+  <data name="rfvZONEDefaultEmp" xml:space="preserve">
+	<value>Please select Default/InCharge Employee for the City.</value>
+</data>
+  <data name="rfvZONENAMENotFound" xml:space="preserve">
+	<value>City Name not found in Masters.</value>
+</data>
+  <data name="gridManageTDZONEGROUP" xml:space="preserve">
+	<value>MANAGE CITIES</value>
+</data>
+  <data name="rfvGroupNAMEExists" xml:space="preserve">
+	<value>City Name is already exists.</value>
+</data>
+  <data name="gridManageTDWorkOrder" xml:space="preserve">
+	<value>MANAGE WORK ORDERS</value>
+</data>
+  <data name="addTDWorkOrder" xml:space="preserve">
+	<value>TDWorkOrder Record</value>
+</data>
+  <data name="lblScheduleDate" xml:space="preserve">
+	<value>Schedule Date</value>
+</data>
+  <data name="rfvScheduleDate" xml:space="preserve">
+	<value>ScheduleDate is Required.</value>
+</data>
+  <data name="cvScheduleDate" xml:space="preserve">
+	<value>Invalid date for ScheduleDate.</value>
+</data>
+  <data name="lblExecutedOn" xml:space="preserve">
+	<value>Executed On</value>
+</data>
+  <data name="pendingStatus" xml:space="preserve">
+    <value>Pending</value>
+  </data>
+  <data name="Synchronized" xml:space="preserve">
+    <value>Synchronized</value>
+  </data>
+  <data name="Downloaded" xml:space="preserve">
+    <value>Downloaded</value>
+  </data>
+  <data name="Missing" xml:space="preserve">
+    <value>Missing</value>
+  </data>
+  <data name="Good" xml:space="preserve">
+    <value>Good</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>Done</value>
+  </data>
+  <data name="msgWorkOrderCreateEdit" xml:space="preserve">
+    <value>Edit is allowed only when the status is Pending.</value>
+  </data>
+  <data name="msgWorkOrderExists" xml:space="preserve">
+    <value>Work Order is already created for this employee and City.</value>
+  </data>
+  <data name="msgWorkOrderCreateDelete" xml:space="preserve">
+    <value>Delete is allowed only when the status is Pending.</value>
+  </data>
+  <data name="lblDurationMode" xml:space="preserve">
+    <value>Duration Mode</value>
+  </data>
+  <data name="lblDuration" xml:space="preserve">
+    <value>Duration</value>
+  </data>
+  <data name="lblHrs" xml:space="preserve">
+    <value>Hrs</value>
+  </data>
+  <data name="lblDays" xml:space="preserve">
+    <value>Days</value>
+  </data>
+  <data name="rfvDurationMode" xml:space="preserve">
+    <value>Duration Mode is required.</value>
+  </data>
+  <data name="rfvDuration" xml:space="preserve">
+    <value>Duration is required.</value>
+  </data>
+  <data name="lblPaste" xml:space="preserve">
+    <value> Paste </value>
+  </data>
+  <data name="CancelRequest" xml:space="preserve">
+    <value>Are you sure you want to Cancel the Request?</value>
+  </data>
+  <data name="lblReqCheckOut" xml:space="preserve">
+    <value>Owner Checked-Out</value>
+  </data>
+  <data name="lblCHECKOUTCONF" xml:space="preserve">
+    <value> Documents has been Checked-Out </value>
+  </data>
+  <data name="checkInDocument" xml:space="preserve">
+    <value>Are you sure you want to CheckIn the Document?</value>
+  </data>
+  <data name="lblReqCheckIn" xml:space="preserve">
+    <value>REQUESTOR CHECKED-IN</value>
+  </data>
+  <data name="lblCHECKINCONF" xml:space="preserve">
+    <value> Documents has been Checked-In </value>
+  </data>
+
+  <data name="lblCHECKoutmode" xml:space="preserve">
+    <value>Check Out Mode</value>
+  </data>
+  <data name="lblInernal" xml:space="preserve">
+    <value>Internal Transfer </value>
+  </data>
+  <data name="lblOutsideInternal" xml:space="preserve">
+    <value>Outside - CheckOut </value>
+  </data>
+  <data name="lblOutsideExternal" xml:space="preserve">
+    <value>Outside - External </value>
+  </data>
+  <data name="lblCourier" xml:space="preserve">
+    <value>Courier Details</value>
+  </data>
+  <data name="lblCName" xml:space="preserve">
+    <value>Courier Name</value>
+  </data>
+  <data name="lblIDNo" xml:space="preserve">
+    <value>ID Number</value>
+  </data>
+  <data name="lblIDType" xml:space="preserve">
+    <value>ID Type</value>
+  </data>
+  <data name="lblReceiver" xml:space="preserve">
+    <value>Receiver Details</value>
+  </data>
+  <data name="lblOrganization" xml:space="preserve">
+    <value>Organization Name</value>
+  </data>
+  <data name="lblCHECKOUTCONF" xml:space="preserve">
+    <value> Documents has been Checked-Out </value>
+  </data>
+  <data name="lblActive" xml:space="preserve">
+	<value>Active?</value>
+</data>
+  <data name="lblDeActivated" xml:space="preserve">
+	<value>De Activated</value>
+</data>
+  <data name="lblOn" xml:space="preserve">
+	<value>On</value>
+  </data>
+  <data name="lblBy" xml:space="preserve">
+	<value>By</value>
+  </data>
+  <data name="lblDuration" xml:space="preserve">
+	<value>Duration</value>
+  </data>
+  <data name="lblReqDetails" xml:space="preserve">
+	<value>Notes:</value>
+  </data>
+  <data name="msgDocumentCheckOut" xml:space="preserve">        
+    <value>Document is already Checked Out. Cannot Cancel now.</value>
+  </data>
+  <data name="msgDocumentProcess" xml:space="preserve">        
+    <value>Document is already in-process.</value>
+  </data>
+  <data name="lblownerCheckIN" xml:space="preserve">
+    <value>OWNER CHECKED-IN</value>
+  </data>
+  <data name="lblRequestorCheckOut" xml:space="preserve">
+    <value>REQUESTOR CHECKED-OUT</value>
+  </data>
+  <data name="addMyDocumentsrad" xml:space="preserve">
+    <value> MY DOCUMENTS </value>
+  </data>
+  <data name="addMyreqDocumentsrad" xml:space="preserve">
+    <value> REQUESTED DOCUMENTS </value>
+  </data>
+  <data name="gridManageTDZONETRANSFERS" xml:space="preserve">
+	<value>CITY TRANSFERS</value>
+</data>
+  <data name="lblFZONENAME" xml:space="preserve">
+	<value>From City</value>
+</data>
+  <data name="lblTZONEID" xml:space="preserve">
+	<value>To City</value>
+</data>
+  <data name="lblDURATIONREQ" xml:space="preserve">
+	<value>Duration Required</value>
+</data>
+  <data name="lblCHECKOUTTYPE" xml:space="preserve">
+	<value>Check Out Type</value>
+</data>
+  <data name="lblTRANSFEREDBY" xml:space="preserve">
+	<value>Transfered By</value>
+</data>
+  <data name="lblTRANSFEREDON" xml:space="preserve">
+	<value>Transfered On</value>
+</data>
+  <data name="lblLocEmpDetails" xml:space="preserve">
+	<value>Mouse over on Green Dot to see Room and Employee Details of the Document</value>
+</data>
+  <data name="lblEmpImage" xml:space="preserve">
+	<value>Employee Image</value>
+</data>
+  <data name="Found" xml:space="preserve">
+    <value>Found</value>
+  </data>
+  <data name="Extra" xml:space="preserve">
+    <value>Extra</value>
+  </data>
+  <data name="lblDocumentsPanelStatusGraph" xml:space="preserve">
+    <value>No of Files By Status Per Panel</value>
+  </data>
+  <data name="REQCHECKINBY" xml:space="preserve">
+    <value>Req Received By</value>
+  </data>
+  <data name="REQCHECKINON" xml:space="preserve">
+    <value>Req Received On</value>
+  </data>
+  <data name="RETURNEDBY" xml:space="preserve">
+    <value>Returned By</value>
+  </data>
+  <data name="OWNERCHECKINBY" xml:space="preserve">
+    <value>Ret Received By</value>
+  </data>
+  <data name="OWNERCHECKINON" xml:space="preserve">
+    <value>Ret Received On</value>
+  </data>
+  <data name="CHECKEDINBY" xml:space="preserve">
+    <value>Transfer CheckIn By</value>
+  </data>
+  <data name="CHECKEDINON" xml:space="preserve">
+    <value>Transfer CheckIn On</value>
+  </data>
+  <data name="lblZoneType1" xml:space="preserve">
+  	<value>Registration</value>
+  </data>
+  <data name="lblZoneType2" xml:space="preserve">
+  	<value>Panel</value>
+  </data>
+  <data name="lblZoneType3" xml:space="preserve">
+  	<value>Correspondence</value>
+  </data>
+  <data name="lblZoneType4" xml:space="preserve">
+  	<value>Archive</value>
+  </data>
+  <data name="lblZoneType5" xml:space="preserve">
+  	<value>None</value>
+  </data>
+  <data name="rfvZONENAMEInvalid" xml:space="preserve">
+	  <value>City Name is Invalid.</value>
+  </data>
+  <data name="rfvGrpZoneNotDef" xml:space="preserve">
+	  <value>Group City is not defined for this Case Type.</value>
+  </data>
+  <data name="lblWF1" xml:space="preserve">
+  	<value>To HC</value>
+  </data>
+  <data name="lblWF2" xml:space="preserve">
+  	<value>From Registration</value>
+  </data>
+  <data name="lblWF3" xml:space="preserve">
+  	<value>To Panel</value>
+  </data>
+  <data name="lblWF4" xml:space="preserve">
+  	<value>From HC</value>
+  </data>
+  <data name="lblWF5" xml:space="preserve">
+  	<value>Registration To HC</value>
+  </data>
+  <data name="lblWF6" xml:space="preserve">
+  	<value>HC To Panel</value>
+  </data>
+  <data name="lblManager" xml:space="preserve">
+  	<value>Manager</value>
+  </data>
+  <data name="lblempReporting" xml:space="preserve">
+  	<value>Reporting Structure</value>
+  </data>
+  <data name="rfvManager" xml:space="preserve">
+  	<value>Manager Selection is mandatory</value>
+  </data>
+  <data name="lblBeforeSave" xml:space="preserve">
+  	<value>Before Save</value>
+  </data>
+  <data name="lblAfterSave" xml:space="preserve">
+  	<value>After Save</value>
+  </data>
+  <data name="ConfirmReject" xml:space="preserve">
+    <value>Are you sure you want to Reject this Request?</value>
+  </data>
+  <data name="lblReject" xml:space="preserve">
+  	<value>Reject</value>
+  </data>
+  <data name="lblRejectReasons" xml:space="preserve">
+  	<value>Reject Reasons</value>
+  </data>
+  <data name="rfvRejectReasons" xml:space="preserve">
+  	<value>Reject Reasons are required.</value>
+  </data>
+  <data name="rfvRejectConfirm" xml:space="preserve">
+  	<value>Document has been Rejected.</value>
+  </data>
+  <data name="lblRejectedBy" xml:space="preserve">
+  	<value>Rejected By</value>
+  </data>
+  <data name="lblRejectedOn" xml:space="preserve">
+  	<value>Rejected On</value>
+  </data>
+
+  <data name="INTE40" xml:space="preserve">
+    <value>Registration and Requested</value>
+  </data>
+  <data name="INTE2" xml:space="preserve">
+    <value>Requested CO By Owner</value>
+  </data>
+  <data name="INTE1" xml:space="preserve">
+    <value>Requested</value>
+  </data>
+  <data name="INTE5" xml:space="preserve">
+    <value>CI By Requestor</value>
+  </data>
+  <data name="INTE7" xml:space="preserve">
+    <value>CO By Requestor</value>
+  </data>
+  <data name="dupCaseSerialization" xml:space="preserve">
+	  <value>Case Serialization No already exists</value>
+  </data>
+  <data name="lblRegAlertMsg" xml:space="preserve">
+	  <value>In Office Of</value>
+  </data>
+
+  <data name="lblMyDocs" xml:space="preserve">
+    <value> All My Documents </value>
+  </data>
+  <data name="lblReqDocByMe" xml:space="preserve">
+    <value> Requested By Me </value>
+  </data>
+  <data name="lblReqDocFromMe" xml:space="preserve">
+    <value> Requested From Me </value>
+  </data>
+  <data name="lblCOByMe" xml:space="preserve">
+    <value> Checked Out By Me </value>
+  </data>
+  <data name="lblTransByMe" xml:space="preserve">
+    <value> Transferred By Me </value>
+  </data>
+  <data name="lblTransFromMe" xml:space="preserve">
+    <value> Transferred To Me </value>
+  </data>
+  <data name="lblWFCI" xml:space="preserve">
+    <value> Check In Pending </value>
+  </data>
+  <data name="lblDateCriteria" xml:space="preserve">
+    <value> Date Criteria </value>
+  </data>
+  <data name="lblSameStatus" xml:space="preserve">
+    <value>Same status documents should be selected..</value>
+  </data>
+  <data name="btnResetFilter" xml:space="preserve">
+    <value> Reset Filter </value>
+  </data>
+  <data name="CheckINOUTReport" xml:space="preserve">
+    <value>Case File Movement Report</value>
+  </data>
+  <data name="WOReport" xml:space="preserve">
+    <value>Workflow Type</value>
+  </data>
+  <data name="WOReportBy" xml:space="preserve">
+    <value>Case Files By</value>
+  </data>
+  <data name="OwnerFile" xml:space="preserve">
+    <value>Owner of File</value>
+  </data>
+  <data name="showPDF" xml:space="preserve">
+    <value>Export to PDF</value>
+  </data>
+  <data name="lblWelcome" xml:space="preserve">
+    <value>Welcome</value>
+  </data>
+  <data name="lblAddWorkOrder" xml:space="preserve">
+    <value>Add New WO</value>
+  </data>
+  <data name="lblFromDate" xml:space="preserve">
+    <value>From Date</value>
+  </data>
+  <data name="lblToDate" xml:space="preserve">
+    <value>To Date</value>
+  </data>
+  <data name="lblLeft" xml:space="preserve">
+    <value>left</value>
+  </data>
+  <data name="lblWidth" xml:space="preserve">
+    <value>width</value>
+  </data>
+  <data name="lblLegend" xml:space="preserve">
+    <value>Legend </value>
+  </data>
+  <data name="lblReplay" xml:space="preserve">
+    <value>Replay</value>
+  </data>
+  <data name="lblFloorMapHistory" xml:space="preserve">
+    <value>Floor Map History</value>
+  </data>
+  <data name="lblREQEXTENDEDBY" xml:space="preserve">
+    <value>Req Extended By</value>
+  </data>
+  <data name="lblREQEXTENDEDON" xml:space="preserve">
+    <value>Req Extended On</value>
+  </data>
+  <data name="lblREQEXTNDCANCELEDBY" xml:space="preserve">
+    <value>Req Extnd Canceled By</value>
+  </data>
+  <data name="lblREQEXTNDCANCELEDON" xml:space="preserve">
+    <value>Req Extnd Canceled On</value>
+  </data>
+  <data name="lblREQEXTNDREJBY" xml:space="preserve">
+    <value>Req Extnd Rejected By</value>
+  </data>
+  <data name="lblREQEXTNDREJON" xml:space="preserve">
+    <value>Req Extnd Rejected On</value>
+  </data>
+  <data name="lblExtendedBy" xml:space="preserve">
+    <value>Extended By</value>
+  </data>
+  <data name="lblExtendedOn" xml:space="preserve">
+    <value>Extended On</value>
+  </data>
+  <data name="lblCheckoutUsing" xml:space="preserve">
+    <value>Check Out Using</value>
+  </data>
+  <data name="lblREQExtnd" xml:space="preserve">
+    <value>Requestor Extended-REQ</value>
+  </data>
+  <data name="lblREQExtndStatus" xml:space="preserve">
+    <value>Request-Extend</value>
+  </data>
+  <data name="lblCheckOutExt" xml:space="preserve">
+    <value>Check-Out External</value>
+  </data>
+  <data name="lblCheckOutInt" xml:space="preserve">
+    <value>Check-Out Internal</value>
+  </data>
+  <data name="lblCOEX" xml:space="preserve">
+    <value>Check Out External</value>
+  </data>
+  <data name="lblGridActionStatus" xml:space="preserve">
+    <value>Action Status</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="RFIDIncorrect" xml:space="preserve">
+    <value>Incorrect RFID Tag Number</value>
+  </data>
+  <data name="lblCheckOutExt" xml:space="preserve">
+    <value>Check-Out External</value>
+  </data>
+  <data name="lblCZ" xml:space="preserve">
+    <value>CZ</value>
+  </data>
+  <data name="lblNonCZ" xml:space="preserve">
+    <value>Non-CZ</value>
+  </data>
+  <data name="rfvSearchCriteria" xml:space="preserve">
+    <value>Please select atleast one search criteria</value>
+  </data>
+  <data name="rfvRoleNameExist" xml:space="preserve">
+    <value>Role Name Already Exists.</value>
+  </data>
+  <data name="lblEmpZone" xml:space="preserve">
+    <value>Employee Vs City</value>
+  </data>
+
+
+  <data name="lblBrand" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="lblSerialNo" xml:space="preserve">
+    <value>Serial No</value>
+  </data>
+
+  <data name="lblPurchaseDate" xml:space="preserve">
+    <value>Purchase Date</value>
+  </data>
+  <data name="lblIMEINo" xml:space="preserve">
+    <value>IMEI Number</value>
+  </data>
+
+  <data name="lblDeviceMachineCode" xml:space="preserve">
+    <value>Device Machine Code</value>
+  </data>
+
+  <data name="lblWarrantyDetails" xml:space="preserve">
+    <value>Warranty Details</value>
+  </data>
+
+  <data name="lblNotificationType" xml:space="preserve">
+    <value>Notification Type</value>
+  </data>
+  <data name="lblToBeNotified" xml:space="preserve">
+    <value>To Be Notified</value>
+  </data>
+
+  <data name="lblNotifAddress" xml:space="preserve">
+    <value>Notification/To Be Notified Address</value>
+  </data>
+
+  <data name="lblAddress1" xml:space="preserve">
+    <value>Notification Address1</value>
+  </data>
+  <data name="lblAddress2" xml:space="preserve">
+    <value>Address2</value>
+  </data>
+  <data name="lblAddress3" xml:space="preserve">
+    <value>Address3</value>
+  </data>
+
+  <data name="lblCaseNumber" xml:space="preserve">
+    <value>Case Number</value>
+  </data>
+  <data name="lblPriority" xml:space="preserve">
+    <value>Priority</value>
+  </data>
+
+  <data name="lblIncomingLetterDate" xml:space="preserve">
+    <value>Incoming Letter Date</value>
+  </data>
+  <data name="lblIncomingLetterNumber" xml:space="preserve">
+    <value>Incoming Letter Number</value>
+  </data>
+
+  <data name="lblReceivedFrom" xml:space="preserve">
+    <value>From</value>
+  </data>
+
+  <data name="lblTrialDate" xml:space="preserve">
+    <value>Trial Date</value>
+  </data>
+  <data name="lblComments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+
+  <data name="llblUploadNotificationDocument" xml:space="preserve">
+    <value>Upload Notification Document</value>
+  </data>
+
+  <data name="lblList" xml:space="preserve">
+    <value>List</value>
+  </data>
+
+  <data name="lblTargetLocation" xml:space="preserve">
+    <value>Target Location</value>
+  </data>
+
+  <data name="lblStatus" xml:space="preserve">
+    <value>Status</value>
+  </data>
+
+
+  <data name="lblNotificationSource" xml:space="preserve">
+    <value>Notification Source</value>
+  </data>
+
+  <data name="lblNotificationIDAndPeriod" xml:space="preserve">
+    <value>Notification ID And Period</value>
+  </data>
+
+  <data name="lblCaseRegisteredBy" xml:space="preserve">
+    <value>Notification Registered By</value>
+  </data>
+
+  <data name="lblAssistantSectionHead" xml:space="preserve">
+    <value>Assistant Section Head</value>
+  </data>
+
+  <data name="lblDeviceAssignedTo" xml:space="preserve">
+    <value>Device Assigned To</value>
+  </data>
+
+  <data name="lblRemarks" xml:space="preserve">
+    <value>Remarks</value>
+  </data>
+
+
+  <data name="lblNotification" xml:space="preserve">
+    <value>Notification</value>
+  </data>
+
+  <data name="lblFromTrialDate" xml:space="preserve">
+    <value>From Trial Date</value>
+  </data>
+
+  <data name="lblToTrialDate" xml:space="preserve">
+    <value>To Trial Date</value>
+  </data>
+
+  <data name="lblCaseStatus" xml:space="preserve">
+    <value>Case Status</value>
+  </data>
+
+  <data name="lblPendingNotification" xml:space="preserve">
+    <value>Pending Notification</value>
+  </data>
+  <data name="lblGSMNo" xml:space="preserve">
+    <value>GSM Number</value>
+  </data>
+  <data name="IPADList" xml:space="preserve">
+    <value>IPAD Device Registration List</value>
+  </data>
+  <data name="IPADRegistration" xml:space="preserve">
+    <value>IPAD Device Registration</value>
+  </data>
+  <data name="IPADAllocation" xml:space="preserve">
+    <value>IPAD Device Allocation</value>
+  </data>
+  <data name="lblDeviceAssignedTo" xml:space="preserve">
+    <value>Device Assigned To</value>
+  </data>
+  <data name="lblDeviceAllocationHistory" xml:space="preserve">
+    <value>Device Allocation History</value>
+  </data>
+  <data name="lblAllocationDate" xml:space="preserve">
+    <value>Allocated Date</value>
+  </data>
+  <data name="lblAllocatedBy" xml:space="preserve">
+    <value>Allocated By</value>
+  </data>
+  <data name="btnAllocation" xml:space="preserve">
+    <value>Allocate</value>
+  </data>
+  <data name="lblNotificationRegistration" xml:space="preserve">
+    <value>Notification Registration (NSA)</value>
+  </data>
+  <data name="btnUploadFile" xml:space="preserve">
+	<value>Upload File</value>
+</data>
+  <data name="btnGenerateNotification" xml:space="preserve">
+	<value>Generate Notification</value>
+</data>
+  <data name="NotificationList" xml:space="preserve">
+    <value>Notification Registration List (NSA)</value>
+  </data>
+  <data name="btnAssign" xml:space="preserve">
+    <value>Assign/Re-Assign</value>
+  </data>
+  <data name="btnReject" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="ASHNotificationList" xml:space="preserve">
+    <value>Assistant Section Head Notification List</value>
+  </data>
+  <data name="lblDeliverable" xml:space="preserve">
+    <value>Deliverable</value>
+  </data>
+  <data name="lblType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="lblSubType" xml:space="preserve">
+    <value>Sub Type</value>
+  </data>
+  <data name="lblSource" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="lblNoOfPages" xml:space="preserve">
+    <value>No Of Pages</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="lblAttachments" xml:space="preserve">
+    <value>Attachments</value>
+  </data>
+  <data name="lblAddAttachments" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="lblSupervisorAssignedTO" xml:space="preserve">
+    <value>Supervisor Assigned To</value>
+  </data>
+  <data name="lblBaliffAssignedTo" xml:space="preserve">
+    <value>Bailiff Assigned To</value>
+  </data>
+  <data name="SupervisorNotificationList" xml:space="preserve">
+    <value>Supervisor Notification List</value>
+  </data>
+  <data name="lblNotificationClassification" xml:space="preserve">
+    <value>Notification Classification</value>
+  </data>
+  <data name="lblNotificationPeriod" xml:space="preserve">
+    <value>Notification Period</value>
+  </data>
+  <data name="lblAssignedBy" xml:space="preserve">
+    <value>Assigned By</value>
+  </data>
+  <data name="BailiffNotificationList" xml:space="preserve">
+    <value>Bailiff Notification List</value>
+  </data>
+
+  <data name="AuditorNotificationList" xml:space="preserve">
+    <value>Auditor Notification List</value>
+  </data>
+  <data name="lblExecutedDate" xml:space="preserve">
+    <value>Executed Date</value>
+  </data>
+  <data name="lblDeliveryStatus" xml:space="preserve">
+    <value>Delivery Status</value>
+  </data>
+  <data name="lblBailiff" xml:space="preserve">
+    <value>Bailiff</value>
+  </data>
+  <data name="lblSupervisor" xml:space="preserve">
+    <value>Supervisor</value>
+  </data>
+  <data name="lblAsstSectionHead" xml:space="preserve">
+    <value>Asst Section Head</value>
+  </data>
+  <data name="lblSupervisorNotification" xml:space="preserve">
+  <value>Supervisor Notification</value>
+  </data>
+  <data name="lblBailiffNotification" xml:space="preserve">
+<value>Bailiff Notification</value>
+</data>
+
+  <data name="lblAuditorNotification" xml:space="preserve">
+<value>Auditor Notification</value>
+</data>
+  <data name="lblPendingNotifNSA" xml:space="preserve">
+<value>Pending Notifications (NSA)</value>
+</data>
+  <data name="lblPendingNotifCMS" xml:space="preserve">
+<value>Pending Notifications (CMS)</value>
+</data>
+  <data name="lblZonesAssigned" xml:space="preserve">
+    <value>Cities Assigned</value>
+  </data>
+
+  <data name="lblNoOfAssigns" xml:space="preserve">
+    <value>No Of Assigns</value>
+  </data>
+  <data name="lblConfirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="lblSentToSH" xml:space="preserve">
+    <value>Sent To Section Head</value>
+  </data>
+  <data name="btnSentBackNotif" xml:space="preserve">
+    <value>Send Back Notification</value>
+  </data>
+  <data name="lblReportingManager" xml:space="preserve">
+    <value>Reporting Manager</value>
+  </data>
+
+  <data name="lblZonesAssignedTo" xml:space="preserve">
+    <value>Cities Assigned To</value>
+  </data>
+
+  <data name="lblUploadSignature" xml:space="preserve">
+    <value>Upload Signature</value>
+  </data>
+  <data name="lblview" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="lblSelect" xml:space="preserve">
+    <value>Select</value>
+  </data>
+  <data name="lblSectionHead" xml:space="preserve">
+    <value>Section Head</value>
+  </data>
+  <data name="SHNotificationList" xml:space="preserve">
+    <value>Section Head Notification List</value>
+  </data>
+  <data name="lblVacationPeriod" xml:space="preserve">
+    <value>Vacation Period</value>
+  </data>
+  <data name="lblCreatedBy" xml:space="preserve">
+    <value>Created By</value>
+  </data>
+  <data name="lblCreatedOn" xml:space="preserve">
+    <value>Created On</value>
+  </data>
+  <data name="lblLocationCoordinates" xml:space="preserve">
+    <value>Location Coordinates</value>
+  </data>
+  <data name="lblNotificationClass" xml:space="preserve">
+    <value>Notification Class</value>
+  </data>
+  <data name="btnAssignNotification" xml:space="preserve">
+    <value>Assign Notification</value>
+  </data>
+  <data name="btnViewExecutedNotif" xml:space="preserve">
+    <value>View Executed Notifications</value>
+  </data>
+  <data name="btnMarkasSpecNotif" xml:space="preserve">
+    <value>Mark as Specific Notifications</value>
+  </data>
+  <data name="btnMarkUnMarkSpecific" xml:space="preserve">
+    <value>Mark/Unmark Specific</value>
+  </data>
+  <data name="btnAutoAssign" xml:space="preserve">
+    <value>Auto Assign</value>
+  </data>
+  <data name="btnManualAssign" xml:space="preserve">
+    <value>Manual Assign</value>
+  </data>
+  <data name="btnViewHistory" xml:space="preserve">
+    <value>View History</value>
+  </data>
+  <data name="lblTrackBailiff" xml:space="preserve">
+    <value>Track Bailiff</value>
+  </data>
+  <data name="lblExecutedNotifications" xml:space="preserve">
+<value>Executed Notifications</value>
+</data>
+  <data name="lblAttachClearSig" xml:space="preserve">
+<value>Attach/Clear Signature</value>
+</data>
+  <data name="lblDisplayOnDashBoard" xml:space="preserve">
+<value>Display on Board</value>
+</data>
+  <data name="lblNotificationMapView" xml:space="preserve">
+<value>Notification Map View</value>
+</data>
+  <data name="lblViewAllocations" xml:space="preserve">
+<value>View Allocations</value>
+</data>
+  <data name="rbActive" xml:space="preserve">
+<value>Active</value>
+</data>
+  <data name="rbInActive" xml:space="preserve">
+<value>InActive</value>
+</data>
+  <data name="lblNotifSubType" xml:space="preserve">
+    <value>Notification Sub Type</value>
+  </data>
+  <data name="lblNotifInstructions" xml:space="preserve">
+    <value>Notification Instructions</value>
+  </data>
+  <data name="lblCaseRelationship" xml:space="preserve">
+    <value>Case Relationship</value>
+  </data>
+  <data name="lblNationality" xml:space="preserve">
+    <value>Nationality</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>Gender</value>
+  </data>
+  <data name="lblEmirates" xml:space="preserve">
+    <value>Emirates</value>
+  </data>
+  <data name="lblMobile" xml:space="preserve">
+    <value>Mobile</value>
+  </data>
+  <data name="lblLongitude" xml:space="preserve">
+    <value>Longitude</value>
+  </data>
+  <data name="lblLatitude" xml:space="preserve">
+    <value>Latitude</value>
+  </data>
+  <data name="lblExecutedNotifications" xml:space="preserve">
+    <value>Executed Notifications</value>
+  </data>
+  <data name="lblPendingNotifications" xml:space="preserve">
+    <value>Pending Notifications</value>
+  </data>
+
+  <data name="msgNoRecords" xml:space="preserve">
+    <value>No Records to display.</value>
+  </data>
+  <data name="rfvRoleselect" xml:space="preserve">
+    <value>Select atleast one access privilege</value>
+  </data>
+  <data name="empImageExt" xml:space="preserve">
+    <value>Please select image, types accepted are .gif,.jpg,.jpeg,.png. File size limit 500 KB.</value>
+  </data>
+  <data name="lblFileSize" xml:space="default">
+    <value>File size limit 500 KB.</value>
+  </data>
+  <data name="ManageBranchPlant" xml:space="preserve">
+    <value>MANAGE BRANCH PLANT DETAILS</value>
+  </data>
+  <data name="gridBranchPlantCode" xml:space="preserve">
+    <value>Branch Plant Code</value>
+  </data>
+  <data name="gridBranchPlantName" xml:space="preserve">
+    <value>Branch Plant Name</value>
+  </data>
+  <data name="ManageCustomers" xml:space="preserve">
+    <value>MANAGE CUSTOMER DETAILS</value>
+  </data>
+  <data name="gridCustomerCode" xml:space="preserve">
+    <value>Customer Code</value>
+  </data>
+  <data name="gridCustomerName" xml:space="preserve">
+    <value>Customer Name</value>
+  </data>
+  <data name="ManageSupplier" xml:space="default">
+    <value>Manage Supplier Details</value>
+  </data>
+  <data name="gridSupplierCode" xml:space="default">
+    <value>Supplier Code</value>
+  </data>
+  <data name="gridSupplierName" xml:space="default">
+    <value>Supplier Name</value>
+  </data>
+  <data name="gridSupplierID" xml:space="default">
+    <value>Supplier ID</value>
+  </data>
+</root>

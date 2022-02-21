@@ -1,0 +1,478 @@
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\BLL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\BLL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\DAL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\DAL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\BLL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\BLL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\Telerik.Web.UI.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\BLL.dll
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\BLL.pdb
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\BLL.xml
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\DAL.dll
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\Property.dll
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\DAL.pdb
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\DAL.xml
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\Property.pdb
+D:\TrackIT\Kegx\KEG-X\BLL\bin\Debug\Property.xml
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\BLL.dll
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\BLL.xml
+D:\TrackIT\Kegx\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\BLL.dll
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\BLL.xml
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\DAL.dll
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\Property.dll
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\DAL.xml
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\Property.pdb
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\bin\Debug\Property.xml
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\BLL.dll
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\BLL.xml
+E:\Projects\suresh\KegsXWeb\KEG-X\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\BLL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\BLL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\DAL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\DAL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\bin\Debug\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\BLL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\BLL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Bharani\Latest\KegTrack Web Source\KEGX_NewUI\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\BLL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\BLL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\DAL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\Property.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\DAL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\Property.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\Property.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\BLL.dll
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\BLL.xml
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Bharani_TrackIt\Produts\KEG-X\Kegx\Web\KEG-X\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\Maylatestcode232014\KEG-X\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJUNE10FROMSURESH\KEG-X\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXSep182014\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXSEP232014\KEG-X\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\BLL.dll
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\BLL.pdb
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\BLL.xml
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\DAL.dll
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\Property.dll
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\DAL.pdb
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\DAL.xml
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\Property.pdb
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\Property.xml
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\BLL.dll
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\BLL.xml
+D:\Projects\KEG-X\WEB\KEG-X\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+D:\Projects\KEG-X\WEB\KEG-X\BLL\bin\Debug\Telerik.Web.UI.xml
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXOCT312014\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\BLL.dll
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\BLL.xml
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\DAL.dll
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\Property.dll
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\DAL.xml
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\Property.pdb
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\bin\Debug\Property.xml
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\BLL.dll
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\BLL.xml
+E:\Projects\suresh\KegsXWeb\latest web\26th dec\KEG-X\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN132015\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\BLL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\DAL.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\Property.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\Telerik.Web.UI.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\DBExceptionHandler.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\DAL.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\DAL.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\Property.pdb
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\bin\Debug\Property.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\BLL.Resources.resources
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\BLL.dll
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\BLL.xml
+E:\USHA PROJECTS\KEGX\KEGXJAN202015\KEG-X\BLL\obj\Debug\BLL.pdb
+E:\Projects\suresh\A+E (KEGX)\Source\WEB\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\suresh\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.Resources.resources
+E:\Projects\suresh\A+E (KEGX)\Source\WEB\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\suresh\A+E (KEGX)\Source\WEB\BLL\obj\Debug\GenerateResource.write.1.tlog
+D:\WEB\WEB\BLL\bin\Debug\BLL.dll
+D:\WEB\WEB\BLL\bin\Debug\BLL.pdb
+D:\WEB\WEB\BLL\bin\Debug\BLL.xml
+D:\WEB\WEB\BLL\bin\Debug\DAL.dll
+D:\WEB\WEB\BLL\bin\Debug\Property.dll
+D:\WEB\WEB\BLL\bin\Debug\Telerik.Web.UI.dll
+D:\WEB\WEB\BLL\bin\Debug\DBExceptionHandler.dll
+D:\WEB\WEB\BLL\bin\Debug\DAL.pdb
+D:\WEB\WEB\BLL\bin\Debug\DAL.xml
+D:\WEB\WEB\BLL\bin\Debug\Property.pdb
+D:\WEB\WEB\BLL\bin\Debug\Property.xml
+D:\WEB\WEB\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\WEB\BLL\obj\Debug\BLL.Resources.resources
+D:\WEB\WEB\BLL\obj\Debug\GenerateResource.read.1.tlog
+D:\WEB\WEB\BLL\obj\Debug\GenerateResource.write.1.tlog
+D:\WEB\WEB\BLL\obj\Debug\BLL.dll
+D:\WEB\WEB\BLL\obj\Debug\BLL.xml
+D:\WEB\WEB\BLL\obj\Debug\BLL.pdb
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\BLL.dll
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\BLL.pdb
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\BLL.xml
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\DAL.dll
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\Property.dll
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\DBExceptionHandler.dll
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\DAL.pdb
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\DAL.xml
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\Property.pdb
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\bin\Debug\Property.xml
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.Resources.resources
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.dll
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.xml
+D:\KEGX\A+E (KEGX)\Source\WEB\BLL\obj\Debug\BLL.pdb
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\BLL.dll
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\BLL.pdb
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\BLL.xml
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\DAL.dll
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\Property.dll
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\DAL.pdb
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\DAL.xml
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\Property.pdb
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\bin\Debug\Property.xml
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\BLL.Resources.resources
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\BLL.dll
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\BLL.xml
+E:\Projects\suresh\KegX May10-2015\Source\WEB\BLL\obj\Debug\BLL.pdb
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\BLL.dll
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\BLL.pdb
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\BLL.xml
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\DAL.dll
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\Property.dll
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\DBExceptionHandler.dll
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\DAL.pdb
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\DAL.xml
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\Property.pdb
+E:\Projects\suresh\KegX\Source\WEB\BLL\bin\Debug\Property.xml
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\BLL.Resources.resources
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\GenerateResource.read.1.tlog
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\GenerateResource.write.1.tlog
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\BLL.dll
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\BLL.xml
+E:\Projects\suresh\KegX\Source\WEB\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\BLL.dll
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\BLL.pdb
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\BLL.xml
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\DAL.dll
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\Property.dll
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\DBExceptionHandler.dll
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\DAL.pdb
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\DAL.xml
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\Property.pdb
+D:\Projects\KEGX\Other Ref\WEB\BLL\bin\Debug\Property.xml
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\BLL.Resources.resources
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\BLL.dll
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\BLL.xml
+D:\Projects\KEGX\Other Ref\WEB\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\BLL.dll
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\BLL.xml
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\DAL.dll
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\Property.dll
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\DBExceptionHandler.dll
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\DAL.pdb
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\DAL.xml
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\Property.pdb
+D:\Projects\KEGX\WEB\Prod\BLL\bin\Debug\Property.xml
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\BLL.Resources.resources
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\GenerateResource.read.1.tlog
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\GenerateResource.write.1.tlog
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\BLL.dll
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\BLL.xml
+D:\Projects\KEGX\WEB\Prod\BLL\obj\Debug\BLL.pdb
+E:\KEGX\WEB\Prod\BLL\bin\Debug\BLL.dll
+E:\KEGX\WEB\Prod\BLL\bin\Debug\BLL.pdb
+E:\KEGX\WEB\Prod\BLL\bin\Debug\BLL.xml
+E:\KEGX\WEB\Prod\BLL\bin\Debug\DAL.dll
+E:\KEGX\WEB\Prod\BLL\bin\Debug\Property.dll
+E:\KEGX\WEB\Prod\BLL\bin\Debug\DAL.pdb
+E:\KEGX\WEB\Prod\BLL\bin\Debug\DAL.xml
+E:\KEGX\WEB\Prod\BLL\bin\Debug\Property.pdb
+E:\KEGX\WEB\Prod\BLL\bin\Debug\Property.xml
+E:\KEGX\WEB\Prod\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\KEGX\WEB\Prod\BLL\obj\Debug\BLL.Resources.resources
+E:\KEGX\WEB\Prod\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\KEGX\WEB\Prod\BLL\obj\Debug\BLL.dll
+E:\KEGX\WEB\Prod\BLL\obj\Debug\BLL.xml
+E:\KEGX\WEB\Prod\BLL\obj\Debug\BLL.pdb
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\BLL.dll
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\BLL.pdb
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\BLL.xml
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\DAL.dll
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\Property.dll
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\DAL.pdb
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\DAL.xml
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\Property.pdb
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\bin\Debug\Property.xml
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\obj\Debug\BLL.Resources.resources
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\obj\Debug\BLL.dll
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\obj\Debug\BLL.xml
+E:\KEGX\WEB\TFS\Source\Production\Portal\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\BLL.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\BLL.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\DAL.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\Property.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\DAL.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\DAL.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\Property.pdb
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\bin\Debug\Property.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.Resources.resources
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.dll
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.xml
+D:\Projects\KEGX\WEB\UAT\With SSL\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\BLL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\BLL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\DAL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\Property.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\DAL.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\DAL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\Property.pdb
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\bin\Debug\Property.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.Resources.resources
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.dll
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.xml
+D:\Projects\KEGX\WEB\Prod\With SSL Azure\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\BLL.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\BLL.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\DAL.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\Property.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\DAL.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\DAL.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\Property.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\Property.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.Resources.resources
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.vbproj.CopyComplete
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.dll
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.xml
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\obj\Debug\BLL.pdb
+D:\Projects\KEGX\WEB\Prod\Azure\With SSL Azure SQL AzureAD\BLL\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\BLL.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\BLL.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\BLL.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\DAL.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\Property.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\DAL.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\DAL.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\Property.pdb
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\bin\Debug\Property.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.vbproj.AssemblyReference.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.Resources.resources
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.vbproj.CopyComplete
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.dll
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.xml
+D:\TrackIT\Project Source Code\KegExchange\Source\WEB\BLL\obj\Debug\BLL.pdb

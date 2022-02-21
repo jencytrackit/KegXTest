@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\TrackIT\Publish Files\KegX\WebApp</_PublishTargetUrl>
+    <History>True|2022-02-09T08:40:19.2758174Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>11/16/2017 10:39:27</publishTime>
+    </File>
+    <File Include="ADLogin.aspx">
+      <publishTime>04/16/2019 10:17:51</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditCustomers.aspx">
+      <publishTime>11/16/2017 10:39:34</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditEmployees.aspx">
+      <publishTime>11/16/2017 10:39:35</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditEmptyKegReturn_BPToSupplier.aspx">
+      <publishTime>11/16/2017 10:39:34</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditEmptyKegReturn_CusToBP.aspx">
+      <publishTime>11/16/2017 10:39:35</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditEmptyKegReturn_CusToSupplier.aspx">
+      <publishTime>05/31/2018 11:50:44</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditFullKegReturn_Customer.aspx">
+      <publishTime>11/16/2017 10:39:35</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditKegPurchase_SupToCus.aspx">
+      <publishTime>11/16/2017 10:39:35</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditOrganization.aspx">
+      <publishTime>11/16/2017 10:39:35</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditReceiveEmptyKeg_BPtoBP.aspx">
+      <publishTime>11/16/2017 10:39:35</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditRoles.aspx">
+      <publishTime>11/16/2017 10:39:36</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditSuppliers.aspx">
+      <publishTime>11/16/2017 10:39:36</publishTime>
+    </File>
+    <File Include="AppWeb/frmAddEditTransferEmptyKeg_BPtoBP.aspx">
+      <publishTime>11/16/2017 10:39:36</publishTime>
+    </File>
+    <File Include="AppWeb/frmBranchPlantList.aspx">
+      <publishTime>11/16/2017 10:39:36</publishTime>
+    </File>
+    <File Include="AppWeb/frmChangePassword.aspx">
+      <publishTime>11/16/2017 10:39:36</publishTime>
+    </File>
+    <File Include="AppWeb/frmCustomersList.aspx">
+      <publishTime>11/16/2017 10:39:36</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmployeeList.aspx">
+      <publishTime>11/16/2017 10:39:37</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmptyCustomerApproval.aspx">
+      <publishTime>01/27/2022 16:52:41</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmptyKegReceive_BPtoBP.aspx">
+      <publishTime>11/16/2017 10:39:37</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmptyKegReturnList.aspx">
+      <publishTime>11/16/2017 10:39:38</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmptyKegReturn_CusToSupplier.aspx">
+      <publishTime>11/16/2017 10:39:37</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmptyKegReturn_ToSupplier.aspx">
+      <publishTime>11/16/2017 10:39:37</publishTime>
+    </File>
+    <File Include="AppWeb/frmEmptyKegTransfer_BPtoBP.aspx">
+      <publishTime>11/16/2017 10:39:38</publishTime>
+    </File>
+    <File Include="AppWeb/frmFullKegReceiveList_FromSupplier.aspx">
+      <publishTime>11/16/2017 10:39:38</publishTime>
+    </File>
+    <File Include="AppWeb/frmFullKegReturnCustomer.aspx">
+      <publishTime>11/16/2017 10:39:38</publishTime>
+    </File>
+    <File Include="AppWeb/frmFullKegReturnCustomer_Bulk.aspx">
+      <publishTime>11/22/2018 12:52:00</publishTime>
+    </File>
+    <File Include="AppWeb/frmFullKegTransferList_BPtoBP.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmHome.aspx">
+      <publishTime>11/16/2017 10:39:38</publishTime>
+    </File>
+    <File Include="AppWeb/frmInventoryList.aspx">
+      <publishTime>11/16/2017 10:39:38</publishTime>
+    </File>
+    <File Include="AppWeb/frmItemMasterList.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmKegPurchaseModule_SupToCus.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmMyProfile.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmOrganisationMasterList.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmOrganizationList.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmReportRequests.aspx">
+      <publishTime>02/03/2022 14:27:54</publishTime>
+    </File>
+    <File Include="AppWeb/frmRoles.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmSalesOrderList.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmStockOpeningBalance.aspx">
+      <publishTime>11/16/2017 10:39:39</publishTime>
+    </File>
+    <File Include="AppWeb/frmSuppliersList.aspx">
+      <publishTime>11/16/2017 10:39:40</publishTime>
+    </File>
+    <File Include="AppWeb/frmTABAuditTrailList.aspx">
+      <publishTime>11/16/2017 10:39:40</publishTime>
+    </File>
+    <File Include="AppWeb/GenericErrorPage.aspx">
+      <publishTime>04/16/2019 08:16:58</publishTime>
+    </File>
+    <File Include="AppWeb/LookupWebService.asmx">
+      <publishTime>11/16/2017 10:39:40</publishTime>
+    </File>
+    <File Include="AppWeb/NewSearch.aspx">
+      <publishTime>11/16/2017 10:39:40</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/BranchPlantReconciliation.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/CustomerEmptyKegCollection.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/CustomerReconciliation.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/CustomerSOA.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/CustomerSummary.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/Discrepancy.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/DiscrepancyTimeDelay.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/Emptiesinyard.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/ItemDiscrepancy.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/SupplierReconciliation.rpt">
+      <publishTime>11/16/2017 10:39:43</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/SupplierSOA.rpt">
+      <publishTime>11/16/2017 10:39:44</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/SupplierSummary.rpt">
+      <publishTime>11/16/2017 10:39:44</publishTime>
+    </File>
+    <File Include="AppWeb/Reports/TotalKegPopulation.rpt">
+      <publishTime>11/16/2017 10:39:44</publishTime>
+    </File>
+    <File Include="AppWeb/rptBranchPlantReconciliation.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptCustomerEmptyKegCollection.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptCustomerReconciliation.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptCustomerStatementofAccount.aspx">
+      <publishTime>02/01/2022 21:37:12</publishTime>
+    </File>
+    <File Include="AppWeb/rptCustomerSummary.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptDiscrepancy.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptDiscrepancyTimeDelay.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptDownloadCustApprovedData.aspx">
+      <publishTime>11/16/2017 10:39:41</publishTime>
+    </File>
+    <File Include="AppWeb/rptEmptiesinyard.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptSupplierReconciliation.aspx">
+      <publishTime>02/02/2018 10:37:19</publishTime>
+    </File>
+    <File Include="AppWeb/rptSupplierStatementofAccount.aspx">
+      <publishTime>02/02/2018 10:37:18</publishTime>
+    </File>
+    <File Include="AppWeb/rptSupplierSummary.aspx">
+      <publishTime>02/02/2018 10:37:18</publishTime>
+    </File>
+    <File Include="AppWeb/rptTotalKegPopulation.aspx">
+      <publishTime>02/02/2018 10:37:18</publishTime>
+    </File>
+    <File Include="App_GlobalResources/Languages/Arabic/lang.ar.resx">
+      <publishTime>11/16/2017 10:39:31</publishTime>
+    </File>
+    <File Include="App_GlobalResources/Languages/English/lang.en-US.resx">
+      <publishTime>11/16/2017 10:39:30</publishTime>
+    </File>
+    <File Include="App_GlobalResources/Languages/FallBack/lang.resx">
+      <publishTime>11/16/2017 10:39:30</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>11/16/2017 10:39:45</publishTime>
+    </File>
+    <File Include="bin/BLL.dll">
+      <publishTime>02/09/2022 12:40:07</publishTime>
+    </File>
+    <File Include="bin/BLL.pdb">
+      <publishTime>02/09/2022 12:40:07</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>11/16/2017 10:39:28</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.CrystalReports.Engine.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.ClientDoc.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CommLayer.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CommonControls.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CommonObjectModel.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.Controllers.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.CubeDefModel.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.DataDefModel.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.ObjectFactory.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.Prompting.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.ReportDefModel.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportAppServer.XmlSerialize.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.ReportSource.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Shared.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/CrystalDecisions.Web.dll">
+      <publishTime>05/15/2019 13:28:08</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>02/09/2022 12:40:06</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>02/09/2022 12:40:06</publishTime>
+    </File>
+    <File Include="bin/DBExceptionHandler.dll">
+      <publishTime>11/16/2017 10:39:25</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>11/16/2017 10:39:30</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>11/16/2017 10:39:45</publishTime>
+    </File>
+    <File Include="bin/KEG-X.dll">
+      <publishTime>02/09/2022 12:40:11</publishTime>
+    </File>
+    <File Include="bin/KEG-X.pdb">
+      <publishTime>02/09/2022 12:40:11</publishTime>
+    </File>
+    <File Include="bin/KEG-X.xml">
+      <publishTime>02/09/2022 12:40:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AnalysisServices.AdomdClient.dll">
+      <publishTime>10/20/2020 13:34:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/05/2018 18:05:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.pdb">
+      <publishTime>10/05/2018 17:55:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/05/2018 18:06:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.pdb">
+      <publishTime>10/05/2018 17:55:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/05/2018 18:10:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/05/2018 18:20:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocols.OpenIdConnect.pdb">
+      <publishTime>10/05/2018 17:55:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Protocols.pdb">
+      <publishTime>10/05/2018 17:55:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/05/2018 18:12:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.pdb">
+      <publishTime>10/05/2018 17:55:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>01/18/2019 19:20:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>01/18/2019 19:20:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>01/18/2019 19:20:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>01/18/2019 19:21:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OpenIdConnect.dll">
+      <publishTime>01/18/2019 19:20:50</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/20/2017 18:33:18</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 10:49:34</publishTime>
+    </File>
+    <File Include="bin/Property.dll">
+      <publishTime>02/09/2022 12:40:05</publishTime>
+    </File>
+    <File Include="bin/Property.pdb">
+      <publishTime>02/09/2022 12:40:05</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>09/19/2021 07:47:59</publishTime>
+    </File>
+    <File Include="bin/System.Data.SqlServerCe.dll">
+      <publishTime>10/02/2007 05:04:34</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/05/2018 18:04:30</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.pdb">
+      <publishTime>10/05/2018 17:55:52</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>11/16/2017 10:39:29</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>11/16/2017 10:39:59</publishTime>
+    </File>
+    <File Include="ClosedXML.dll">
+      <publishTime>11/16/2017 10:39:28</publishTime>
+    </File>
+    <File Include="Connection.xml">
+      <publishTime>11/16/2017 10:39:28</publishTime>
+    </File>
+    <File Include="Controls/ATSHeader.ascx">
+      <publishTime>11/16/2017 10:39:49</publishTime>
+    </File>
+    <File Include="Controls/chkuserpresent.ascx">
+      <publishTime>11/16/2017 10:39:49</publishTime>
+    </File>
+    <File Include="Controls/MenuList.ascx">
+      <publishTime>11/16/2017 10:39:49</publishTime>
+    </File>
+    <File Include="Controls/MyMessageBox.ascx">
+      <publishTime>11/16/2017 10:39:49</publishTime>
+    </File>
+    <File Include="CSS/all-ie-only.css">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="CSS/style.css">
+      <publishTime>01/27/2022 21:41:50</publishTime>
+    </File>
+    <File Include="CSS/style1.css">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="CSS/styleLoading.css">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="CSS/Web.config">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/16/2017 10:39:28</publishTime>
+    </File>
+    <File Include="DocumentFormat.OpenXml.dll">
+      <publishTime>11/16/2017 10:39:30</publishTime>
+    </File>
+    <File Include="frmLogin.aspx">
+      <publishTime>02/02/2018 13:50:46</publishTime>
+    </File>
+    <File Include="frmLogOut.aspx">
+      <publishTime>11/16/2017 10:39:29</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/16/2017 10:39:29</publishTime>
+    </File>
+    <File Include="Images/0.gif">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/8.gif">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/A+E.jpg">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/arrow.png">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/arrow1.png">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/assets.gif">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/blank.gif">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/bnr1.jpg">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/bnr2.jpg">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/bnr3.jpg">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/bullet.png">
+      <publishTime>11/16/2017 10:39:50</publishTime>
+    </File>
+    <File Include="Images/Delete.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/Edit.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/eg.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/footer-bg.jpg">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/header_bg.png">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/index_03.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/index_07.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/Insert.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/keg flash.swf">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Images/loading.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/loading45.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/login_downl1.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/login_downr.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/login_top1.gif">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/logo.png">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/logonew.png">
+      <publishTime>11/16/2017 10:39:51</publishTime>
+    </File>
+    <File Include="Images/ma-nbg-rep.jpg">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/main.swf">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/menu_arrow.png">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/nav_bg.jpg">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/prof-img.jpg">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/RightArrow.jpg">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/r_01.gif">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/select-arrow.png">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/sprt.png">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/topbar_01.gif">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/topbar_02.gif">
+      <publishTime>11/16/2017 10:39:52</publishTime>
+    </File>
+    <File Include="Images/us.gif">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Images/Web.config">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Js/custom.js">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Js/jquery-1.11.0.js">
+      <publishTime>01/16/2018 09:55:09</publishTime>
+    </File>
+    <File Include="Js/jquery.customSelect.js">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Js/jquery.js">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Js/Web.config">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>11/16/2017 10:39:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="Scripts/Web.config">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>11/16/2017 10:39:29</publishTime>
+    </File>
+    <File Include="Styles/Default.css">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="Styles/StyleSheet1.css">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="Templates/MasterPage.Master">
+      <publishTime>05/09/2019 14:07:34</publishTime>
+    </File>
+    <File Include="TransformXSLT.xsl">
+      <publishTime>11/16/2017 10:39:30</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/09/2022 12:40:12</publishTime>
+    </File>
+    <File Include="WebServices/CascadeDropDown.asmx">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+    <File Include="WebServices/HHT.asmx">
+      <publishTime>11/16/2017 10:39:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

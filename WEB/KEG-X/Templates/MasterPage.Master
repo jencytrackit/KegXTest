@@ -1,0 +1,138 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MasterPage.master.vb"
+    Inherits="KEG_X.TrackITKTS.MasterPage" %>
+
+<%@ Register TagPrefix="ATS" TagName="Header" Src="../controls/ATSHeader.ascx" %>
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+<%@ Register TagPrefix="ATSMenu" TagName="Menu" Src="../controls/MenuList.ascx" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Keg Tracking Application</title>
+    <!-- main site css -->
+    <link rel="stylesheet" href="~/css/style.css" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"' type="text/css" />
+    <style type="text/css">
+         .MyClass
+        {
+ 
+            width : 20px !important;
+        }
+    </style>
+    <script type="text/javascript">
+        function RowMouseOver(sender, eventArgs) {
+            $get(eventArgs.get_id()).className += " RowMouseOver";
+        }
+
+        function RowMouseOut(sender, eventArgs) {
+            var row = $get(eventArgs.get_id());
+            row.className = row.className.replace("RowMouseOver", "RowMouseOut");
+        }
+        function OnClientClicking(button, args) {
+            window.location = button.get_navigateUrl();
+            args.set_cancel(true);
+        }
+    </script>
+    <!--[if IE]>
+	    <link rel="stylesheet" type="text/css" href="~/css/all-ie-only.css" />
+    <![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="margin-top: 0px; margin-left: 0px; margin-bottom: 0px; margin-right: 0px">
+    <form id="form1" runat="server">
+    <telerik:RadFormDecorator ID="RadFormDecorator1" runat="server" DecoratedControls="All"
+        EnableRoundedCorners="true" />
+    <!-- Header Section  -->
+    <div class="header">
+        <div class="main-wrapper">
+            <div class="col6">
+                <h1 class="logo">
+                    <a href="#">
+                        <img src="../images/logo.png" alt="logo" /></a></h1>
+            </div>
+            <div class="right-side" style="color:white;">PROD - VM1</div>
+            <div class="right-side">
+                <telerik:RadComboBox ID="rcbCompanyName" runat="server" AutoPostBack="true" CausesValidation="false" visible="false"
+                    Width="195px">
+                </telerik:RadComboBox>                
+            </div>            
+
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <div class="main-wrapper">
+        <!-- Main Section Section  -->
+        <div class="LeftMenuDevider">
+            <div class="body-wrapper">
+                <!-- Left Panel -->
+                <div class="left-panel">
+                    <div class="hide-show">
+                        <img src="../images/menu_arrow.png" alt="" />
+                    </div>
+                    <!-- Hide/ Show LeftPanel -->
+                    <!-- Left Panel acrodian -->
+                    <ul class="acrodian">
+                        <asp:Literal ID="ltMenu" runat="server"></asp:Literal>
+                    </ul>
+                </div>
+                <!-- Content Panel  -->
+                <div class="contentnfooter">
+                    <div class="content-panel">
+                        <div class="inner">
+                            <telerik:RadMenu ID="RadMenu1" runat="server" Width="100%" ClickToOpen="true" Skin="WebBlue"
+                                Style="z-index: 1000;">
+                            </telerik:RadMenu>
+                            <telerik:RadMenu ID="RadMenu2" runat="server" Width="100%" ClickToOpen="true" Skin="WebBlue"
+                                Style="z-index: 1000;" Visible="false">
+                                <Items>
+                                    <telerik:RadMenuItem Text="Home" NavigateUrl="../AppWeb/frmHome.aspx">
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem Text="Transactions">
+                                        <Items>
+                                            <telerik:RadMenuItem Text="Keg Purchase Module" NavigateUrl="../AppWeb/frmKegPurchaseModule_SupToCus.aspx">
+                                            </telerik:RadMenuItem>
+                                        </Items>
+                                    </telerik:RadMenuItem>
+                                    <telerik:RadMenuItem Text="Logout" NavigateUrl="../frmLogOut.aspx">
+                                    </telerik:RadMenuItem>
+                                </Items>
+                            </telerik:RadMenu>
+                            <asp:ContentPlaceHolder ID="cphMain" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                    <!-- Footer Panel -->
+                </div>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+        <div class="clear">
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <!-- Footer Panel -->
+    <div class="footer-container">
+        <div class="footer">
+            <div class="f-left">
+                <asp:Label ID="lblFooterText1" Text="Browsers : IE 6.0 or Later Versions" runat="server" />
+                <b>
+                    <asp:Label ID="lblSession1" Text="Note: Your session will expire in" runat="server" />
+                    <asp:Label ID="lblSession2" Text="minute(s) if you are idle," runat="server" />
+                    <asp:Label ID="Label1" Text="" runat="server" />
+                </b>&copy; 2012 African + Eastern All Rights Reserved
+            </div>
+            <div class="f-right">
+                <a href="#"></a>
+            </div>
+        </div>
+    </div>
+    <!-- Javascript  Section  -->
+    <script type="text/javascript" src="../Js/jquery-1.11.0.js"></script>
+    <script type="text/javascript" src="../js/custom.js"></script>
+    </form>
+</body>
+</html>

@@ -1,0 +1,3660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblCalendar" xml:space="preserve">
+    <value>اختار التاريخ</value>
+  </data>
+  <data name="gridCompanyName" xml:space="preserve">
+    <value>اسم الشركة</value>
+  </data>
+  <data name="gridLocationName" xml:space="preserve">
+    <value>اسم الموقع</value>
+  </data>
+  <data name="gridEmployeeName" xml:space="preserve">
+    <value>اسم الموظف</value>
+  </data>
+  <data name="gridSupplierName" xml:space="preserve">
+    <value>اسم المورد</value>
+  </data>
+  <data name="gridManufacturerName" xml:space="preserve">
+    <value>اسم جهة التصنيع</value>
+  </data>
+  <data name="addATSCodedValues" xml:space="preserve">
+    <value>سجل سلسلة القيم</value>
+  </data>
+  <data name="lblType" xml:space="preserve">
+    <value>النوع</value>
+  </data>
+  <data name="rfvType" xml:space="preserve">
+    <value>النوع اجباري</value>
+  </data>
+  <data name="TextDirection" xml:space="preserve">
+    <value>RTL</value>
+  </data>
+  <data name="lblTypeID" xml:space="preserve">
+    <value>نوع بطاقة التعريف</value>
+  </data>
+  <data name="rfvTypeID" xml:space="preserve">
+    <value>نوع بطاقة التعريف اجباري</value>
+  </data>
+  <data name="regvalTypeID" xml:space="preserve">
+    <value>القيمة الاسمية اجباري في نوع بطاقة التعريف</value>
+  </data>
+  <data name="lblReaderType" xml:space="preserve">
+    <value>نوع القارئ</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="rfvName" xml:space="preserve">
+    <value>الاسم اجباري</value>
+  </data>
+  <data name="addATSCompEmp" xml:space="preserve">
+    <value>سجل الموظفين بالشركة</value>
+  </data>
+  <data name="rfvCompanyID" xml:space="preserve">
+    <value>اسم الشركة اجباري</value>
+  </data>
+  <data name="gridExternalCompanyName" xml:space="preserve">
+    <value>اسم الشركة الخارجية</value>
+  </data>
+  <data name="gridContactPerson" xml:space="preserve">
+    <value>جهة التواصل</value>
+  </data>
+  <data name="gridDepartmentID" xml:space="preserve">
+    <value>بطاقة تعريف القسم</value>
+  </data>
+  <data name="gridDepartmentName" xml:space="preserve">
+    <value>اسم القسم</value>
+  </data>
+  <data name="addATSDepartments" xml:space="preserve">
+    <value>سجل القسم</value>
+  </data>
+  <data name="lblDepartmentName" xml:space="preserve">
+    <value>اسم القسم</value>
+  </data>
+  <data name="rfvDepartmentName" xml:space="preserve">
+    <value>القسم اجباري</value>
+  </data>
+  <data name="gridContactID" xml:space="preserve">
+    <value>بطافة تعريف جهة التواصل</value>
+  </data>
+  <data name="gridDepartment" xml:space="preserve">
+    <value>الإدارة</value>
+  </data>
+  <data name="gridPhoneNo" xml:space="preserve">
+    <value>رقم الهاتف</value>
+  </data>
+  <data name="gridEmailID" xml:space="preserve">
+    <value>البريد الإلكتروني</value>
+  </data>
+  <data name="addATSECompContacts" xml:space="preserve">
+    <value>سجل جهات التواصل الخارجية</value>
+  </data>
+  <data name="rfvContactPerson" xml:space="preserve">
+    <value>جهة التواصل اجبارية</value>
+  </data>
+  <data name="lblDepartment" xml:space="preserve">
+    <value>الإدارة</value>
+  </data>
+  <data name="lblPhoneNo" xml:space="preserve">
+    <value>رقم الهاتف</value>
+  </data>
+  <data name="lblEmailID" xml:space="preserve">
+    <value>البريد الإلكتروني</value>
+  </data>
+  <data name="valEmailAddress" xml:space="preserve">
+    <value>البريد الإلكتروني غير صحيح</value>
+  </data>
+  <data name="rfvExternalCompanyName" xml:space="preserve">
+    <value>اسم الشركة الخارجية اجباري</value>
+  </data>
+  <data name="gridEmployeeID" xml:space="preserve">
+    <value>بطاقة تعريف الموظف</value>
+  </data>
+  <data name="gridEmployeeNo" xml:space="preserve">
+    <value>رقم الموظف</value>
+  </data>
+  <data name="gridPosition" xml:space="preserve">
+    <value>المسمى الوظيفي</value>
+  </data>
+  <data name="gridPhone" xml:space="preserve">
+    <value>الهاتف</value>
+  </data>
+  <data name="gridEmail" xml:space="preserve">
+    <value>البريد الإلكتروني</value>
+  </data>
+  <data name="gridShow" xml:space="preserve">
+    <value>العرض</value>
+  </data>
+  <data name="addATSEmployees" xml:space="preserve">
+    <value>سجل الموظفين</value>
+  </data>
+  <data name="rfvEmployeeName" xml:space="preserve">
+    <value>اسم الموظف اجباري</value>
+  </data>
+  <data name="lblEmployeeNo" xml:space="preserve">
+    <value>معرف المستخدم</value>
+  </data>
+  <data name="rfvDepartmentID" xml:space="preserve">
+    <value>اسم الادارة اجباري</value>
+  </data>
+  <data name="lblPosition" xml:space="preserve">
+    <value>المسمى الوظيفي</value>
+  </data>
+  <data name="lblPhone" xml:space="preserve">
+    <value>الهاتف</value>
+  </data>
+  <data name="ConfirmReturn" xml:space="preserve">
+    <value>هل أنت متأكد أنك تريد ارسال الملف؟</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>البريد الإلكتروني</value>
+  </data>
+  <data name="rfvEmail" xml:space="preserve">
+    <value>البريد الالكتروني اجباري</value>
+  </data>
+  <data name="lblShow" xml:space="preserve">
+    <value>العرض</value>
+  </data>
+  <data name="gridErrID" xml:space="preserve">
+    <value>خطأ في بطاقة التعريف</value>
+  </data>
+  <data name="gridErrorCode" xml:space="preserve">
+    <value>رمز الخطأ</value>
+  </data>
+  <data name="gridErrorSource" xml:space="preserve">
+    <value>مصدر الخطأ</value>
+  </data>
+  <data name="gridErrorDescription" xml:space="preserve">
+    <value>وصف الخطأ</value>
+  </data>
+  <data name="gridTimeStamp" xml:space="preserve">
+    <value>التاريخ</value>
+  </data>
+  <data name="addATSErrorLog" xml:space="preserve">
+    <value>سجل ملف الخطأ ErrorLog</value>
+  </data>
+  <data name="lblErrorCode" xml:space="preserve">
+    <value>رمز الخطأ</value>
+  </data>
+  <data name="lblErrorSource" xml:space="preserve">
+    <value>مصدر الخطأ</value>
+  </data>
+  <data name="lblErrorDescription" xml:space="preserve">
+    <value>وصف الخطأ</value>
+  </data>
+  <data name="lblTimeStamp" xml:space="preserve">
+    <value>ختم الوقت</value>
+  </data>
+  <data name="cvTimeStamp" xml:space="preserve">
+    <value>تاريخ ختم الوقت غير صحيح</value>
+  </data>
+  <data name="gridECompanyID" xml:space="preserve">
+    <value>التعريف الإلكتروني للشركة</value>
+  </data>
+  <data name="gridAddress" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="gridCity" xml:space="preserve">
+    <value>المدينة</value>
+  </data>
+  <data name="gridState" xml:space="preserve">
+    <value>الولاية</value>
+  </data>
+  <data name="gridCountry" xml:space="preserve">
+    <value>البلد</value>
+  </data>
+  <data name="gridFax" xml:space="preserve">
+    <value>الفاكس</value>
+  </data>
+  <data name="gridWebsite" xml:space="preserve">
+    <value>الموقع الإلكتروني</value>
+  </data>
+  <data name="gridECompType" xml:space="preserve">
+    <value>نوع الشركة الخارجية</value>
+  </data>
+  <data name="addATSExternalCompany" xml:space="preserve">
+    <value>سجل الشركة الخارجية</value>
+  </data>
+  <data name="lblAddress" xml:space="preserve">
+    <value>العنوان</value>
+  </data>
+  <data name="lblCity" xml:space="preserve">
+    <value>المدينة</value>
+  </data>
+  <data name="lblState" xml:space="preserve">
+    <value>الولاية</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>البلد</value>
+  </data>
+  <data name="lblFax" xml:space="preserve">
+    <value>الفاكس</value>
+  </data>
+  <data name="lblWebsite" xml:space="preserve">
+    <value>الموقع الإلكتروني</value>
+  </data>
+  <data name="lblECompType" xml:space="preserve">
+    <value>نوع الشركة الخارجية</value>
+  </data>
+  <data name="rfvECompType" xml:space="preserve">
+    <value>نوع الشركة الخارجية اجباري</value>
+  </data>
+  <data name="gridLocationID" xml:space="preserve">
+    <value>تعريف الموقع</value>
+  </data>
+  <data name="gridOffice" xml:space="preserve">
+    <value>المكتب</value>
+  </data>
+  <data name="gridBuilding" xml:space="preserve">
+    <value>المبنى</value>
+  </data>
+  <data name="gridFloor" xml:space="preserve">
+    <value>الطابق</value>
+  </data>
+  <data name="gridRoom" xml:space="preserve">
+    <value>الغرفة</value>
+  </data>
+  <data name="addATSLocation" xml:space="preserve">
+    <value>سجل الموقع</value>
+  </data>
+  <data name="rfvLocationName" xml:space="preserve">
+    <value>اسم الموقع اجباري</value>
+  </data>
+  <data name="lblOffice" xml:space="preserve">
+    <value>المكتب</value>
+  </data>
+  <data name="lblBuilding" xml:space="preserve">
+    <value>المبنى</value>
+  </data>
+  <data name="rfvBuilding" xml:space="preserve">
+    <value>المبنى اجباري</value>
+  </data>
+  <data name="lblFloor" xml:space="preserve">
+    <value>الطابق</value>
+  </data>
+  <data name="rfvFloor" xml:space="preserve">
+    <value>الطابق اجباري</value>
+  </data>
+  <data name="lblRoom" xml:space="preserve">
+    <value>الغرفة</value>
+  </data>
+  <data name="rfvRoom" xml:space="preserve">
+    <value>الغرفة اجبارية</value>
+  </data>
+  <data name="gridCompanyID" xml:space="preserve">
+    <value>تعريف الشركة</value>
+  </data>
+  <data name="gridShortNote" xml:space="preserve">
+    <value>ملاحظات قصيرة</value>
+  </data>
+  <data name="gridCompanyType" xml:space="preserve">
+    <value>نوع الشركة</value>
+  </data>
+  <data name="gridParentCompanyID" xml:space="preserve">
+    <value>تعريف الشركة الرئيسية</value>
+  </data>
+  <data name="addATSOrganization" xml:space="preserve">
+    <value>سجل الشركة</value>
+  </data>
+  <data name="lblShortNote" xml:space="preserve">
+    <value>ملاحظات قصيرة</value>
+  </data>
+  <data name="lblCompanyType" xml:space="preserve">
+    <value>نوع الشركة</value>
+  </data>
+  <data name="rfvCompanyType" xml:space="preserve">
+    <value>نوع الشركة اجباري</value>
+  </data>
+  <data name="regvalCompanyType" xml:space="preserve">
+    <value>القيمة الرقمية اجبارية في نوع الشركة</value>
+  </data>
+  <data name="lblParentCompanyID" xml:space="preserve">
+    <value>اسم الشركة الرئيسية</value>
+  </data>
+  <data name="rfvParentCompanyID" xml:space="preserve">
+    <value>الشركة الرئيسية اجبارية</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="lblCPassword" xml:space="preserve">
+    <value>تأكيد كلمة المرور</value>
+  </data>
+  <data name="lblOldPassword" xml:space="preserve">
+    <value>كلمة المرور القديمة</value>
+  </data>
+  <data name="lblNewPassword" xml:space="preserve">
+    <value>كلمة المرور الجديدة</value>
+  </data>
+  <data name="valComparePassword" xml:space="preserve">
+    <value>يجب أن تتطابق حقول كلمة المرور</value>
+  </data>
+  <data name="valPasswordLength" xml:space="preserve">
+    <value>يجب أن تتضمن كلمة المرور 6 رموز على الأقل</value>
+  </data>
+  <data name="gridAllowedCompaniesNo" xml:space="preserve">
+    <value>رقم الشركات المسموح</value>
+  </data>
+  <data name="lblAllowedCompaniesNo" xml:space="preserve">
+    <value>رقم الشركات المسموح</value>
+  </data>
+  <data name="rfvAllowedCompaniesNo" xml:space="preserve">
+    <value>رقم الشركات المسموح اجباري</value>
+  </data>
+  <data name="regvalAllowedCompaniesNo" xml:space="preserve">
+    <value>القيمة الرقمية مطلوبة في رقم الشركات المسموح</value>
+  </data>
+  <data name="gridLogID" xml:space="preserve">
+    <value>تعريف السجل</value>
+  </data>
+  <data name="gridChangeSource" xml:space="preserve">
+    <value>مصدر التغيير</value>
+  </data>
+  <data name="gridChangeDescription" xml:space="preserve">
+    <value>وصف التغيير</value>
+  </data>
+  <data name="addATSUserLog" xml:space="preserve">
+    <value>سجل المستخدم</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="rfvUserName" xml:space="preserve">
+    <value>اسم المستخدم </value>
+  </data>
+  <data name="regvalUserName" xml:space="preserve">
+    <value>الارقام مطلوبة باسم المستخدم</value>
+  </data>
+  <data name="lblChangeSource" xml:space="preserve">
+    <value>مصدر التغيير</value>
+  </data>
+  <data name="rfvChangeSource" xml:space="preserve">
+    <value>مصدر التغيير اجباري</value>
+  </data>
+  <data name="lblChangeDescription" xml:space="preserve">
+    <value>وصف التغيير</value>
+  </data>
+  <data name="rfvChangeDescription" xml:space="preserve">
+    <value>وصف التغغير اجباري</value>
+  </data>
+  <data name="gridUserID" xml:space="preserve">
+    <value>تعريف المستخدم</value>
+  </data>
+  <data name="gridRole" xml:space="preserve">
+    <value>الدور</value>
+  </data>
+  <data name="gridChangedBy" xml:space="preserve">
+    <value>القائم على التغيير</value>
+  </data>
+  <data name="gridDisable" xml:space="preserve">
+    <value>تعطيل</value>
+  </data>
+  <data name="gridLogged" xml:space="preserve">
+    <value>مسجل</value>
+  </data>
+  <data name="addATSUsers" xml:space="preserve">
+    <value>سجل المستخدمين</value>
+  </data>
+  <data name="rfvPassword" xml:space="preserve">
+    <value>كلمة المرور </value>
+  </data>
+  <data name="rfvCPassword" xml:space="preserve">
+    <value>تأكيد كلمة المرور اجبارية</value>
+  </data>
+  <data name="rfvOPassword" xml:space="preserve">
+    <value>كلمة المرور القديمة اجبارية</value>
+  </data>
+  <data name="rfvNPassword" xml:space="preserve">
+    <value>كلمة المرور الجديدة اجبارية</value>
+  </data>
+  <data name="rfvEmployee" xml:space="preserve">
+    <value>الموظف اجباري</value>
+  </data>
+  <data name="lblRole" xml:space="preserve">
+    <value>الدور</value>
+  </data>
+  <data name="rfvRole" xml:space="preserve">
+    <value>الدور اجباري</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>اللغة المفضلة</value>
+  </data>
+  <data name="lblChangedBy" xml:space="preserve">
+    <value>القائم على التغيير</value>
+  </data>
+  <data name="lblDisable" xml:space="preserve">
+    <value>تعطيل</value>
+  </data>
+  <data name="rfvDisable" xml:space="preserve">
+    <value>التعطيل اجباري</value>
+  </data>
+  <data name="lblLogged" xml:space="preserve">
+    <value>مسجل</value>
+  </data>
+  <data name="lblFlag" xml:space="preserve">
+    <value>تعليم</value>
+  </data>
+  <data name="lblAdd" xml:space="preserve">
+    <value>إضافة سجل جديد</value>
+  </data>
+  <data name="lblNoRecords" xml:space="preserve">
+    <value>لا يوجد سجلات حتى يتم عرضها</value>
+  </data>
+  <data name="gridPicture" xml:space="preserve">
+    <value>الصورة</value>
+  </data>
+  <data name="gridPictureView" xml:space="preserve">
+    <value>انقر هنا حتى يتم عرض الصورة بحجم أكبر</value>
+  </data>
+  <data name="gridEdit" xml:space="preserve">
+    <value>تعديل</value>
+  </data>
+  <data name="gridDelete" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="gridMenu" xml:space="preserve">
+    <value>القائمة</value>
+  </data>
+  <data name="btnSave" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="btnSaveAdd" xml:space="preserve">
+    <value>حفظ_إضافة جديد</value>
+  </data>
+  <data name="btnClear" xml:space="preserve">
+    <value>مسح الحقول</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>خروج</value>
+  </data>
+  <data name="ddlSelect" xml:space="preserve">
+    <value>اختار</value>
+  </data>
+  <data name="Inserted" xml:space="preserve">
+    <value>تم إدخال السجل بنجاح!</value>
+  </data>
+  <data name="Updated" xml:space="preserve">
+    <value>تم إدخال السجل بنجاح!</value>
+  </data>
+  <data name="Deleted" xml:space="preserve">
+    <value>تم إدخال السجل بنجاح!</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>لم يتم إعداد معلومات للسجل!</value>
+  </data>
+  <data name="Errors" xml:space="preserve">
+    <value>الأخطاء</value>
+  </data>
+  <data name="ConfirmDelete" xml:space="preserve">
+    <value>هل أنت متأكد أنك تريد إلغاء هذا السجل؟</value>
+  </data>
+  <data name="ManageDepartment" xml:space="preserve">
+    <value>إدارة القسم</value>
+  </data>
+  <data name="ManageEContacts" xml:space="preserve">
+    <value>إدارة جهات التواصل الخارجية</value>
+  </data>
+  <data name="ManageEmployees" xml:space="preserve">
+    <value>إدارة الموظفين</value>
+  </data>
+  <data name="ManageECompanies" xml:space="preserve">
+    <value>إدارة الشركات الخارجية</value>
+  </data>
+  <data name="ManageLocations" xml:space="preserve">
+    <value>إدارة المواقع</value>
+  </data>
+  <data name="ManageNotifications" xml:space="preserve">
+    <value>إدارة الإعلامات</value>
+  </data>
+  <data name="ManageOrganization" xml:space="preserve">
+    <value>إدارة تفاصيل الشركات</value>
+  </data>
+  <data name="ManageUsers" xml:space="preserve">
+    <value>إدارة المستخدمين</value>
+  </data>
+  <data name="leftCompanyName" xml:space="preserve">
+    <value>اسم الشركة</value>
+  </data>
+  <data name="leftLocationName" xml:space="preserve">
+    <value>الموقع</value>
+  </data>
+  <data name="leftEmployeeName" xml:space="preserve">
+    <value>الموظف</value>
+  </data>
+  <data name="lblChangePassword" xml:space="preserve">
+    <value>تغيير كلمة المرور</value>
+  </data>
+  <data name="rfvFileSize" xml:space="preserve">
+    <value>الحجم يتخطى حد 5 ميجا بايت</value>
+  </data>
+  <data name="rfvFileType" xml:space="preserve">
+    <value>يتم دعم الصيغ jpg فقط</value>
+  </data>
+  <data name="msgError" xml:space="preserve">
+    <value>العملية لم تنجح!</value>
+  </data>
+  <data name="valDepName" xml:space="preserve">
+    <value>اسم الإدارة موجود بالفعل للشركة المختارة</value>
+  </data>
+  <data name="valECompanyName" xml:space="preserve">
+    <value>اسم الشركة الخارجية موجود بالفعل للشركة المختارة</value>
+  </data>
+  <data name="lblCompType1" xml:space="preserve">
+    <value>أفراد</value>
+  </data>
+  <data name="lblCompType2" xml:space="preserve">
+    <value>مجموعة</value>
+  </data>
+  <data name="lblCompType3" xml:space="preserve">
+    <value>شركة شقيقة</value>
+  </data>
+  <data name="rfvCompType" xml:space="preserve">
+    <value>نوع الشركة اجباري</value>
+  </data>
+  <data name="rfvCompName" xml:space="preserve">
+    <value>اسم الشركة موجود بالفعل</value>
+  </data>
+  <data name="valUserLoggedIN" xml:space="preserve">
+    <value>تم تسجيل المستخدم المختار. يرجى القيام بهذه الخطوة عند تسجيل خروج المستخدم.</value>
+  </data>
+  <data name="valPrefLang" xml:space="preserve">
+    <value>يرجى اختيار اللغة المفضلة!</value>
+  </data>
+  <data name="valUserName" xml:space="preserve">
+    <value>لا ينبغي أن يحتوي اسم المستخدم على فراغات</value>
+  </data>
+  <data name="valUserNameExist" xml:space="preserve">
+    <value>اسم المستخدم موجود بالفعل. يرجى اختيار اسم آخر.</value>
+  </data>
+  <data name="deleteFail" xml:space="preserve">
+    <value>عملية مسح السجل فشلت!</value>
+  </data>
+  <data name="childExists" xml:space="preserve">
+    <value> السجلات التابعة موجودة!</value>
+  </data>
+  <data name="deletePrev" xml:space="preserve">
+    <value>لا يوجد لديك امتيازات كافية</value>
+  </data>
+  <data name="updateFail" xml:space="preserve">
+    <value>عملية تحديث السجل فشلت!</value>
+  </data>
+  <data name="changePassSucc" xml:space="preserve">
+    <value>تم تغيير كلمة المرور بنجاح</value>
+  </data>
+  <data name="changePassFail" xml:space="preserve">
+    <value>فشلت عملية تغيير كلمة المرور. تأكد من كلمة المرور القديمة!</value>
+  </data>
+  <data name="lblHelp" xml:space="preserve">
+    <value>مساعدة</value>
+  </data>
+  <data name="lblForgotPassword" xml:space="preserve">
+    <value>نسيت كلمة المرور</value>
+  </data>
+  <data name="lblValidationSummary" xml:space="preserve">
+    <value>يرجى إدخال</value>
+  </data>
+  <data name="valLoginFailed" xml:space="preserve">
+    <value>عملية تسجيل الدخول غير صحيحة</value>
+  </data>
+  <data name="valAlreadyLoggedIn" xml:space="preserve">
+    <value>قد تم تسجيل الدخول بنفس اسم المستخدم </value>
+  </data>
+  <data name="valLoginDisabled" xml:space="preserve">
+    <value>تم تعطيل عملية تسجيل الدخول</value>
+  </data>
+  <data name="valLoginNoRole" xml:space="preserve">
+    <value>لا يوجد دور للمستخدم</value>
+  </data>
+  <data name="valLoginSystemDown" xml:space="preserve">
+    <value>النظام لا يعمل، يرجى المحاولة فيما بعد</value>
+  </data>
+  <data name="valLoginLoggedin" xml:space="preserve">
+    <value>تم تسجيل دخول شخص آخر بنفس المعلومات</value>
+  </data>
+  <data name="lblFooterText1" xml:space="preserve">
+    <value>المتصفح: إنترنت اكسبلورر 6 أو ما بعدها</value>
+  </data>
+  <data name="lblFooterText2" xml:space="preserve">
+    <value>درجة نقاء الشاشة التي ينصح بها: 1024 × 768 بكسيل</value>
+  </data>
+  <data name="lblSession1" xml:space="preserve">
+    <value>ملاحظة: تنتهي صلاحية جلستك خلال</value>
+  </data>
+  <data name="lblSession2" xml:space="preserve">
+    <value>دقيقة إذا لم تقم بعمل شيء</value>
+  </data>
+  <data name="lblSession3" xml:space="preserve">
+    <value>لقد انتهت جلستك.</value>
+  </data>
+  <data name="lblSession4" xml:space="preserve">
+    <value>يرجى إعادة التوجه إلى صفحة تسجيل الدخول</value>
+  </data>
+  <data name="lblSession5" xml:space="preserve">
+    <value>ويرجى تسجيل الدخول مرة أخرى للاستمرار في استعمال حسابك</value>
+  </data>
+  <data name="lblSession6" xml:space="preserve">
+    <value>الوقت المسموح انتهى</value>
+  </data>
+  <data name="IA" xml:space="preserve">
+    <value>عملية دخول غير صحيحة</value>
+  </data>
+  <data name="addTSPrevileges" xml:space="preserve">
+    <value>سجل TSPrevlieges</value>
+  </data>
+  <data name="lblFormName" xml:space="preserve">
+    <value>اسم النموذج</value>
+  </data>
+  <data name="rfvFormName" xml:space="preserve">
+    <value>اسم النموذج اجباري</value>
+  </data>
+  <data name="lblAllowView" xml:space="preserve">
+    <value>السماح بالعرض</value>
+  </data>
+  <data name="lblAllowAdd" xml:space="preserve">
+    <value>السماح بالإضافة</value>
+  </data>
+  <data name="lblAllowEdit" xml:space="preserve">
+    <value>السماح بالتعديل</value>
+  </data>
+  <data name="lblAllowDelete" xml:space="preserve">
+    <value>السماح بالمسح</value>
+  </data>
+  <data name="gridPrivilegeID" xml:space="preserve">
+    <value>تعريف المميزات</value>
+  </data>
+  <data name="gridFeature_en" xml:space="preserve">
+    <value>مميزات التطبيق</value>
+  </data>
+  <data name="gridAllowView" xml:space="preserve">
+    <value>امكانية العرض</value>
+  </data>
+  <data name="gridAllowAdd" xml:space="preserve">
+    <value>امكانية الاضافة</value>
+  </data>
+  <data name="gridAllowEdit" xml:space="preserve">
+    <value>امكانية التعديل</value>
+  </data>
+  <data name="gridAllowDelete" xml:space="preserve">
+    <value>امكانية الحذف</value>
+  </data>
+  <data name="gridUserName" xml:space="preserve">
+    <value>معرف المستخدم</value>
+  </data>
+  <data name="rfvUserID" xml:space="preserve">
+    <value>تعريف المستخدم اجباري</value>
+  </data>
+  <data name="gridAuditID" xml:space="preserve">
+    <value>المسلسل العام</value>
+  </data>
+  <data name="gridActionName" xml:space="preserve">
+    <value>الإجراء</value>
+  </data>
+  <data name="gridFunctionName" xml:space="preserve">
+    <value>تفاصيل</value>
+  </data>
+  <data name="gridActionDate" xml:space="preserve">
+    <value>تاريخ الإجراء</value>
+  </data>
+  <data name="gridAuditTrail" xml:space="preserve">
+    <value>قائمة متابعة التدقيق</value>
+  </data>
+  <data name="gridDashBoard" xml:space="preserve">
+    <value>إحصائيات</value>
+  </data>
+  <data name="gridBrowse" xml:space="preserve">
+    <value>التصفح</value>
+  </data>
+  <data name="gridDashBoardCatalog" xml:space="preserve">
+    <value>قائمة لوحة القيادة</value>
+  </data>
+  <data name="gridDashBoardMsg" xml:space="preserve">
+    <value>إضافة أجزاء الويب لهذه المنطقة من خلال الاختيار من القائمة</value>
+  </data>
+  <data name="gridDashBoardLeftZone" xml:space="preserve">
+    <value>المنطقة اليسرى</value>
+  </data>
+  <data name="gridDashBoardRightZone" xml:space="preserve">
+    <value>المنطقة اليمنى</value>
+  </data>
+  <data name="gridInactiveWebParts" xml:space="preserve">
+    <value>أجزاء الويب الموجودة في هذه الصفحة غير فعالة</value>
+  </data>
+  <data name="gridAddLocationVerification" xml:space="preserve">
+    <value>إضافة تأكيد الموقع</value>
+  </data>
+  <data name="cdrpLoadCompany" xml:space="preserve">
+    <value>تحميل اسماء الشركات</value>
+  </data>
+  <data name="cdrpLoadcat" xml:space="preserve">
+    <value>تحميل أسماء التصنيفات</value>
+  </data>
+  <data name="cdrpLoadMed" xml:space="preserve">
+    <value>تحميل أسماء نوع وسائط الإعلام</value>
+  </data>
+  <data name="cdrpLoadDepartment" xml:space="preserve">
+    <value>تحميل أسماء الإدارات</value>
+  </data>
+  <data name="cdrpLoadWorkspace" xml:space="preserve">
+    <value>تحميل أسماء مجال العمل</value>
+  </data>
+  <data name="cdrpLoadLocation" xml:space="preserve">
+    <value>تحميل أسماء الموقع</value>
+  </data>
+  <data name="cdrpLoadEmployee" xml:space="preserve">
+    <value>تحميل أسماء الموظف</value>
+  </data>
+  <data name="cdrpSelectCompany" xml:space="preserve">
+    <value>اختيار اسم الشركة</value>
+  </data>
+  <data name="cdrpSelectCat" xml:space="preserve">
+    <value>اختيار اسم التصنيف</value>
+  </data>
+  <data name="cdrpSelectMed" xml:space="preserve">
+    <value>اختيار اسم نوع وسائط الإعلام</value>
+  </data>
+  <data name="cdrpSelectDepartment" xml:space="preserve">
+    <value>اختيار اسم الإدارة</value>
+  </data>
+  <data name="cdrpSelectWorkspace" xml:space="preserve">
+    <value>اختيار اسم مجال العمل</value>
+  </data>
+  <data name="cdrpSelectLocation" xml:space="preserve">
+    <value>اختيار اسم الموقع</value>
+  </data>
+  <data name="cdrpSelectEmployee" xml:space="preserve">
+    <value>اختيار اسم الموظف</value>
+  </data>
+  <data name="cdrpLoadExternalComp" xml:space="preserve">
+    <value>تحميل أسماء الشركات الخارجية</value>
+  </data>
+  <data name="cdrpLoadContact" xml:space="preserve">
+    <value>تحميل أسماء جهة التواصل</value>
+  </data>
+  <data name="cdrpSelectExternalComp" xml:space="preserve">
+    <value>اختيار اسم الشركة الخارجية</value>
+  </data>
+  <data name="cdrpSelectContact" xml:space="preserve">
+    <value>اختيار اسم جهة التواصل</value>
+  </data>
+  <data name="ImageSize" xml:space="preserve">
+    <value>يجب أن يكون حجم الصورة 4×4</value>
+  </data>
+  <data name="auditDeleted" xml:space="preserve">
+    <value>تم المسح</value>
+  </data>
+  <data name="auditCreated" xml:space="preserve">
+    <value>تم الإعداد</value>
+  </data>
+  <data name="rfvMediaTypeNameName" xml:space="preserve">
+    <value>اسم نوع وسائط الإعلام اجبارية</value>
+  </data>
+  <data name="auditModified" xml:space="preserve">
+    <value>تم التعديل</value>
+  </data>
+  <data name="addModifyUserPrivileges" xml:space="preserve">
+    <value>إضافة /تعديل مميزات المستخدم</value>
+  </data>
+  <data name="lblRenewal" xml:space="preserve">
+    <value>تجديد الترخيص</value>
+  </data>
+  <data name="lblLiceFail" xml:space="preserve">
+    <value>فشلت عملية توثيق الرخضة</value>
+  </data>
+  <data name="rfvOldLic" xml:space="preserve">
+    <value>مفتاح الرخصة القديم واسم المستخدم اجباري في تجديد الرخصة</value>
+  </data>
+  <data name="rfvLicExpired" xml:space="preserve">
+    <value>انتهت رخصة مفتاح الترخيص</value>
+  </data>
+  <data name="addTABReaderTypes" xml:space="preserve">
+    <value>سجل أنواع القارئات</value>
+  </data>
+  <data name="lblReaderTypeName" xml:space="preserve">
+    <value>اسم نوع القارئ</value>
+  </data>
+  <data name="rfvReaderTypeName" xml:space="preserve">
+    <value>اسم نوع القارئ اجباري</value>
+  </data>
+  <data name="lblReaderObject" xml:space="preserve">
+    <value>موضوع القراءة</value>
+  </data>
+  <data name="addTABReaders" xml:space="preserve">
+    <value>سجل القراء</value>
+  </data>
+  <data name="lblReaderName" xml:space="preserve">
+    <value>اسم القارئ</value>
+  </data>
+  <data name="rfvReaderName" xml:space="preserve">
+    <value>اسم القارئ اجباري</value>
+  </data>
+  <data name="lblReaderIPAddr" xml:space="preserve">
+    <value>عنوان قارئ الآي بي</value>
+  </data>
+  <data name="lblReaderClass" xml:space="preserve">
+    <value>درجة القارئ</value>
+  </data>
+  <data name="lblReaderClassName" xml:space="preserve">
+    <value>اسم درجة القارئ</value>
+  </data>
+  <data name="gridRFIDReadID" xml:space="preserve">
+    <value>الرقم التعريفي الملصق الإلكتروني</value>
+  </data>
+  <data name="gridReaderName" xml:space="preserve">
+    <value>اسم القارئ</value>
+  </data>
+  <data name="gridRFIDRawTagData" xml:space="preserve">
+    <value>بطاقة بيانات الملصق الإلكتروني</value>
+  </data>
+  <data name="gridStatus" xml:space="preserve">
+    <value>حالة الملف</value>
+  </data>
+  <data name="gridReadTime" xml:space="preserve">
+    <value>وقت القراءة</value>
+  </data>
+  <data name="lblManageReaders" xml:space="preserve">
+    <value>إدارة القراء الثابتين</value>
+  </data>
+  <data name="lblTagDataList" xml:space="preserve">
+    <value>قائمة البيانات</value>
+  </data>
+  <data name="lblReaderTypes" xml:space="preserve">
+    <value>إدارة نوع/درجة القارئ</value>
+  </data>
+  <data name="lblReaderTypeDetails" xml:space="preserve">
+    <value>نوع/ درجة القارئ</value>
+  </data>
+  <data name="lblECompType1" xml:space="preserve">
+    <value>جهة التصنيع</value>
+  </data>
+  <data name="lblECompType2" xml:space="preserve">
+    <value>المورد</value>
+  </data>
+  <data name="lblECompType3" xml:space="preserve">
+    <value>الضمان</value>
+  </data>
+  <data name="lblECompType4" xml:space="preserve">
+    <value>الحارس</value>
+  </data>
+  <data name="lblECompType5" xml:space="preserve">
+    <value>تؤجر إلى</value>
+  </data>
+  <data name="lblECompType6" xml:space="preserve">
+    <value>الصيانة</value>
+  </data>
+  <data name="lblCompanyName" xml:space="preserve">
+    <value>الجهة</value>
+  </data>
+  <data name="lblExternalCompanyName" xml:space="preserve">
+    <value>اسم الشركة الخارجية</value>
+  </data>
+  <data name="lblContactPerson" xml:space="preserve">
+    <value>جهة التواصل</value>
+  </data>
+  <data name="lblEmployeeName" xml:space="preserve">
+    <value>اسم الموظف</value>
+  </data>
+  <data name="rfvCompanyName" xml:space="preserve">
+    <value>اسم الشركة اجباري</value>
+  </data>
+  <data name="gridComments" xml:space="preserve">
+    <value>الملاحظات</value>
+  </data>
+  <data name="lblComments" xml:space="preserve">
+    <value>الملاحظات</value>
+  </data>
+  <data name="lblCompanyAssociation" xml:space="preserve">
+    <value>رابطة الشركات</value>
+  </data>
+  <data name="radNo" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="radYes" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="lblReason" xml:space="preserve">
+    <value>السبب</value>
+  </data>
+  <data name="lblLocationName" xml:space="preserve">
+    <value>اسم الموقع</value>
+  </data>
+  <data name="valEmpName" xml:space="preserve">
+    <value>اسم الموظف يوجد بالفعل للشركة المختارة</value>
+  </data>
+  <data name="lblYes" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="lblNo" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="valECompContact" xml:space="preserve">
+    <value>اسم جهة التواصل يوجد بالفعل للشركة الخارجية المختارة</value>
+  </data>
+  <data name="valLocName" xml:space="preserve">
+    <value>اسم الموقع موجود بالفعل للشركة المختارة</value>
+  </data>
+  <data name="addTDWorkspace" xml:space="preserve">
+    <value>سجل مجال العمل</value>
+  </data>
+  <data name="ManageTDWorkspace" xml:space="preserve">
+    <value>إدارة المنطقة</value>
+  </data>
+  <data name="lblWorkspaceID" xml:space="preserve">
+    <value>تعريف المنطقة</value>
+  </data>
+  <data name="lblWorkspaceName" xml:space="preserve">
+    <value>رقم الغرفة</value>
+  </data>
+  <data name="rfvWorkspaceName" xml:space="preserve">
+    <value>رقم الغرفة اجباري</value>
+  </data>
+  <data name="rfvWSName" xml:space="preserve">
+    <value>رقم الغرفة اجباري</value>
+  </data>
+  <data name="ManageTDDocuments" xml:space="preserve">
+    <value>الأستعلام عن الملفات</value>
+  </data>
+  <data name="addTDDocuments" xml:space="preserve">
+    <value>سجل القــيد</value>
+  </data>
+  <data name="addTDDocDeatils" xml:space="preserve">
+    <value>تفاصيل الملف</value>
+  </data>
+  <data name="addMyDocuments" xml:space="preserve">
+    <value>ادارة ملفاتي</value>
+  </data>
+  <data name="addTDDocuments1" xml:space="preserve">
+    <value>لوحة القيادة</value>
+  </data>
+  <data name="lblDocumentID" xml:space="preserve">
+    <value>تعريف المستند</value>
+  </data>
+  <data name="lblDocumentName" xml:space="preserve">
+    <value>اسم المستند</value>
+  </data>
+  <data name="rfvDocumentName" xml:space="preserve">
+    <value>اسم المستند اجباري</value>
+  </data>
+  <data name="lblFileName" xml:space="preserve">
+    <value>رقم الدعوى</value>
+  </data>
+  <data name="lblDocumentVer" xml:space="preserve">
+    <value>نسخة المستند</value>
+  </data>
+  <data name="lblAuthor" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="lblCategoryName" xml:space="preserve">
+    <value>اسم الفئة</value>
+  </data>
+  <data name="rfvCategoryID" xml:space="preserve">
+    <value>تعريف الفئة اجباري</value>
+  </data>
+  <data name="lblMediaTypeName" xml:space="preserve">
+    <value>اسم نوع وسائط الإعلام</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>حالة الملف</value>
+  </data>
+  <data name="rfvStatus" xml:space="preserve">
+    <value>الحالة اجبارية</value>
+  </data>
+  <data name="rfvCreatedBy" xml:space="preserve">
+    <value>اسم المعد اجباري</value>
+  </data>
+  <data name="lblLastUpdatedBy" xml:space="preserve">
+    <value>تم أخر تحديث بمعرفة </value>
+  </data>
+  <data name="regvalLastUpdatedBy" xml:space="preserve">
+    <value>القيمة الرقمية اجبارية في آخر قائم بالتحديث</value>
+  </data>
+  <data name="lblCreatedOn" xml:space="preserve">
+    <value>تاريخ القيد</value>
+  </data>
+  <data name="rfvCreatedOn" xml:space="preserve">
+    <value>تاريخ الإعداد اجباري</value>
+  </data>
+  <data name="cvCreatedOn" xml:space="preserve">
+    <value>تاريخ الإعداد غير صحيح</value>
+  </data>
+  <data name="lblUpdatedOn" xml:space="preserve">
+    <value>تم التحديث في</value>
+  </data>
+  <data name="cvUpdatedOn" xml:space="preserve">
+    <value>تاريخ التحديث غير صحيح</value>
+  </data>
+  <data name="lblTags" xml:space="preserve">
+    <value>البطاقات</value>
+  </data>
+  <data name="lblPassiveRFID" xml:space="preserve">
+    <value>رقم الملصق</value>
+  </data>
+  <data name="lblBarCode" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="ManageCategory" xml:space="preserve">
+    <value>إدارة الفئات/ نوع وسائط الإعلام</value>
+  </data>
+  <data name="gridCategoryName" xml:space="preserve">
+    <value>اسم الفئة</value>
+  </data>
+  <data name="rfvCategory" xml:space="preserve">
+    <value>الفئة اجبارية</value>
+  </data>
+  <data name="rfvCategoryName" xml:space="preserve">
+    <value>اسم الفئة ضروري</value>
+  </data>
+  <data name="addATSCategory" xml:space="preserve">
+    <value>سجل نوع وسائط الإعلام / سجل الفئة</value>
+  </data>
+  <data name="gridCategoryID" xml:space="preserve">
+    <value>تعريف الفئة </value>
+  </data>
+  <data name="valCatName" xml:space="preserve">
+    <value>اسم الفئة موجود بالفعل لاسم الشركة المختارة</value>
+  </data>
+  <data name="valMTName" xml:space="preserve">
+    <value>اسم نوع وسائط الإعلام موجود بالفعل لاسم الشركة المختارة</value>
+  </data>
+  <data name="valWorkSpaceName" xml:space="preserve">
+    <value>اسم مجال العمل موجود بالفعل لاسم الشركة المختارة</value>
+  </data>
+  <data name="rfvUserNameExists" xml:space="preserve">
+    <value>اسم المستخدم موجود بالفعل</value>
+  </data>
+  <data name="SelectOneCatMed" xml:space="preserve">
+    <value>اختار</value>
+  </data>
+  <data name="SelectCatType" xml:space="preserve">
+    <value>نوع الفئة</value>
+  </data>
+  <data name="SelectMedType" xml:space="preserve">
+    <value>نوع وسائط الإعلام</value>
+  </data>
+  <data name="lblMediaType" xml:space="preserve">
+    <value>نوع وسائط الإعلام</value>
+  </data>
+  <data name="lblStatusASEmp" xml:space="preserve">
+    <value>حالة الملف</value>
+  </data>
+  <data name="lblAssUser" xml:space="preserve">
+    <value>موظف الرابطة</value>
+  </data>
+  <data name="lblUserNameAs" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="statusAssigned" xml:space="preserve">
+    <value>تم الإسناد</value>
+  </data>
+  <data name="rfvStatusTD" xml:space="preserve">
+    <value>يرجى اختيار الحالة</value>
+  </data>
+  <data name="StatusTDCreated" xml:space="preserve">
+    <value>تم الإعداد</value>
+  </data>
+  <data name="StatusReturned" xml:space="preserve">
+    <value>تم المسح</value>
+  </data>
+  <data name="StatusDeleted" xml:space="preserve">
+    <value>تمت الاعادة</value>
+  </data>
+  <data name="rfvComments" xml:space="preserve">
+    <value>يرجى إدخال الملاحظات</value>
+  </data>
+  <data name="FUploaded" xml:space="preserve">
+    <value>تم رفع الملف</value>
+  </data>
+  <data name="sFUploaded" xml:space="preserve">
+    <value>يرجى اختيار ملف حتى يتم رفعه</value>
+  </data>
+  <data name="gridWorkspaceName" xml:space="preserve">
+    <value>اسم مجال العمل  </value>
+  </data>
+  <data name="lblReaderName1" xml:space="preserve">
+    <value>اسم القارئ</value>
+  </data>
+  <data name="lblReadTime1" xml:space="preserve">
+    <value>وقت القراءة</value>
+  </data>
+  <data name="lblWorkspaceName1" xml:space="preserve">
+    <value>اسم مجال العمل</value>
+  </data>
+  <data name="sWorkspaceName" xml:space="preserve">
+    <value>سجل المنطقة</value>
+  </data>
+  <data name="lblDepartmentName1" xml:space="preserve">
+    <value>اسم الإدارة </value>
+  </data>
+  <data name="lblUserName1" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="lblEmployeeID1" xml:space="preserve">
+    <value>تعريف الموظف</value>
+  </data>
+  <data name=" returndocSuc" xml:space="preserve">
+    <value>تم اعادة المستند بنجاح</value>
+  </data>
+  <data name=" returndocFail" xml:space="preserve">
+    <value>فشلت عملية اعادة المستند</value>
+  </data>
+  <data name=" returndocNP" xml:space="preserve">
+    <value>لا يمكن اعادة المستند</value>
+  </data>
+  <data name="rfvAssEmp" xml:space="preserve">
+    <value>يرجى اختيار موظف الرابطة</value>
+  </data>
+  <data name="ddlCreated" xml:space="preserve">
+    <value>تم الإعداد</value>
+  </data>
+  <data name="ddlReturned" xml:space="preserve">
+    <value>تم الإعادة</value>
+  </data>
+  <data name="ddlCirculated" xml:space="preserve">
+    <value>تم التعميم</value>
+  </data>
+  <data name="ddlDeleted" xml:space="preserve">
+    <value>تم المسح</value>
+  </data>
+  <data name="EditNotPossible" xml:space="preserve">
+    <value>لا يمكن التعديل</value>
+  </data>
+  <data name="DocMod" xml:space="preserve">
+    <value>تم إسناد المستند للموظف المعدل:</value>
+  </data>
+  <data name="DocAss" xml:space="preserve">
+    <value>تم إسناد المستند للموظف المعد:</value>
+  </data>
+  <data name="DocRMod" xml:space="preserve">
+    <value>تم تعديل سجل المستند:</value>
+  </data>
+  <data name="DocRCre" xml:space="preserve">
+    <value>تم إعداد سجل المستند:</value>
+  </data>
+  <data name="ReaderAssociationM" xml:space="preserve">
+    <value>تم تعديل جهة القارئ:</value>
+  </data>
+  <data name="ReaderAssociationC" xml:space="preserve">
+    <value>تم إعداد شركة القارئ:</value>
+  </data>
+  <data name="AssOn" xml:space="preserve">
+    <value>تم ربطها في</value>
+  </data>
+  <data name="rfvReaderClassName" xml:space="preserve">
+    <value>اسم الفئة للقارئ اجباري</value>
+  </data>
+  <data name="lblAssociateBy" xml:space="preserve">
+    <value>تم الربط بمعرفة</value>
+  </data>
+  <data name="rbnByDepartment" xml:space="preserve">
+    <value>بمعرفة قسم</value>
+  </data>
+  <data name="rbnByEmployee" xml:space="preserve">
+    <value>بحسب الموظف</value>
+  </data>
+  <data name="rbnByWorkspace" xml:space="preserve">
+    <value>بحسب المكان</value>
+  </data>
+  <data name="ManageAssociations" xml:space="preserve">
+    <value>إدارة الربط</value>
+  </data>
+  <data name="BarCode" xml:space="preserve">
+    <value>لا يمكن ربط مستند الموظف اليوم</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>اسم الفئة</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>تم الإعداد بمعرفة</value>
+  </data>
+  <data name="DocumentID" xml:space="preserve">
+    <value>تم الإعداد في</value>
+  </data>
+  <data name="DocumentName" xml:space="preserve">
+    <value>تعريف المستند</value>
+  </data>
+  <data name="FileName" xml:space="preserve">
+    <value>اسم المستند</value>
+  </data>
+  <data name="MediaType" xml:space="preserve">
+    <value>اسم الملف</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>اسم نوع وسائط الإعلام</value>
+  </data>
+  <data name="Tag" xml:space="preserve">
+    <value>حالة الملف</value>
+  </data>
+  <data name="After" xml:space="preserve">
+    <value>البطاقة</value>
+  </data>
+  <data name="Before" xml:space="preserve">
+    <value>بعد</value>
+  </data>
+  <data name="Between" xml:space="preserve">
+    <value>قبل</value>
+  </data>
+  <data name="NotOn" xml:space="preserve">
+    <value>بين</value>
+  </data>
+  <data name="SearchCondOn" xml:space="preserve">
+    <value>ليس في</value>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>في</value>
+  </data>
+  <data name="btnRemove" xml:space="preserve">
+    <value>إعداد</value>
+  </data>
+  <data name="btnSearch" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="gridSearch" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="gridBarCode" xml:space="preserve">
+    <value>بحث</value>
+  </data>
+  <data name="gridCreatedBy" xml:space="preserve">
+    <value>اسم المستخدم</value>
+  </data>
+  <data name="gridCreatedOn" xml:space="preserve">
+    <value>تاريخ تفعيل الملصق</value>
+  </data>
+  <data name="gridFileName" xml:space="preserve">
+    <value>تم الإعداد في</value>
+  </data>
+  <data name="gridMediaTypeName" xml:space="preserve">
+    <value>اسم الملف</value>
+  </data>
+  <data name="gridPassiveRFID" xml:space="preserve">
+    <value>اسم نوع وسائط الإعلام</value>
+  </data>
+  <data name="gridTag" xml:space="preserve">
+    <value>رقم تعريف غير فعال الملصق الإلكتروني</value>
+  </data>
+  <data name="lblEndDate" xml:space="preserve">
+    <value>اسم البطاقة</value>
+  </data>
+  <data name="lblFilterBy" xml:space="preserve">
+    <value>تاريخ الإنهاء</value>
+  </data>
+  <data name="lblIndexName" xml:space="preserve">
+    <value>تم الترشيح بمعرفة</value>
+  </data>
+  <data name="lblNumericOption" xml:space="preserve">
+    <value>اختار اسم الحقل</value>
+  </data>
+  <data name="lblSearchBy" xml:space="preserve">
+    <value>الخيار الرقمي</value>
+  </data>
+  <data name="lblStartDate" xml:space="preserve">
+    <value>البحث بمعرفة</value>
+  </data>
+  <data name="lblStringOption" xml:space="preserve">
+    <value>تاريخ الابتداء</value>
+  </data>
+  <data name="rbnBegin" xml:space="preserve">
+    <value>تسلسل الخيار</value>
+  </data>
+  <data name="rbnContains" xml:space="preserve">
+    <value>يبدأ بـ</value>
+  </data>
+  <data name="rbnDoesNotContains" xml:space="preserve">
+    <value>يحتوي على</value>
+  </data>
+  <data name="rbnEndWith" xml:space="preserve">
+    <value>لا يحتوي على</value>
+  </data>
+  <data name="rbnLike" xml:space="preserve">
+    <value>ينتهي بـ</value>
+  </data>
+  <data name="RbnNotLike" xml:space="preserve">
+    <value>يماثل</value>
+  </data>
+  <data name="rbnStartsWith" xml:space="preserve">
+    <value>لا يماثل</value>
+  </data>
+  <data name="rbnWithAtleastOne" xml:space="preserve">
+    <value>يبدأ بـ</value>
+  </data>
+  <data name="rbnWithExactPhrase" xml:space="preserve">
+    <value>يماثل</value>
+  </data>
+  <data name="rbnWithout" xml:space="preserve">
+    <value>بنفس الكلمة</value>
+  </data>
+  <data name="CompareDates" xml:space="preserve">
+    <value>بدون الكلمة</value>
+  </data>
+  <data name="rfvStartDate" xml:space="preserve">
+    <value>يجب أن يكون تاريخ الانتهاء أكبر من تاريخ الابتداء</value>
+  </data>
+  <data name="rfvDocumetID" xml:space="preserve">
+    <value>يرجى اختيار تاريخ البدء</value>
+  </data>
+  <data name="rfvIndexName" xml:space="preserve">
+    <value>يرجى ادخال رقم</value>
+  </data>
+  <data name="valOne" xml:space="preserve">
+    <value>يرجى اختيار اسم الحقل</value>
+  </data>
+  <data name="valNone" xml:space="preserve">
+    <value>في</value>
+  </data>
+  <data name="valOut" xml:space="preserve">
+    <value>لا شئ</value>
+  </data>
+  <data name="lblReadType" xml:space="preserve">
+    <value>خارج</value>
+  </data>
+  <data name="gridRelation" xml:space="preserve">
+    <value>نوع القراءة</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="gridManageUserPrivileges" xml:space="preserve">
+    <value>الصفحة الرئيسية</value>
+  </data>
+  <data name="lblCompanyImage" xml:space="preserve">
+    <value>إدارة مميزات المستخدم</value>
+  </data>
+  <data name="forgotPwdmsg1" xml:space="preserve">
+    <value>صورة الشركة</value>
+  </data>
+  <data name="forgotPwdmsg2" xml:space="preserve">
+    <value>يرجى إدخال اسم المستخدم الخاص بك وسيتم إرسال كلمة المرور لبريدك الإلكتروني</value>
+  </data>
+  <data name="CloseWindow" xml:space="preserve">
+    <value>في حال صادفتك مشاكل في استقبال كلمة المرور أو في حالة تغيير البريد الإلكتروني الموجود في الملف، يرجى التواصل مع مدير النظام</value>
+  </data>
+  <data name="RequiredFields" xml:space="preserve">
+    <value>إغلاق النافذة</value>
+  </data>
+  <data name="SendIT" xml:space="preserve">
+    <value>حقول اجبارية</value>
+  </data>
+  <data name="InvalidUserName" xml:space="preserve">
+    <value>إرسال</value>
+  </data>
+  <data name="FailedResetPassword" xml:space="preserve">
+    <value>اسم المستخدم غير صحيح</value>
+  </data>
+  <data name="NewPasswordsent" xml:space="preserve">
+    <value>فشلت عملية إعادة ضبط كلمة المرور</value>
+  </data>
+  <data name="gridPassword" xml:space="preserve">
+    <value>تم إرسال كلمة المرور الجديدة</value>
+  </data>
+  <data name="gridReason" xml:space="preserve">
+    <value>كلمة المرور</value>
+  </data>
+  <data name="seleUserName" xml:space="preserve">
+    <value>السبب</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>يرجي اختيار اسم المستخدم</value>
+  </data>
+  <data name="DisableUser" xml:space="preserve">
+    <value>إضافة</value>
+  </data>
+  <data name="EnableUser" xml:space="preserve">
+    <value>تم تعطيل المستخدم بنجاح!</value>
+  </data>
+  <data name="deletePrevAdmin" xml:space="preserve">
+    <value>تم تمكين المستخدم بنجاح!</value>
+  </data>
+  <data name="lblTrue" xml:space="preserve">
+    <value>لا يمكن مسح سجلات المدير</value>
+  </data>
+  <data name="lblFalse" xml:space="preserve">
+    <value>صحيحة</value>
+  </data>
+  <data name="lblNA" xml:space="preserve">
+    <value>غير صحيحة</value>
+  </data>
+  <data name="lblClickLogin" xml:space="preserve">
+    <value>دخول</value>
+  </data>
+  <data name="gridReadType" xml:space="preserve">
+    <value>اضغط هنا لتسجيل الدخول</value>
+  </data>
+  <data name="lblDoc" xml:space="preserve">
+    <value>نوع القراءة</value>
+  </data>
+  <data name="advsearchReq" xml:space="preserve">
+    <value>المستند</value>
+  </data>
+  <data name="simpsearchReq" xml:space="preserve">
+    <value>يرجى اختيار حقل البحث</value>
+  </data>
+  <data name="dtFormat" xml:space="preserve">
+    <value>يرجى ادخال قيمة البحث</value>
+  </data>
+  <data name="numFormat" xml:space="preserve">
+    <value>يجب أن يكون في صيغة التاريخ</value>
+  </data>
+  <data name="strFormat" xml:space="preserve">
+    <value>يجب أن يكون في صيغة رقم</value>
+  </data>
+  <data name="SearchCondAnd" xml:space="preserve">
+    <value>اجباري</value>
+  </data>
+  <data name="SearchCondOr" xml:space="preserve">
+    <value>و</value>
+  </data>
+  <data name="valReaderName" xml:space="preserve">
+    <value>أو</value>
+  </data>
+  <data name="valReaderType" xml:space="preserve">
+    <value>اسم القارئ موجود بالفعل</value>
+  </data>
+  <data name="valReaderClass" xml:space="preserve">
+    <value>اسم نوع القارئ موجود بالفعل</value>
+  </data>
+  <data name="LocationListReport" xml:space="preserve">
+    <value>اسم درجة القارئ موجود من قبل</value>
+  </data>
+  <data name="ExternalCompanyAndContactsReport" xml:space="preserve">
+    <value>تقرير قائمة الموقع</value>
+  </data>
+  <data name="EmployeeDetailsReport" xml:space="preserve">
+    <value>الشركة الخارجية وتقرير العقود</value>
+  </data>
+  <data name="ShowReport" xml:space="preserve">
+    <value>اظهار التقرير</value>
+  </data>
+  <data name="EmployeeReport" xml:space="preserve">
+    <value>عرض التقرير</value>
+  </data>
+  <data name="gridEmpReport" xml:space="preserve">
+    <value>تقرير الموظفين</value>
+  </data>
+  <data name="lblEmp" xml:space="preserve">
+    <value>تفاصيل المستند تبعا لتقرير الموظف</value>
+  </data>
+  <data name="gridRfidReadings" xml:space="preserve">
+    <value>الموظف</value>
+  </data>
+  <data name="lblDate" xml:space="preserve">
+    <value>مدة البحث:</value>
+  </data>
+  <data name="lblRange" xml:space="preserve">
+    <value>التاريخ</value>
+  </data>
+  <data name="lblFrom" xml:space="preserve">
+    <value>من</value>
+  </data>
+  <data name="lblTo" xml:space="preserve">
+    <value>الى</value>
+  </data>
+  <data name="gridstatusrpt" xml:space="preserve">
+    <value>إلى</value>
+  </data>
+  <data name="gridWorkspacerpt" xml:space="preserve">
+    <value>تفاصيل بحث التقرير</value>
+  </data>
+  <data name="lblID" xml:space="preserve">
+    <value>الاستعلام عن التقرير</value>
+  </data>
+  <data name="ErrReadType" xml:space="preserve">
+    <value>بطاقة التعريف</value>
+  </data>
+  <data name="ErrDepName" xml:space="preserve">
+    <value>يرجى اختيار نوع القراءة</value>
+  </data>
+  <data name="ErrWorName" xml:space="preserve">
+    <value>يرجى اختيار اسم الإدارة</value>
+  </data>
+  <data name="ErrEmpName" xml:space="preserve">
+    <value>يرجى اختيار رقم الغرفة</value>
+  </data>
+  <data name="ErrRelation" xml:space="preserve">
+    <value>يرجى اختيار اسم الموظف</value>
+  </data>
+  <data name="lblReaderTypeID" xml:space="preserve">
+    <value>يرجى اختيار العلاقة</value>
+  </data>
+  <data name="lblReaderDetailType" xml:space="preserve">
+    <value>تعريف نوع القارئ</value>
+  </data>
+  <data name="StatusCirculated" xml:space="preserve">
+    <value>نوع تفاصيل القارئ</value>
+  </data>
+  <data name="AuditDocDelete" xml:space="preserve">
+    <value>تم التعميم</value>
+  </data>
+  <data name="advSearch" xml:space="preserve">
+    <value>تم مسح سجل المستند</value>
+  </data>
+  <data name="simpSearch" xml:space="preserve">
+    <value>بحث متقدم</value>
+  </data>
+  <data name="addToSearch" xml:space="preserve">
+    <value>بحث مبسط</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>إضافة إلى البحث</value>
+  </data>
+  <data name="searchValue" xml:space="preserve">
+    <value>نتائج البحث في الوثائق</value>
+  </data>
+  <data name="DocumentsGraph" xml:space="preserve">
+    <value>القيمة </value>
+  </data>
+  <data name="DocumentsByStatus" xml:space="preserve">
+    <value>شكل الوثائق</value>
+  </data>
+  <data name="graphDocuments" xml:space="preserve">
+    <value>الوثائق تبعا للحالة</value>
+  </data>
+  <data name="NumberDocuments" xml:space="preserve">
+    <value>الوثائق تبعا لأعلى 10 فئات</value>
+  </data>
+  <data name="graphDocumentsByCatAll" xml:space="preserve">
+    <value>عدد الوثائق</value>
+  </data>
+  <data name="addAssocation" xml:space="preserve">
+    <value>الوثائق تبعا لأعلى 10 فئات لجميع الشركات</value>
+  </data>
+  <data name="enterIP" xml:space="preserve">
+    <value>إضافة شركة</value>
+  </data>
+  <data name="enterIPInvalid" xml:space="preserve">
+    <value>يرجى إدخال IP Address</value>
+  </data>
+  <data name="eg" xml:space="preserve">
+    <value>عنوان IP Address غير صحيح</value>
+  </data>
+  <data name="AssignEmployee" xml:space="preserve">
+    <value>خارجي</value>
+  </data>
+  <data name="ReturnDocument" xml:space="preserve">
+    <value>تعيين موظف</value>
+  </data>
+  <data name="lblRFIDReadings" xml:space="preserve">
+    <value>نقل المستند</value>
+  </data>
+  <data name="rbnAll" xml:space="preserve">
+    <value>الكل</value>
+  </data>
+  <data name="rbnIn" xml:space="preserve">
+    <value>الجميع</value>
+  </data>
+  <data name="rbnOut" xml:space="preserve">
+    <value>في</value>
+  </data>
+  <data name="rbnNone" xml:space="preserve">
+    <value>خارج</value>
+  </data>
+  <data name="lblUpdateType" xml:space="preserve">
+    <value>لا يوجد</value>
+  </data>
+  <data name="rbnBulk" xml:space="preserve">
+    <value>نوع التحديث</value>
+  </data>
+  <data name="rbnIndividual" xml:space="preserve">
+    <value>الكتلة</value>
+  </data>
+  <data name="DocTransID" xml:space="preserve">
+    <value>الفرد</value>
+  </data>
+  <data name="LocationType" xml:space="preserve">
+    <value>بطاقة التعريف</value>
+  </data>
+  <data name="RFIDRawTagData" xml:space="preserve">
+    <value>نوع الموقع</value>
+  </data>
+  <data name="rfvCheckBoxChecked" xml:space="preserve">
+    <value>بيانات البطاقة</value>
+  </data>
+  <data name="WorkspaceDetailsReport" xml:space="preserve">
+    <value>يرجى فحص واحدة من المجموع</value>
+  </data>
+  <data name="StatusDetailsReport" xml:space="preserve">
+    <value>تقرير جميع الملفات</value>
+  </data>
+  <data name="RFIDReadingsReportDetailsReport" xml:space="preserve">
+    <value>تقرير تفاصيل المستند</value>
+  </data>
+  <data name="DocumentByEmployeeDetailsReport" xml:space="preserve">
+    <value>تفاصيل المستند تبعا لتقرير الملصق الإلكتروني</value>
+  </data>
+  <data name="lblCheckHere" xml:space="preserve">
+    <value>الوثائق تبعا لتقرير الموظف</value>
+  </data>
+  <data name="addTABLogocalDevice" xml:space="preserve">
+    <value>قائمة الجهاز المنطقي</value>
+  </data>
+  <data name="lblLogicalDeviceList" xml:space="preserve">
+    <value>يرجى الفحص هنا</value>
+  </data>
+  <data name="ManageTABLogocalDevice" xml:space="preserve">
+    <value>إدارة الجهاز المنطقي</value>
+  </data>
+  <data name="lblDeviceName" xml:space="preserve">
+    <value>سجل الجهاز المنطقي</value>
+  </data>
+  <data name="rfvReaderID" xml:space="preserve">
+    <value>العودة القارئات الثابته</value>
+  </data>
+  <data name="ReaderProperties" xml:space="preserve">
+    <value>رفع</value>
+  </data>
+  <data name="PropertyID" xml:space="preserve">
+    <value>تعريف القارئ اجباري</value>
+  </data>
+  <data name="lblAntennaPropertiesList" xml:space="preserve">
+    <value>يرجى إدخال اسم المستخدم وكلمة المرور وتأكيد كلمة المرور</value>
+  </data>
+  <data name="lblAntennaProperties" xml:space="preserve">
+    <value>اسم الجهاز اجباري</value>
+  </data>
+  <data name="rfvAntennaID" xml:space="preserve">
+    <value>اسم الجهاز  </value>
+  </data>
+  <data name="TABReadersList" xml:space="preserve">
+    <value>نوع القارئ اجباري</value>
+  </data>
+  <data name="ManageRaeders" xml:space="preserve">
+    <value>إدارة القارئ المثبت</value>
+  </data>
+  <data name="lblManageTABAntennaProperties" xml:space="preserve">
+    <value>دعم الهوائي السابق أكبر من القيمة الحالية</value>
+  </data>
+  <data name="BackToFixedReaders" xml:space="preserve">
+    <value>لن يتم مسح الحقول الاجبارية</value>
+  </data>
+  <data name="UploadFile" xml:space="preserve">
+    <value>إدارة القراء  </value>
+  </data>
+  <data name="TABReaderPropertiesRecord" xml:space="preserve">
+    <value>تعريف الملكية</value>
+  </data>
+  <data name="lblTABAntennaPropertiesRecord" xml:space="preserve">
+    <value>اسم الملكية</value>
+  </data>
+  <data name="addTABAntennaProperties" xml:space="preserve">
+    <value>اختياري</value>
+  </data>
+  <data name="PropertyName" xml:space="preserve">
+    <value>قيمة الملكية</value>
+  </data>
+  <data name="PropertyValue" xml:space="preserve">
+    <value>تعريف القارئ  </value>
+  </data>
+  <data name="rfvCPass" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="lblReaderID" xml:space="preserve">
+    <value>رقم القارئ</value>
+  </data>
+  <data name="xmlOPTIONAL" xml:space="preserve">
+    <value>سجل خصائص الهوائي</value>
+  </data>
+  <data name="rfvPrevAntennaValue" xml:space="preserve">
+    <value>قائمة القراء</value>
+  </data>
+  <data name="rfvFieldsNoDelete" xml:space="preserve">
+    <value>سجل القارئ</value>
+  </data>
+  <data name="rfvyes" xml:space="preserve">
+    <value>خصائص القارئ</value>
+  </data>
+  <data name="rfvno" xml:space="preserve">
+    <value>ضروري/ اختياري</value>
+  </data>
+  <data name="lblReqOpt" xml:space="preserve">
+    <value>مثال</value>
+  </data>
+  <data name="lblExample" xml:space="preserve">
+    <value>خصائص الهوائي</value>
+  </data>
+  <data name="rfvFileTypexml" xml:space="preserve">
+    <value>يتم دعم الملفات من صيغة XML فقط</value>
+  </data>
+  <data name="rfvUpFile" xml:space="preserve">
+    <value>لا يجب أن يكون رفع الملفات فارغة</value>
+  </data>
+  <data name="xmlANTENNACONFIG" xml:space="preserve">
+    <value>تهيئة الهوائي</value>
+  </data>
+  <data name="xmlANTENNACONFIGYesNo" xml:space="preserve">
+    <value>ينبغي أن تكون قيمة تهيئة الهوائي "نعم" أو "لا"</value>
+  </data>
+  <data name="xmlANTENNASUPPORT" xml:space="preserve">
+    <value>دعم الهوائي  </value>
+  </data>
+  <data name="xmlANTENNASUPPORTErr" xml:space="preserve">
+    <value>ينبغي أن تكون قيمة دعم الهوائي لأكبر من أو يساوي صفر</value>
+  </data>
+  <data name="xmlREQUIRED" xml:space="preserve">
+    <value>اجباري</value>
+  </data>
+  <data name="xmlREQUIREDErr" xml:space="preserve">
+    <value>القيم للقارئ إجبارية</value>
+  </data>
+  <data name="xmlANTENNACONFIGErr" xml:space="preserve">
+    <value>قيمة تهيئة الهوائي إجبارية إذا كانت قيمة دعم الهوائي أكبر من صفر</value>
+  </data>
+  <data name="xmlANTENNACONFIGErr0" xml:space="preserve">
+    <value>ينبغي أن تكون قيم تهيئة الهوائي "لا" إذا كانت قيمة دعم الهوائي تساوي صفر</value>
+  </data>
+  <data name="xmlANTENNACONFIGErr1" xml:space="preserve">
+    <value>ينبغي أن تكون قيمة تهيئة الهوائ "نعم" إذا كانت قيمة دعم الهوائي أكبر من صفر</value>
+  </data>
+  <data name="tblPropertyName" xml:space="preserve">
+    <value>اسم الملكية</value>
+  </data>
+  <data name="tblPropertyValue" xml:space="preserve">
+    <value>قيمة الملكية</value>
+  </data>
+  <data name="tblPropertyValue1" xml:space="preserve">
+    <value>قيمة الملكية 1</value>
+  </data>
+  <data name="tblRequOpt" xml:space="preserve">
+    <value />
+  </data>
+  <data name="tblTRLAntID" xml:space="preserve">
+    <value>TRLAntID</value>
+  </data>
+  <data name="xmlWrongXML" xml:space="preserve">
+    <value>تم رفع ملف خاطئ بصيغة XML يرجى رفع ملف صحيح بصيغة XML</value>
+  </data>
+  <data name="xmlREADERPARAMS" xml:space="preserve">
+    <value>مقياسات القارئ</value>
+  </data>
+  <data name="xmlREADERPARAMScaps" xml:space="preserve">
+    <value>يجب أن تكون بطاقات XML لقياسات القاريء بالحروف الكبيرة</value>
+  </data>
+  <data name="xmlAntennaSupportTagErr" xml:space="preserve">
+    <value>لا توجد بطاقة دعم الهوائي في الحقل الاجباري لملف XML</value>
+  </data>
+  <data name="xmlAntennaConfigTagErr" xml:space="preserve">
+    <value>تعد بطاقة تهيئة الهوائي إجبارية إذا كان دعم الهوائي أكبر من صفر</value>
+  </data>
+  <data name="xmlANTENNA" xml:space="preserve">
+    <value>الهوائي</value>
+  </data>
+  <data name="lblAntennaID" xml:space="preserve">
+    <value>قائمة خصائص الهوائي</value>
+  </data>
+  <data name="lblPropertyName" xml:space="preserve">
+    <value>إدارة خصائص الهوائي</value>
+  </data>
+  <data name="lblPropertyValue" xml:space="preserve">
+    <value>سجل خصائص الهوائي</value>
+  </data>
+  <data name="lblReaderConfiFile" xml:space="preserve">
+    <value>تعريف الهوائي </value>
+  </data>
+  <data name="lblAntennaSupport" xml:space="preserve">
+    <value>عدد الهوائيات المرتبطة</value>
+  </data>
+  <data name="lblAntennaConfig" xml:space="preserve">
+    <value>ضبط الهوائي</value>
+  </data>
+  <data name="rfvPropertyName" xml:space="preserve">
+    <value>ملف تهيئة القارئ</value>
+  </data>
+  <data name="rfvPropertyValue" xml:space="preserve">
+    <value>دعم الهوائي</value>
+  </data>
+  <data name="gridLogicalDeviceID" xml:space="preserve">
+    <value>اسم الملكية اجباري</value>
+  </data>
+  <data name="gridDeviceName" xml:space="preserve">
+    <value>اسم الملكية ضروري</value>
+  </data>
+  <data name="gridSource" xml:space="preserve">
+    <value>دعم الملكية اجباري</value>
+  </data>
+  <data name="gridAntennaID" xml:space="preserve">
+    <value>تعريف الجهاز المنطقي</value>
+  </data>
+  <data name="lblAntenna" xml:space="preserve">
+    <value>اسم الجهاز</value>
+  </data>
+  <data name="lblLogicalDevice" xml:space="preserve">
+    <value>المصدر</value>
+  </data>
+  <data name="rfvReadType" xml:space="preserve">
+    <value>تعريف الهوائي </value>
+  </data>
+  <data name="rfvLogicalDeviceName" xml:space="preserve">
+    <value>الهوائيات المتاحة</value>
+  </data>
+  <data name="addTDWorkflow" xml:space="preserve">
+    <value>الجهاز المنطقي</value>
+  </data>
+  <data name="lblWorkFlowName" xml:space="preserve">
+    <value>سجل تدفق العمل</value>
+  </data>
+  <data name="rfvWorkFlowName" xml:space="preserve">
+    <value>اسم تدفق العمل</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>اسم تدفق العمل اجباري</value>
+  </data>
+  <data name="addTDStages" xml:space="preserve">
+    <value>الوصف</value>
+  </data>
+  <data name="lblStageName" xml:space="preserve">
+    <value>سجل المراحل</value>
+  </data>
+  <data name="rfvStageName" xml:space="preserve">
+    <value>اسم المرحلة</value>
+  </data>
+  <data name="rfvWorkflowID" xml:space="preserve">
+    <value>اسم المرحلة اجباري</value>
+  </data>
+  <data name="ManageTDWorkflow" xml:space="preserve">
+    <value>تدفق العمل ضروري</value>
+  </data>
+  <data name="ManageTDStages" xml:space="preserve">
+    <value>ملاحظات</value>
+  </data>
+  <data name="lblNotes" xml:space="preserve">
+    <value>تعريف المرحلة</value>
+  </data>
+  <data name="lblStageID" xml:space="preserve">
+    <value>تعريف تدفق العمل</value>
+  </data>
+  <data name="lblWorkflowID" xml:space="preserve">
+    <value>إدارة تدفقات العمل</value>
+  </data>
+  <data name="ManageTDStagesRelations" xml:space="preserve">
+    <value>مراحل تدفقات العمل</value>
+  </data>
+  <data name="rfvNextStageID" xml:space="preserve">
+    <value>خريطة تدفق العمل</value>
+  </data>
+  <data name="lblNextStageID" xml:space="preserve">
+    <value>تعريف المرحلة القادمة اجباري</value>
+  </data>
+  <data name="lblNextStageName" xml:space="preserve">
+    <value>تعريف المرحلة القادمة  </value>
+  </data>
+  <data name="lblBackWorkflow" xml:space="preserve">
+    <value>اسم المرحلة القادة</value>
+  </data>
+  <data name="lblStartingStage" xml:space="preserve">
+    <value>العودة إلى تدفق العمل</value>
+  </data>
+  <data name="workflowMapErr" xml:space="preserve">
+    <value>مرحلة البداية</value>
+  </data>
+  <data name="workflowMapErr1" xml:space="preserve">
+    <value>هناك مشكلة في</value>
+  </data>
+  <data name="WorkflowProcess1" xml:space="preserve">
+    <value>ارسال / استلام الكل</value>
+  </data>
+  <data name="WorkflowProcess2" xml:space="preserve">
+    <value>العملية</value>
+  </data>
+  <data name="WorkflowProcess3" xml:space="preserve">
+    <value>بداية</value>
+  </data>
+  <data name="WorkflowProcess4" xml:space="preserve">
+    <value>إيقاف مؤقت</value>
+  </data>
+  <data name="WorkflowProcess5" xml:space="preserve">
+    <value>إنهاء</value>
+  </data>
+  <data name="valWorkflowName" xml:space="preserve">
+    <value>تم التزامن</value>
+  </data>
+  <data name="WorkflowByStatesReport" xml:space="preserve">
+    <value>اسم تدفق العمل موجود من قبل للشركة المختارة</value>
+  </data>
+  <data name="WorkflowByDocumentReport" xml:space="preserve">
+    <value>تدفق العمل تبعا للمراحل</value>
+  </data>
+  <data name="WorkflowAgainstByDocumentReport" xml:space="preserve">
+    <value>المستند من تقرير تدفق العمل</value>
+  </data>
+  <data name="NoWorkflowByDocumentReport" xml:space="preserve">
+    <value>تدفق العمل في مقابل المستند</value>
+  </data>
+  <data name="DocumentAgainstWorkflowReport" xml:space="preserve">
+    <value>الوثائق تبعا لتدفقات العمل</value>
+  </data>
+  <data name="NoRecordWorkflow" xml:space="preserve">
+    <value>الوثائق في مقابل تقرير تدفق العمل</value>
+  </data>
+  <data name="WorkflowExistsEmployee" xml:space="preserve">
+    <value>لا يوجد مراحل لتدفق العمل هذا</value>
+  </data>
+  <data name="WorkflowExistsUser" xml:space="preserve">
+    <value>يوجد تدفق العمل للموظف المختار، لا يمكن إجراء تعجيلات</value>
+  </data>
+  <data name="WorkflowExistsDepartment" xml:space="preserve">
+    <value>يوجد تدفق العمل للمستخدم المختار، لا يمكن المسح</value>
+  </data>
+  <data name="lblNextStage" xml:space="preserve">
+    <value>يوجد تدفق العمل للإدارة المختارة، لا يمكن المسح</value>
+  </data>
+  <data name="lblIntialStage" xml:space="preserve">
+    <value>المرحلة القادمة</value>
+  </data>
+  <data name="rfvWorkflowStagesEdit" xml:space="preserve">
+    <value>اختيار المرحلة المبدئية</value>
+  </data>
+  <data name="rfvWorkflowStagesDelete" xml:space="preserve">
+    <value>يوجد تدفق العمل في الوثيق، لا يمكن إجراء تعديلات</value>
+  </data>
+  <data name="lblDSAlerrtID" xml:space="preserve">
+    <value>يوجد تدفق العمل في المستند، لا يمكن المسح</value>
+  </data>
+  <data name="lblDSAlerStatus" xml:space="preserve">
+    <value>تعريف التحذير</value>
+  </data>
+  <data name="lblDSWorkflowStatus" xml:space="preserve">
+    <value>حالة التحذير</value>
+  </data>
+  <data name="lblDSAWorkflowStatus" xml:space="preserve">
+    <value>حالة تدفق العمل</value>
+  </data>
+  <data name="lblDSDocAlerts" xml:space="preserve">
+    <value>تنبيه للملفات  </value>
+  </data>
+  <data name="rfvStageExists" xml:space="preserve">
+    <value>تحذيرات المستند</value>
+  </data>
+  <data name="rfvDepEmpStage" xml:space="preserve">
+    <value>يوجد اسم المرحلة من قبل لتدفق العمل</value>
+  </data>
+  <data name="rfvtwostages" xml:space="preserve">
+    <value>يرجى اختيار القسم أو الموظفين</value>
+  </data>
+  <data name="lblGridAction" xml:space="preserve">
+    <value>استلام - تسليم</value>
+  </data>
+  <data name="lblGridSyncFlag" xml:space="preserve">
+    <value>الإجراء</value>
+  </data>
+  <data name="btnPreview" xml:space="preserve">
+    <value>تزامن الإشارة</value>
+  </data>
+  <data name="msgDocumentMoved" xml:space="preserve">
+    <value>عرض</value>
+  </data>
+  <data name="lblPreviousStage" xml:space="preserve">
+    <value>تم نقل المستند بالفعل</value>
+  </data>
+  <data name="lblCommnets" xml:space="preserve">
+    <value>المرحلة السابقة</value>
+  </data>
+  <data name="lblPreviousStageG" xml:space="preserve">
+    <value>المرحلة القادمة</value>
+  </data>
+  <data name="lblNextStageG" xml:space="preserve">
+    <value>الملاحظات</value>
+  </data>
+  <data name="lblCommnetsG" xml:space="preserve">
+    <value>إغلاق</value>
+  </data>
+  <data name="btnCloseG" xml:space="preserve">
+    <value>يرجى اختيار المرحلة القادمة أو السابقة</value>
+  </data>
+  <data name="rfvnextprevstages" xml:space="preserve">
+    <value>لا يمكن أن يكون حقل الملاحظات فارغ</value>
+  </data>
+  <data name="rfvcommentsgrid" xml:space="preserve">
+    <value>الملاحظات على نقل المستند</value>
+  </data>
+  <data name="lblCommnetsGR" xml:space="preserve">
+    <value>يرجى اختيار واحد من أسماء الحقول</value>
+  </data>
+  <data name="lblErrSerach1" xml:space="preserve">
+    <value>تعريف النشاط</value>
+  </data>
+  <data name="lblActivityID" xml:space="preserve">
+    <value>خارج تدفق العمل</value>
+  </data>
+  <data name="lblOutofWorkflow" xml:space="preserve">
+    <value>نقل غير صحيح</value>
+  </data>
+  <data name="lblInvalidMovement" xml:space="preserve">
+    <value>سجل غير صحيح</value>
+  </data>
+  <data name="lblInvalidEntry" xml:space="preserve">
+    <value>خروج غير صحيح</value>
+  </data>
+  <data name="lblInvalidExit" xml:space="preserve">
+    <value>سجل غرفة</value>
+  </data>
+  <data name="addTDRoom" xml:space="preserve">
+    <value>اسم الغرفة</value>
+  </data>
+  <data name="lblRoomName" xml:space="preserve">
+    <value>اسم الغرفة اجباري</value>
+  </data>
+  <data name="rfvRoomName" xml:space="preserve">
+    <value>رمز الغرفة</value>
+  </data>
+  <data name="lblRoomCode" xml:space="preserve">
+    <value>وصف الغرفة</value>
+  </data>
+  <data name="lblRoomDescription" xml:space="preserve">
+    <value>تعريف الموقع اجباري</value>
+  </data>
+  <data name="rfvLocationID" xml:space="preserve">
+    <value>إدارة الغرف</value>
+  </data>
+  <data name="ManageTDRoom" xml:space="preserve">
+    <value>تعريف الغرفة</value>
+  </data>
+  <data name="gridRoomID" xml:space="preserve">
+    <value>سجل منصة</value>
+  </data>
+  <data name="addTDRack" xml:space="preserve">
+    <value>اسم المنصة</value>
+  </data>
+  <data name="lblRackName" xml:space="preserve">
+    <value>اسم المنصة اجباري</value>
+  </data>
+  <data name="rfvRackName" xml:space="preserve">
+    <value>رمز المنصة</value>
+  </data>
+  <data name="lblRackCode" xml:space="preserve">
+    <value>رقم الصف</value>
+  </data>
+  <data name="lblRowNumber" xml:space="preserve">
+    <value>القيمة العددية اجبارية لرقم الصف</value>
+  </data>
+  <data name="regvalRowNumber" xml:space="preserve">
+    <value>تعريف الغرفة اجبارية</value>
+  </data>
+  <data name="rfvRoomID" xml:space="preserve">
+    <value>تعريف المنصة</value>
+  </data>
+  <data name="gridRackID" xml:space="preserve">
+    <value>سجل رف</value>
+  </data>
+  <data name="addTDShelf" xml:space="preserve">
+    <value>اسم الرف</value>
+  </data>
+  <data name="lblShelfName" xml:space="preserve">
+    <value>اسم الرف اجباري</value>
+  </data>
+  <data name="rfvShelfName" xml:space="preserve">
+    <value>رمز الرف</value>
+  </data>
+  <data name="lblShelfCode" xml:space="preserve">
+    <value>تعريف الرف</value>
+  </data>
+  <data name="gridShelfID" xml:space="preserve">
+    <value>العودة إلى الموقع</value>
+  </data>
+  <data name="lbBackToLocation" xml:space="preserve">
+    <value>إضافة غرفة جديدة</value>
+  </data>
+  <data name="lbAddNewRoom" xml:space="preserve">
+    <value>إضافة منصة جديدة</value>
+  </data>
+  <data name="gridAddNewRackName" xml:space="preserve">
+    <value>إضافة رف جديد</value>
+  </data>
+  <data name="gridAddNewShelfName" xml:space="preserve">
+    <value>تفاصيل الغرفة</value>
+  </data>
+  <data name="lblRoomDetails" xml:space="preserve">
+    <value>تفاصيل المنصة</value>
+  </data>
+  <data name="lblRackDetails" xml:space="preserve">
+    <value>تفاصيل الرف</value>
+  </data>
+  <data name="lblShelfDetails" xml:space="preserve">
+    <value>اسم الغرفة موجود لهذا الموقع</value>
+  </data>
+  <data name="rfvRoomNameExists" xml:space="preserve">
+    <value>اسم المنصة موجوده لهذه الغرفة</value>
+  </data>
+  <data name="rfvRackNameExists" xml:space="preserve">
+    <value>اسم الرف موجود لهذه المنصة</value>
+  </data>
+  <data name="rfvShelfNameExists" xml:space="preserve">
+    <value>تسجيل الدخول</value>
+  </data>
+  <data name="lblCHECKIN" xml:space="preserve">
+    <value>استلم</value>
+  </data>
+  <data name="lblCHECKOUT" xml:space="preserve">
+    <value>أرسل</value>
+  </data>
+  <data name="lblMISSING" xml:space="preserve">
+    <value>الأرشيف</value>
+  </data>
+  <data name="lblARCHIVE" xml:space="preserve">
+    <value>تالف</value>
+  </data>
+  <data name="lblDAMAGED" xml:space="preserve">
+    <value>المستند مقابل الرف</value>
+  </data>
+  <data name="lblDocumentByShelfRep" xml:space="preserve">
+    <value>قيد الانتظار</value>
+  </data>
+  <data name="StatusTDOnHold" xml:space="preserve">
+    <value>قيد العمل</value>
+  </data>
+  <data name="StatusTDInProgress" xml:space="preserve">
+    <value>مغلق</value>
+  </data>
+  <data name="StatusTDClosed" xml:space="preserve">
+    <value>قراء Biztalk غير قابلين للتعجيل</value>
+  </data>
+  <data name="lblBiztalkReaderEdit" xml:space="preserve">
+    <value>قراء Biztalk لا يمكن مسحهم</value>
+  </data>
+  <data name="lblBiztalkReaderDelete" xml:space="preserve">
+    <value>يمكن مسح سجلات حالة تسجيل الدخول فقط</value>
+  </data>
+  <data name="docCheckinDelete" xml:space="preserve">
+    <value>مجال العمل</value>
+  </data>
+  <data name="gridWorkSpace" xml:space="preserve">
+    <value>رقم المستند</value>
+  </data>
+  <data name="lblDocumentNo" xml:space="preserve">
+    <value>لا يمكن أن تكون RFID غير الفعالة أكثر من 24 رمز</value>
+  </data>
+  <data name="valPassiveRFID" xml:space="preserve">
+    <value>القضية (الرقم / السنة)</value>
+  </data>
+  <data name="lblcasenoyr" xml:space="preserve">
+    <value>رقم الدعوى (مختصر)</value>
+  </data>
+  <data name="lblcasenoyrRFV" xml:space="preserve">
+    <value>رقم تخصيص الوظيفة</value>
+  </data>
+  <data name="lbljoballo" xml:space="preserve">
+    <value>نوع القضية</value>
+  </data>
+  <data name="lblcasetype" xml:space="preserve">
+    <value>نـوع الدعــوى</value>
+  </data>
+  <data name="lblcasetypeRFV" xml:space="preserve">
+    <value>الطرف الأول</value>
+  </data>
+  <data name="lblfirstparty" xml:space="preserve">
+    <value>الطرف الثاني</value>
+  </data>
+  <data name="lblsecparty" xml:space="preserve">
+    <value>CPR الخاصة بالطرف الثاني</value>
+  </data>
+  <data name="lblCPRsecparty" xml:space="preserve">
+    <value>قيمة الحافظة</value>
+  </data>
+  <data name="lblparcelvalue" xml:space="preserve">
+    <value>قيمة الرسوم</value>
+  </data>
+  <data name="lblfeevalue" xml:space="preserve">
+    <value>رقم الوثيقة</value>
+  </data>
+  <data name="lbldeednum" xml:space="preserve">
+    <value>تعريف القضية</value>
+  </data>
+  <data name="lblcaseid" xml:space="preserve">
+    <value>آخر قراءة</value>
+  </data>
+  <data name="lbllastRead" xml:space="preserve">
+    <value>آخر قراءة للملف</value>
+  </data>
+  <data name="valRFIDAlreadyAssign" xml:space="preserve">
+    <value>تحميل أسماء المسجلين</value>
+  </data>
+  <data name="cdrpLoadReg" xml:space="preserve">
+    <value>اختار مسجل</value>
+  </data>
+  <data name="cdrpSelectReg" xml:space="preserve">
+    <value>اسم المسجل</value>
+  </data>
+  <data name="lblRegName" xml:space="preserve">
+    <value>إدارة نوع القضية</value>
+  </data>
+  <data name="ManageCategoryReg" xml:space="preserve">
+    <value>إدارة أنواع الدعاوي</value>
+  </data>
+  <data name="rfvRegName" xml:space="preserve">
+    <value>سجل نوع القضية</value>
+  </data>
+  <data name="addATSCategoryReg" xml:space="preserve">
+    <value>اسم المسجل موجود من قبل للشركة المختارة</value>
+  </data>
+  <data name="valRegName" xml:space="preserve">
+    <value>المسجل</value>
+  </data>
+  <data name="SelectReg" xml:space="preserve">
+    <value>المسجل</value>
+  </data>
+  <data name="lblReg" xml:space="preserve">
+    <value>اسم المسجل</value>
+  </data>
+  <data name="Reg" xml:space="preserve">
+    <value>اسم المسجل</value>
+  </data>
+  <data name="gridRegName" xml:space="preserve">
+    <value>استخدام منصة التسجيل</value>
+  </data>
+  <data name="lblRestration" xml:space="preserve">
+    <value>تسجيل</value>
+  </data>
+  <data name="lblRoom8" xml:space="preserve">
+    <value>يرجى إدخال رقم تخصيص الوظيفة</value>
+  </data>
+  <data name="rfvJobAllNum" xml:space="preserve">
+    <value>رقم CPR</value>
+  </data>
+  <data name="lblcprnum" xml:space="preserve">
+    <value>إلغاء  </value>
+  </data>
+  <data name="lblcancelst" xml:space="preserve">
+    <value>إلغاء الطلب</value>
+  </data>
+  <data name="lblCaseLoc" xml:space="preserve">
+    <value>المحكمة</value>
+  </data>
+  <data name="lblCaseNotes" xml:space="preserve">
+    <value>الموقع الفرعي للقضية</value>
+  </data>
+  <data name="lblCaseSubLoc" xml:space="preserve">
+    <value>إلغاء المستند</value>
+  </data>
+  <data name="lblCancelDocument" xml:space="preserve">
+    <value>عدد الملفات في اللوحة</value>
+  </data>
+  <data name="lblDocumentsCompGraph" xml:space="preserve">
+    <value>عدد الملفات لكل دائرة</value>
+  </data>
+  <data name="radToday" xml:space="preserve">
+    <value>عمل اليــوم</value>
+  </data>
+  <data name="radWeekView" xml:space="preserve">
+    <value>عمل الأسبــوع</value>
+  </data>
+  <data name="radMonthView" xml:space="preserve">
+    <value>عمل الشهـــر</value>
+  </data>
+  <data name="radWorkflowGraph" xml:space="preserve">
+    <value>عدد الملفات خلال السنــة</value>
+  </data>
+  <data name="radYearGraph" xml:space="preserve">
+    <value>عدد الملفات خلال السنة</value>
+  </data>
+  <data name="lblIntroductionReport" xml:space="preserve">
+    <value>التقرير اليومي</value>
+  </data>
+  <data name="lblDailyReport" xml:space="preserve">
+    <value>تقرير التدقيق</value>
+  </data>
+  <data name="lblDocumentNumber" xml:space="preserve">
+    <value>ادخال رقم المستند</value>
+  </data>
+  <data name="lblIncludeDate" xml:space="preserve">
+    <value>يتضمن مدى التاريخ</value>
+  </data>
+  <data name="lblPropertytype" xml:space="preserve">
+    <value>نوع الملكية</value>
+  </data>
+  <data name="lblCaseClassification" xml:space="preserve">
+    <value>تصنيف القضية</value>
+  </data>
+  <data name="ManageTDRequestDocuments" xml:space="preserve">
+    <value>طلب ملف</value>
+  </data>
+  <data name="lblRequest" xml:space="preserve">
+    <value>الطلب</value>
+  </data>
+  <data name="lblREQUESTED" xml:space="preserve">
+    <value>تم الطلب</value>
+  </data>
+  <data name="lblCANCELED" xml:space="preserve">
+    <value>تم الإلغاء</value>
+  </data>
+  <data name="lblRequestConfirm" xml:space="preserve">
+    <value>تم إرسال طلب المستند</value>
+  </data>
+  <data name="lblCancelConfirm" xml:space="preserve">
+    <value>تم إلغاء طلب المستند</value>
+  </data>
+  <data name="lblPageSize" xml:space="preserve">
+    <value>عدد الملفات المعروضة</value>
+  </data>
+  <data name="lblREQUESTEDBY" xml:space="preserve">
+    <value>طالب الملف</value>
+  </data>
+  <data name="lblREQUESTEDON" xml:space="preserve">
+    <value>تاريخ الطلب</value>
+  </data>
+  <data name="lblCANCELEDON" xml:space="preserve">
+    <value>تاريخ الإلغاء</value>
+  </data>
+  <data name="lblCANCELEDBY" xml:space="preserve">
+    <value>تم الإلغاء من قبل</value>
+  </data>
+  <data name="lblISSUEDON" xml:space="preserve">
+    <value>تاريخ الارسال</value>
+  </data>
+  <data name="lblISSUEDBY" xml:space="preserve">
+    <value>المرسل</value>
+  </data>
+  <data name="lblRETURNEDON" xml:space="preserve">
+    <value>تاريخ الإعادة</value>
+  </data>
+  <data name="lblFIRSTNAME" xml:space="preserve">
+    <value>الاسم الأول</value>
+  </data>
+  <data name="lblSECONDNAME" xml:space="preserve">
+    <value>الاسم الثاني</value>
+  </data>
+  <data name="lblFAMILYNAME" xml:space="preserve">
+    <value>اسم العائلة</value>
+  </data>
+  <data name="lblADJDTELEPHONE" xml:space="preserve">
+    <value>هاتف دائرة القضاء - امارة أبوظبي</value>
+  </data>
+  <data name="lblLastSeen" xml:space="preserve">
+    <value>آخر موقع تم مشاهدته</value>
+  </data>
+  <data name="lblCaseFiles" xml:space="preserve">
+    <value>قائمة ملفات القضايا</value>
+  </data>
+  <data name="ManTABRole" xml:space="preserve">
+    <value>إدارة الصلاحيات</value>
+  </data>
+  <data name="addTABRole" xml:space="preserve">
+    <value>سجل الدور</value>
+  </data>
+  <data name="lblRoleName" xml:space="preserve">
+    <value>اسم الدور  </value>
+  </data>
+  <data name="rfvRoleName" xml:space="preserve">
+    <value>اسم الدور اجباري</value>
+  </data>
+  <data name="lblCourtName" xml:space="preserve">
+    <value>الفرع</value>
+  </data>
+  <data name="lblBranchName" xml:space="preserve">
+    <value>درجة التقاضي</value>
+  </data>
+  <data name="lblCaseNo" xml:space="preserve">
+    <value>رقم الدعوى- مختصر</value>
+  </data>
+  <data name="lblRegion" xml:space="preserve">
+    <value>المحكمة</value>
+  </data>
+  <data name="lbladdLocation" xml:space="preserve">
+    <value>إضافة الموقع</value>
+  </data>
+  <data name="lbleditLocation" xml:space="preserve">
+    <value>تعديل الموقع</value>
+  </data>
+  <data name="btnADD" xml:space="preserve">
+    <value>جديد</value>
+  </data>
+  <data name="lblPleaseselectanode" xml:space="preserve">
+    <value>يرجى اختيار العقدة</value>
+  </data>
+  <data name="lblPrefix" xml:space="preserve">
+    <value>اختصار نوع الدعوى</value>
+  </data>
+  <data name="lblPrefixRFV" xml:space="preserve">
+    <value>القيمة السابقة اجبارية</value>
+  </data>
+  <data name="lblSVGX" xml:space="preserve">
+    <value>قيمة SVG X  </value>
+  </data>
+  <data name="lblSVGY" xml:space="preserve">
+    <value>قيمة SVG Y </value>
+  </data>
+  <data name="lblReaderDet" xml:space="preserve">
+    <value>تفاصيل القارئ  </value>
+  </data>
+  <data name="lblSelectReader" xml:space="preserve">
+    <value>اختار قارئ</value>
+  </data>
+  <data name="lblSelectAntennas" xml:space="preserve">
+    <value>اختار هوائي</value>
+  </data>
+  <data name="lblFloorMap" xml:space="preserve">
+    <value>خريطة الطابق</value>
+  </data>
+  <data name="lblGetAntennas" xml:space="preserve">
+    <value>الحصول على الهوائيات المتاحة</value>
+  </data>
+  <data name="lblSVGXRFV" xml:space="preserve">
+    <value>قيمة SVG X اجبارية</value>
+  </data>
+  <data name="lblSVGYRFV" xml:space="preserve">
+    <value>قيمة SVG Y اجبارية</value>
+  </data>
+  <data name="lblReaderDetRFV" xml:space="preserve">
+    <value>تفاصيل القارئ اجبارية</value>
+  </data>
+  <data name="lblLevel6RFV" xml:space="preserve">
+    <value>غير مسموح بالمزيد من المستويات</value>
+  </data>
+  <data name="lblcasetypeRFV1" xml:space="preserve">
+    <value>نوع القضية اجباري</value>
+  </data>
+  <data name="lblYear" xml:space="preserve">
+    <value>السنة</value>
+  </data>
+  <data name="lblYearRFV" xml:space="preserve">
+    <value>العام اجباري</value>
+  </data>
+  <data name="lblCaseSerialization" xml:space="preserve">
+    <value>رقم الدعوى</value>
+  </data>
+  <data name="lblCaseSerializationInvalid" xml:space="preserve">
+    <value>سلسلة غير صحيحة في رقم تسلسل القضية</value>
+  </data>
+  <data name="lblPrefixExist" xml:space="preserve">
+    <value>القيمة السابقة موجودة بالفعل</value>
+  </data>
+  <data name="lblBranchNameRFV" xml:space="preserve">
+    <value>اسم الفرع اجباري</value>
+  </data>
+  <data name="lblSearchFields" xml:space="preserve">
+    <value>جميع الحقول اجباري</value>
+  </data>
+  <data name="lblFileSelect" xml:space="preserve">
+    <value>يرجى اختيار ملف  </value>
+  </data>
+  <data name="lblCaseNoRFV" xml:space="preserve">
+    <value>رقم القضية اجباري</value>
+  </data>
+  <data name="lblPanel" xml:space="preserve">
+    <value>الدائـرة</value>
+  </data>
+  <data name="lblGenNo" xml:space="preserve">
+    <value>المسلسل العام</value>
+  </data>
+  <data name="lblRowID" xml:space="preserve">
+    <value>تعريف الصف</value>
+  </data>
+  <data name="lblPanelRFV" xml:space="preserve">
+    <value>اللوحة اجبارية</value>
+  </data>
+  <data name="lblGenNoRFV" xml:space="preserve">
+    <value>الرقم العام اجباري</value>
+  </data>
+  <data name="lblRowIDRFV" xml:space="preserve">
+    <value>تعريف الصف اجباري</value>
+  </data>
+  <data name="lblHistory" xml:space="preserve">
+    <value>تاريخ</value>
+  </data>
+  <data name="lblActivate" xml:space="preserve">
+    <value>تفعيل</value>
+  </data>
+  <data name="lblDeActivate" xml:space="preserve">
+    <value>دي تنشيط</value>
+  </data>
+  <data name="lblAlertConfiguration" xml:space="preserve">
+    <value>إعدادات الإنذار</value>
+  </data>
+  <data name="lblshowMap" xml:space="preserve">
+    <value>موقع الملف على الخريطة</value>
+  </data>
+  <data name="gridManageTDZONES" xml:space="preserve">
+    <value>إدارة المناطق</value>
+  </data>
+  <data name="addTDZONES" xml:space="preserve">
+    <value>سجل المناطق</value>
+  </data>
+  <data name="lblZONENAME" xml:space="preserve">
+    <value>الدائرة</value>
+  </data>
+  <data name="rfvZONENAME" xml:space="preserve">
+    <value>هو اسم منطقة المطلوبة</value>
+  </data>
+  <data name="lblZONETYPE" xml:space="preserve">
+    <value>نوع المنطقة</value>
+  </data>
+  <data name="rfvZONETYPE" xml:space="preserve">
+    <value>هو مطلوب نوع المنطقة</value>
+  </data>
+  <data name="addTDZONEGROUP" xml:space="preserve">
+    <value>سجل فريق المنطقة</value>
+  </data>
+  <data name="lblGROUPNAME" xml:space="preserve">
+    <value>اسم المجموعة</value>
+  </data>
+  <data name="rfvGROUPNAME" xml:space="preserve">
+    <value>مطلوب اسم المجموعة</value>
+  </data>
+  <data name="rfvZONEID" xml:space="preserve">
+    <value>هو مطلوب المنطقة</value>
+  </data>
+  <data name="addTDZONESENTRY" xml:space="preserve">
+    <value>سجل دخول المنطقة</value>
+  </data>
+  <data name="lblENTRYLEVEL" xml:space="preserve">
+    <value>دخول المستوى</value>
+  </data>
+  <data name="rfvENTRYLEVEL" xml:space="preserve">
+    <value>هو مطلوب مبتدئ</value>
+  </data>
+  <data name="lblENTRYHRS" xml:space="preserve">
+    <value>دخول ساعة</value>
+  </data>
+  <data name="rfvENTRYHRS" xml:space="preserve">
+    <value>هو مطلوب ساعة دخول</value>
+  </data>
+  <data name="regvalENTRYHRS" xml:space="preserve">
+    <value>هو مطلوب قيمة رقمية في ساعة الدخول</value>
+  </data>
+  <data name="lblENTRYALARM" xml:space="preserve">
+    <value>دخول إنذار</value>
+  </data>
+  <data name="rfvENTRYALARM" xml:space="preserve">
+    <value>هو مطلوب دخول إنذار</value>
+  </data>
+  <data name="lblENTRYEMAIL" xml:space="preserve">
+    <value>دخول البريد الإلكتروني</value>
+  </data>
+  <data name="rfvENTRYEMAIL" xml:space="preserve">
+    <value>البريد الالكتروني مطلوب دخول</value>
+  </data>
+  <data name="lblENTRYSMS" xml:space="preserve">
+    <value>دخول SMS</value>
+  </data>
+  <data name="rfvENTRYSMS" xml:space="preserve">
+    <value>هو مطلوب دخول SMS</value>
+  </data>
+  <data name="addTDZONESENTRYESC" xml:space="preserve">
+    <value>سجل دخول المناطق التصعيد</value>
+  </data>
+  <data name="rfvENTRYCRITERIAID" xml:space="preserve">
+    <value>هو مطلوب معايير دخول</value>
+  </data>
+  <data name="addTDZONESEXIT" xml:space="preserve">
+    <value>سجل خروج المناطق</value>
+  </data>
+  <data name="lblEXITLEVEL" xml:space="preserve">
+    <value>خروج المستوى</value>
+  </data>
+  <data name="rfvEXITLEVEL" xml:space="preserve">
+    <value>هو المستوى المطلوب للخروج</value>
+  </data>
+  <data name="lblEXITHRS" xml:space="preserve">
+    <value>خروج ساعة</value>
+  </data>
+  <data name="rfvEXITHRS" xml:space="preserve">
+    <value>هو مطلوب ساعة خروج</value>
+  </data>
+  <data name="regvalEXITHRS" xml:space="preserve">
+    <value>هو مطلوب قيمة رقمية في ساعة خروج</value>
+  </data>
+  <data name="lblEXITALARM" xml:space="preserve">
+    <value>خروج إنذار</value>
+  </data>
+  <data name="rfvEXITALARM" xml:space="preserve">
+    <value>هو مطلوب إنذار الخروج</value>
+  </data>
+  <data name="lblEXITEMAIL" xml:space="preserve">
+    <value>خروج لصديق</value>
+  </data>
+  <data name="rfvEXITEMAIL" xml:space="preserve">
+    <value>البريد الالكتروني مطلوب الخروج</value>
+  </data>
+  <data name="lblEXITSMS" xml:space="preserve">
+    <value>خروج SMS</value>
+  </data>
+  <data name="rfvEXITSMS" xml:space="preserve">
+    <value>غير مطلوب SMS الخروج</value>
+  </data>
+  <data name="addTDZONESEXITESC" xml:space="preserve">
+    <value>سجل المناطق إنهاء التصعيد</value>
+  </data>
+  <data name="rfvEXITCRITERIAID" xml:space="preserve">
+    <value>هو مطلوب معايير الخروج</value>
+  </data>
+  <data name="lblRepository" xml:space="preserve">
+    <value>مستودع</value>
+  </data>
+  <data name="lblNonRepository" xml:space="preserve">
+    <value>غير مستودع</value>
+  </data>
+  <data name="lblLocEmpRFV" xml:space="preserve">
+    <value>مطلوب موقع أو الموظف.</value>
+  </data>
+  <data name="LBLENTRYCRITERIA" xml:space="preserve">
+    <value>صلاحيات الدخول</value>
+  </data>
+  <data name="LBLEXITCRITERIA" xml:space="preserve">
+    <value>صلاحيات الخروج</value>
+  </data>
+  <data name="gridManageTDZONESEXIT" xml:space="preserve">
+    <value>تدير معايير الخروج سير العمل</value>
+  </data>
+  <data name="gridManageTDZONESENTRY" xml:space="preserve">
+    <value>تدير معايير الدخول سير العمل</value>
+  </data>
+  <data name="lblBackZones" xml:space="preserve">
+    <value>العودة إلى المناطق</value>
+  </data>
+  <data name="validEnryHrs" xml:space="preserve">
+    <value>ساعة دخلت بالفعل لهذه المنطقة.</value>
+  </data>
+  <data name="RFVAlertConfiguration" xml:space="preserve">
+    <value>مطلوب أي واحد من تكوين تنبيه.</value>
+  </data>
+  <data name="rfvZONENAMEExists" xml:space="preserve">
+    <value>رقم الغرفة هو موجود بالفعل.</value>
+  </data>
+  <data name="rfvZONEDefaultEmp" xml:space="preserve">
+    <value>يرجى تحديد الافتراضي / الموظف المسؤول في لمنطقة.</value>
+  </data>
+  <data name="rfvZONENAMENotFound" xml:space="preserve">
+    <value>لم يتم العثور على اسم منطقة في الماجستير.</value>
+  </data>
+  <data name="gridManageTDZONEGROUP" xml:space="preserve">
+    <value>إدارة مجموعة مناطق العمل</value>
+  </data>
+  <data name="rfvGroupNAMEExists" xml:space="preserve">
+    <value>اسم المجموعة هو موجود بالفعل.</value>
+  </data>
+  <data name="gridManageTDWorkOrder" xml:space="preserve">
+    <value>إدارة طلبات العمل</value>
+  </data>
+  <data name="addTDWorkOrder" xml:space="preserve">
+    <value>إدارة طلبات العمل</value>
+  </data>
+  <data name="lblScheduleDate" xml:space="preserve">
+    <value>جدولة تاريخ</value>
+  </data>
+  <data name="rfvScheduleDate" xml:space="preserve">
+    <value>هو مطلوب التاريخ المحدد.</value>
+  </data>
+  <data name="cvScheduleDate" xml:space="preserve">
+    <value>غير صالح للتاريخ تاريخ جدولة.</value>
+  </data>
+  <data name="lblExecutedOn" xml:space="preserve">
+    <value>أعدم يوم</value>
+  </data>
+  <data name="pendingStatus" xml:space="preserve">
+    <value>ريثما</value>
+  </data>
+  <data name="Synchronized" xml:space="preserve">
+    <value>مزامنة</value>
+  </data>
+  <data name="Downloaded" xml:space="preserve">
+    <value>التحميل</value>
+  </data>
+  <data name="Missing" xml:space="preserve">
+    <value>مفقود</value>
+  </data>
+  <data name="Good" xml:space="preserve">
+    <value>جيد</value>
+  </data>
+  <data name="Done" xml:space="preserve">
+    <value>فعل</value>
+  </data>
+  <data name="msgWorkOrderCreateEdit" xml:space="preserve">
+    <value>ويسمح تعديل فقط عندما يكون الوضع هو معلق.</value>
+  </data>
+  <data name="msgWorkOrderExists" xml:space="preserve">
+    <value>تم إنشاؤه بالفعل ترتيب العمل لهذا الموظف والمنطقة.</value>
+  </data>
+  <data name="msgWorkOrderCreateDelete" xml:space="preserve">
+    <value>ويسمح فقط عند حذف حالة معلقة.</value>
+  </data>
+  <data name="lblDurationMode" xml:space="preserve">
+    <value>نوع المدة</value>
+  </data>
+  <data name="lblDuration" xml:space="preserve">
+    <value>المدة</value>
+  </data>
+  <data name="lblHrs" xml:space="preserve">
+    <value>ساعات</value>
+  </data>
+  <data name="lblDays" xml:space="preserve">
+    <value>أيام</value>
+  </data>
+  <data name="rfvDurationMode" xml:space="preserve">
+    <value>مطلوب وضع مدتها.</value>
+  </data>
+  <data name="rfvDuration" xml:space="preserve">
+    <value>مطلوب المدة.</value>
+  </data>
+  <data name="lblPaste" xml:space="preserve">
+    <value> لصق </value>
+  </data>
+  <data name="CancelRequest" xml:space="preserve">
+    <value>هل أنت متأكد أنك تريد إلغاء طلب؟</value>
+  </data>
+  <data name="lblReqCheckOut" xml:space="preserve">
+    <value>تم الطلب</value>
+  </data>
+  <data name="lblCHECKOUTCONF" xml:space="preserve">
+    <value>تم ارسال الملف</value>
+  </data>
+  <data name="checkInDocument" xml:space="preserve">
+    <value>هل أنت متأكد أنك تريد استلام هذا الملف؟</value>
+  </data>
+  <data name="lblReqCheckIn" xml:space="preserve">
+    <value>استلام الطالب</value>
+  </data>
+  <data name="lblCHECKINCONF" xml:space="preserve">
+    <value>وقد تم تلقي الملف</value>
+  </data>
+  <data name="lblCHECKoutmode" xml:space="preserve">
+    <value>نـوع التسـليم</value>
+  </data>
+  <data name="lblInernal" xml:space="preserve">
+    <value>ارسال داخلي</value>
+  </data>
+  <data name="lblOutsideInternal" xml:space="preserve">
+    <value>ارسال خارجي</value>
+  </data>
+  <data name="lblOutsideExternal" xml:space="preserve">
+    <value>تسليم خارجي</value>
+  </data>
+  <data name="lblCourier" xml:space="preserve">
+    <value>تفاصيل المراسل</value>
+  </data>
+  <data name="lblCName" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="lblIDNo" xml:space="preserve">
+    <value>رقم إثبات الشخصية</value>
+  </data>
+  <data name="lblIDType" xml:space="preserve">
+    <value>نوع الهوية</value>
+  </data>
+  <data name="lblReceiver" xml:space="preserve">
+    <value>الجهة المستلمة</value>
+  </data>
+  <data name="lblOrganization" xml:space="preserve">
+    <value>الاسم</value>
+  </data>
+  <data name="lblActive" xml:space="preserve">
+    <value>فعال?</value>
+  </data>
+  <data name="lblDeActivated" xml:space="preserve">
+    <value>لا أحدث</value>
+  </data>
+  <data name="lblOn" xml:space="preserve">
+    <value>في</value>
+  </data>
+  <data name="lblBy" xml:space="preserve">
+    <value>بواسطة</value>
+  </data>
+  <data name="lblReqDetails" xml:space="preserve">
+    <value>ملاحظات :</value>
+  </data>
+  <data name="msgDocumentCheckOut" xml:space="preserve">
+    <value>وقد تم بالفعل ارسال الملف. لا يمكن إرسال الآن.</value>
+  </data>
+  <data name="msgDocumentProcess" xml:space="preserve">
+    <value>يتم معالجة الملف</value>
+  </data>
+  <data name="lblownerCheckIN" xml:space="preserve">
+    <value>الملف مع مالك</value>
+  </data>
+  <data name="lblRequestorCheckOut" xml:space="preserve">
+    <value>ارسلت من الطالب</value>
+  </data>
+  <data name="addMyDocumentsrad" xml:space="preserve">
+    <value>ملفاتي</value>
+  </data>
+  <data name="addMyreqDocumentsrad" xml:space="preserve">
+    <value>الملفات المطلوبة</value>
+  </data>
+  <data name="gridManageTDZONETRANSFERS" xml:space="preserve">
+    <value>حركة الملف</value>
+  </data>
+  <data name="lblFZONENAME" xml:space="preserve">
+    <value>من الدائرة</value>
+  </data>
+  <data name="lblTZONEID" xml:space="preserve">
+    <value>أرسلت إلى الدائرة</value>
+  </data>
+  <data name="lblDURATIONREQ" xml:space="preserve">
+    <value>المدة</value>
+  </data>
+  <data name="lblCHECKOUTTYPE" xml:space="preserve">
+    <value>نوع الاستلام</value>
+  </data>
+  <data name="lblTRANSFEREDBY" xml:space="preserve">
+    <value>المرسل</value>
+  </data>
+  <data name="lblTRANSFEREDON" xml:space="preserve">
+    <value>تاريخ الارسال</value>
+  </data>
+  <data name="lblLocEmpDetails" xml:space="preserve">
+    <value>انقر على الدائرة الخضراء لإظهار تفاصيل الغرفة والموظف</value>
+  </data>
+  <data name="lblEmpImage" xml:space="preserve">
+    <value>صورة لموظف</value>
+  </data>
+  <data name="Found" xml:space="preserve">
+    <value>وجدت</value>
+  </data>
+  <data name="Extra" xml:space="preserve">
+    <value>إضافي</value>
+  </data>
+  <data name="lblDocumentsPanelStatusGraph" xml:space="preserve">
+    <value>عدد الملفات حسب الحالة لكل دائرة</value>
+  </data>
+  <data name="REQCHECKINBY" xml:space="preserve">
+    <value>المستلم</value>
+  </data>
+  <data name="REQCHECKINON" xml:space="preserve">
+    <value>تاريخ الاستلام</value>
+  </data>
+  <data name="RETURNEDBY" xml:space="preserve">
+    <value>معاد من</value>
+  </data>
+  <data name="OWNERCHECKINBY" xml:space="preserve">
+    <value>المستلم</value>
+  </data>
+  <data name="OWNERCHECKINON" xml:space="preserve">
+    <value>تاريخ الاستلام</value>
+  </data>
+  <data name="CHECKEDINBY" xml:space="preserve">
+    <value>المستلم</value>
+  </data>
+  <data name="CHECKEDINON" xml:space="preserve">
+    <value>تاريخ الاستلام</value>
+  </data>
+  <data name="lblZoneType1" xml:space="preserve">
+    <value>تسجيل</value>
+  </data>
+  <data name="lblZoneType2" xml:space="preserve">
+    <value>الدائرة</value>
+  </data>
+  <data name="lblZoneType3" xml:space="preserve">
+    <value>مراسلة</value>
+  </data>
+  <data name="lblZoneType4" xml:space="preserve">
+    <value>أرشيف</value>
+  </data>
+  <data name="lblZoneType5" xml:space="preserve">
+    <value>لا شيء</value>
+  </data>
+  <data name="rfvZONENAMEInvalid" xml:space="preserve">
+    <value>اسم منطقة غير صحيحة</value>
+  </data>
+  <data name="rfvGrpZoneNotDef" xml:space="preserve">
+    <value>لم يتم تعريف مجموعة المنطقة لهذا النوع من الملفات</value>
+  </data>
+  <data name="lblWF1" xml:space="preserve">
+    <value>قيد الارسال إلى القلم</value>
+  </data>
+  <data name="lblWF2" xml:space="preserve">
+    <value>مرسلة من</value>
+  </data>
+  <data name="lblWF3" xml:space="preserve">
+    <value>إرسالها إلى الدائرة</value>
+  </data>
+  <data name="lblWF4" xml:space="preserve">
+    <value>مرسلة من القلم</value>
+  </data>
+  <data name="lblWF5" xml:space="preserve">
+    <value>من القيد إلى القلم</value>
+  </data>
+  <data name="lblWF6" xml:space="preserve">
+    <value>من كاتب لرئيس الدائرة</value>
+  </data>
+  <data name="lblManager" xml:space="preserve">
+    <value>مدير</value>
+  </data>
+  <data name="lblempReporting" xml:space="preserve">
+    <value>التسلسل الهرمي</value>
+  </data>
+  <data name="rfvManager" xml:space="preserve">
+    <value>الرجاء اختيار مدير</value>
+  </data>
+  <data name="lblBeforeSave" xml:space="preserve">
+    <value>قبل الحفظ</value>
+  </data>
+  <data name="lblAfterSave" xml:space="preserve">
+    <value>بعد حفظه</value>
+  </data>
+  <data name="ConfirmReject" xml:space="preserve">
+    <value>هل أنت متأكد من العودة إلى هذا الطلب؟</value>
+  </data>
+  <data name="lblReject" xml:space="preserve">
+    <value>لا اقبل</value>
+  </data>
+  <data name="lblRejectReasons" xml:space="preserve">
+    <value>السبب</value>
+  </data>
+  <data name="rfvRejectReasons" xml:space="preserve">
+    <value>لا اقبل أسباب المطلوبة</value>
+  </data>
+  <data name="rfvRejectConfirm" xml:space="preserve">
+    <value>تم رفض طلب ملف</value>
+  </data>
+  <data name="lblRejectedBy" xml:space="preserve">
+    <value>رافض التسليم</value>
+  </data>
+  <data name="lblRejectedOn" xml:space="preserve">
+    <value>تاريخ الرفض</value>
+  </data>
+  <data name="INTE40" xml:space="preserve">
+    <value>وطلب تسجيل</value>
+  </data>
+  <data name="INTE2" xml:space="preserve">
+    <value>طلبت وتم ارسالها</value>
+  </data>
+  <data name="INTE1" xml:space="preserve">
+    <value>تم الطلب</value>
+  </data>
+  <data name="INTE5" xml:space="preserve">
+    <value>استلام الطالب</value>
+  </data>
+  <data name="INTE7" xml:space="preserve">
+    <value>ارسلت من الطالب</value>
+  </data>
+  <data name="dupCaseSerialization" xml:space="preserve">
+    <value>هذا المسلسل الملف موجود مسبقا</value>
+  </data>
+  <data name="lblRegAlertMsg" xml:space="preserve">
+    <value>في مكتب</value>
+  </data>
+  <data name="lblMyDocs" xml:space="preserve">
+    <value> جميع الملفات </value>
+  </data>
+  <data name="lblReqDocByMe" xml:space="preserve">
+    <value> المطلوبة من قبلي ماعدا الطلبات المرفوضة والطلبات المعادة ولم تستلم </value>
+  </data>
+  <data name="lblReqDocFromMe" xml:space="preserve">
+    <value> المطلوبة مني </value>
+  </data>
+  <data name="lblCOByMe" xml:space="preserve">
+    <value> ارسال خارجي </value>
+  </data>
+  <data name="lblTransByMe" xml:space="preserve">
+    <value> محال ولم يستلم </value>
+  </data>
+  <data name="lblTransFromMe" xml:space="preserve">
+    <value> محالة إلي ولم تستلم </value>
+  </data>
+  <data name="lblWFCI" xml:space="preserve">
+    <value> بانتظار الاستلام </value>
+  </data>
+  <data name="lblDateCriteria" xml:space="preserve">
+    <value> تاريخ حركة الملف  </value>
+  </data>
+  <data name="lblSameStatus" xml:space="preserve">
+    <value>..وينبغي اختيار ثائق الحالة نفسها</value>
+  </data>
+  <data name="btnResetFilter" xml:space="preserve">
+    <value> إعادة تصفية </value>
+  </data>
+  <data name="CheckINOUTReport" xml:space="preserve">
+    <value>الاستعلام عن التقرير</value>
+  </data>
+  <data name="WOReport" xml:space="preserve">
+    <value>نوع الحركة</value>
+  </data>
+  <data name="WOReportBy" xml:space="preserve">
+    <value>اختيار حركة الملف</value>
+  </data>
+  <data name="OwnerFile" xml:space="preserve">
+    <value>رئيس الدائرة</value>
+  </data>
+  <data name="showPDF" xml:space="preserve">
+    <value>Export to PDF</value>
+  </data>
+  <data name="lblWelcome" xml:space="preserve">
+    <value>مرحبا</value>
+  </data>
+  <data name="lblAddWorkOrder" xml:space="preserve">
+    <value>إضافة طلبات العمل</value>
+  </data>
+  <data name="lblFromDate" xml:space="preserve">
+    <value>من</value>
+  </data>
+  <data name="lblToDate" xml:space="preserve">
+    <value>الى</value>
+  </data>
+  <data name="lblLeft" xml:space="preserve">
+    <value>غادر</value>
+  </data>
+  <data name="lblWidth" xml:space="preserve">
+    <value>عرض</value>
+  </data>
+  <data name="lblLegend" xml:space="preserve">
+    <value>مفتاح الجدول</value>
+  </data>
+  <data name="lblReplay" xml:space="preserve">
+    <value>اعادتها</value>
+  </data>
+  <data name="lblFloorMapHistory" xml:space="preserve">
+    <value>خريطة حركة الملف</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value>خريطة الطابق</value>
+  </data>
+<data name="lblREQEXTENDEDBY" xml:space="preserve">
+    <value>طلب المقدم من</value>
+  </data>
+  <data name="lblREQEXTENDEDON" xml:space="preserve">
+    <value>طلب تمديد تاريخ</value>
+  </data>
+  <data name="lblREQEXTNDCANCELEDBY" xml:space="preserve">
+    <value>تمديد طلب إلغاؤها من </value>
+  </data>
+  <data name="lblREQEXTNDCANCELEDON" xml:space="preserve">
+    <value>تمديد طلب إلغاء تاريخ</value>
+  </data>
+  <data name="lblREQEXTNDREJBY" xml:space="preserve">
+    <value>تمديد الطلب رفض من</value>
+  </data>
+  <data name="lblREQEXTNDREJON" xml:space="preserve">
+    <value>رفض طلب تمديد تاريخ</value>
+  </data>
+  <data name="lblExtendedBy" xml:space="preserve">
+    <value>التمديد</value>
+  </data>
+  <data name="lblExtendedOn" xml:space="preserve">
+    <value>تمديد تاريخ</value>
+  </data>
+  <data name="lblCheckoutUsing" xml:space="preserve">
+    <value>طريقة التسـليم</value>
+  </data>
+  <data name="lblREQExtnd" xml:space="preserve">
+    <value>وقد تم تمديد طلب</value>
+  </data>
+  <data name="lblREQExtndStatus" xml:space="preserve">
+    <value>طلب - توسيع نطاق</value>
+  </data>
+  <data name="lblCheckOutExt" xml:space="preserve">
+    <value>ارسال خارجي عن طريق الصادر والوارد</value>
+  </data>
+  <data name="lblCheckOutInt" xml:space="preserve">
+    <value>تحقق من الداخلية</value>
+  </data>
+  <data name="lblCOEX" xml:space="preserve">
+    <value> إرسالها للخارج </value>
+  </data>
+  <data name="lblGridActionStatus" xml:space="preserve">
+    <value>حالة الإجراء</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>دخول</value>
+  </data>
+  <data name="RFIDIncorrect" xml:space="preserve">
+    <value>RFID غير صحيح</value>
+  </data>
+  <data name="lblCZ" xml:space="preserve">
+    <value>الصادر والوارد</value>
+  </data>
+  <data name="lblNonCZ" xml:space="preserve">
+    <value>أخرى</value>
+  </data>
+  <data name="rfvSearchCriteria" xml:space="preserve">
+    <value>يرجى اختيار معايير البحث احدة</value>
+  </data>
+  <data name="rfvRoleNameExist" xml:space="preserve">
+    <value>اسم الدور موجود بالفعل</value>
+  </data>
+  <data name="lblEmpZone" xml:space="preserve">
+    <value>الموظف المنطقة مقابل</value>
+  </data>
+
+  <data name="lblBrand" xml:space="preserve">
+    <value>علامة تجارية</value>
+  </data>
+  <data name="lblSerialNo" xml:space="preserve">
+    <value>رقم متسلسل</value>
+  </data>
+
+  <data name="lblPurchaseDate" xml:space="preserve">
+    <value>تاريخ الشراء</value>
+  </data>
+  <data name="lblIMEINo" xml:space="preserve">
+    <value>عدد IMEI</value>
+  </data>
+
+  <data name="lblDeviceMachineCode" xml:space="preserve">
+    <value> جهاز آلة القانون </value>
+  </data>
+
+  <data name="lblWarrantyDetails" xml:space="preserve">
+    <value>تفاصيل الضمان</value>
+  </data>
+
+  <data name="lblNotificationType" xml:space="preserve">
+    <value> نوع الإعلام</value>
+  </data>
+  <data name="lblToBeNotified" xml:space="preserve">
+    <value>أن يتم إعلامك</value>
+  </data>
+
+  <data name="lblNotifAddress" xml:space="preserve">
+    <value>إعلام / أن يتم إعلامك العنوان</value>
+  </data>
+
+  <data name="lblAddress1" xml:space="preserve">
+    <value>العنوان 1</value>
+  </data>
+  <data name="lblAddress2" xml:space="preserve">
+    <value>العنوان 2</value>
+  </data>
+  <data name="lblAddress3" xml:space="preserve">
+    <value>العنوان 3</value>
+  </data>
+
+  <data name="lblCaseNumber" xml:space="preserve">
+    <value>رقم القضية</value>
+  </data>
+  <data name="lblPriority" xml:space="preserve">
+    <value>أفضلية</value>
+  </data>
+
+  <data name="lblIncomingLetterDate" xml:space="preserve">
+    <value>رسالة واردة التسجيل</value>
+  </data>
+  <data name="lblIncomingLetterNumber" xml:space="preserve">
+    <value>واردة عدد رسالة</value>
+  </data>
+
+  <data name="lblReceivedFrom" xml:space="preserve">
+    <value>وردت من</value>
+  </data>
+
+
+  <data name="lblTrialDate" xml:space="preserve">
+    <value>محاكمة التسجيل</value>
+  </data>
+  <data name="lblComments" xml:space="preserve">
+    <value>تعليقات</value>
+  </data>
+
+  <data name="llblUploadNotificationDocument" xml:space="preserve">
+    <value>تحميل ثيقة الإخطار</value>
+  </data>
+
+  <data name="lblList" xml:space="preserve">
+    <value>قائمة</value>
+  </data>
+
+  <data name="lblTargetLocation" xml:space="preserve">
+    <value>هدف الموقع</value>
+  </data>
+
+  <data name="lblStatus" xml:space="preserve">
+    <value>حالة</value>
+  </data>
+
+
+  <data name="lblNotificationSource" xml:space="preserve">
+    <value>كود المصدر</value>
+  </data>
+
+  <data name="lblNotificationIDAndPeriod" xml:space="preserve">
+    <value>
+ID الإخطار والفترة
+       </value>
+  </data>
+
+  <data name="lblCaseRegisteredBy" xml:space="preserve">
+    <value>حالة مسجلة من قبل</value>
+  </data>
+
+  <data name="lblAssistantSectionHead" xml:space="preserve">
+    <value>القسم مساعد رئيس</value>
+  </data>
+
+  <data name="lblDeviceAssingedTo" xml:space="preserve">
+    <value>تعيين الجهاز</value>
+  </data>
+
+  <data name="lblRemarks" xml:space="preserve">
+    <value>ملاحظات</value>
+  </data>
+
+  <data name="lblNotification" xml:space="preserve">
+    <value>كود </value>
+  </data>
+
+  <data name="lblFromTrialDate" xml:space="preserve">
+    <value>من المحاكمة تاريخ</value>
+  </data>
+
+  <data name="lblToTrialDate" xml:space="preserve">
+    <value>إلى المحاكمة تاريخ</value>
+  </data>
+
+  <data name="lblCaseStatus" xml:space="preserve">
+    <value>الحالة حالة</value>
+  </data>
+  <data name="lblGSMNo" xml:space="preserve">
+    <value>عدد GSM</value>
+  </data>
+  <data name="IPADList" xml:space="preserve">
+    <value>IPAD قائمة تسجيل الأجهزة</value>
+  </data>
+  <data name="IPADRegistration" xml:space="preserve">
+    <value>تسجيل الأجهزة IPAD</value>
+  </data>
+  <data name="IPADAllocation" xml:space="preserve">
+    <value>IPAD تخصيص جهاز</value>
+  </data>
+  <data name="lblDeviceAssignedTo" xml:space="preserve">
+    <value>جهاز تعيين إلى</value>
+  </data>
+  <data name="lblDeviceAllocationHistory" xml:space="preserve">
+    <value>جهاز توزيع التاريخ</value>
+  </data>
+  <data name="lblAllocationDate" xml:space="preserve">
+    <value>تخصيص التسجيل</value>
+  </data>
+  <data name="btnAllocation" xml:space="preserve">
+    <value>تخصيص</value>
+  </data>
+  <data name="btnAllocation" xml:space="preserve">
+    <value>تخصيص</value>
+  </data>
+  <data name="lblNotificationRegistration" xml:space="preserve">
+    <value>كود التسجيل (NSA)</value>
+  </data>
+  <data name="btnUploadFile" xml:space="preserve">
+	<value>تحميل الملف</value>
+</data>
+  <data name="btnGenerateNotification" xml:space="preserve">
+	<value>توليد كود</value>
+</data>
+  <data name="NotificationList" xml:space="preserve">
+    <value>قائمة التسجيل إعلام (NSA)</value>
+  </data>
+  <data name="btnAssign" xml:space="preserve">
+   <value>تعيين / إعادة تعيين</value>
+  </data>
+  <data name="btnReject" xml:space="preserve">
+    <value>رفض</value>
+  </data>
+  <data name="ASHNotificationList" xml:space="preserve">
+    <value>مساعد رئيس قسم قائمة إعلام</value>
+  </data>
+  <data name="lblDeliverable" xml:space="preserve">
+    <value>تسليم</value>
+  </data>
+  <data name="lblType" xml:space="preserve">
+    <value>نوع</value>
+  </data>
+  <data name="lblSubType" xml:space="preserve">
+    <value>النوع الفرعي</value>
+  </data>
+  <data name="lblSource" xml:space="preserve">
+    <value>مصدر</value>
+  </data>
+  <data name="lblNoOfPages" xml:space="preserve">
+    <value>عدد الصفحات</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>اسم</value>
+  </data>
+  <data name="lblAttachments" xml:space="preserve">
+    <value>مرفقات</value>
+  </data>
+  <data name="lblAddAttachments" xml:space="preserve">
+    <value>إضافة</value>
+  </data>
+  <data name="lblSupervisorAssignedTO" xml:space="preserve">
+    <value>المشرف تعيين إلى</value>
+  </data>
+  <data name="lblBaliffAssignedTo" xml:space="preserve">
+    <value>مأمور تعيين إلى</value>
+  </data>
+  <data name="SupervisorNotificationList" xml:space="preserve">
+    <value>المشرف قائمة إعلام</value>
+  </data>
+  
+  <data name="lblNotificationClassification" xml:space="preserve">
+    <value>تصنيف إعلام</value>
+  </data>
+  <data name="lblNotificationPeriod" xml:space="preserve">
+    <value>فترة الإخطار</value>
+  </data>
+  <data name="lblAssignedBy" xml:space="preserve">
+    <value>يكلفه بها</value>
+  </data>
+  <data name="BailiffNotificationList" xml:space="preserve">
+    <value>مأمور قائمة إعلام</value>
+  </data>
+
+  <data name="AuditorNotificationList" xml:space="preserve">
+    <value>المراجع قائمة إعلام</value>
+  </data>
+  <data name="lblExecutedDate" xml:space="preserve">
+    <value>تاريخ تنفيذها</value>
+  </data>
+  <data name="lblDeliveryStatus" xml:space="preserve">
+    <value>حالة التسليم</value>
+  </data>
+  <data name="lblBailiff" xml:space="preserve">
+    <value>حاجب محكمة</value>
+  </data>
+  <data name="lblSupervisor" xml:space="preserve">
+    <value>مشرف</value>
+  </data>
+  <data name="lblAsstSectionHead" xml:space="preserve">
+    <value>مساعد رئيس قسم</value>
+  </data>
+  <data name="lblSupervisorNotification" xml:space="preserve">
+  <value>إعلام المشرف</value>
+  </data>
+  <data name="lblBailiffNotification" xml:space="preserve">
+<value>كود مأمور</value>
+</data>
+
+  <data name="lblAuditorNotification" xml:space="preserve">
+<value>كود المراجع</value>
+</data>
+  <data name="lblPendingNotif" xml:space="preserve">
+<value>الإعلامات المعلقة</value>
+</data>
+  <data name="lblZonesAssigned" xml:space="preserve">
+    <value>المناطق المخصصة</value>
+  </data>
+
+  <data name="lblNoOfAssigns" xml:space="preserve">
+    <value>عدد المتنازل لهم</value>
+  </data>
+  <data name="lblConfirm" xml:space="preserve">
+    <value>أكد</value>
+  </data>
+  <data name="lblSentToSH" xml:space="preserve">
+    <value>إرسالها إلى رئيس القسم</value>
+  </data>
+  <data name="btnSentBackNotif" xml:space="preserve">
+    <value>أرسلت إخطارات العودة</value>
+  </data>
+  <data name="lblReportingManager" xml:space="preserve">
+    <value>الإبلاغ مدير</value>
+  </data>
+
+  <data name="lblZonesAssignedTo" xml:space="preserve">
+    <value>المناطق المخصصة لل</value>
+  </data>
+
+  <data name="lblUploadSignature" xml:space="preserve">
+    <value>تحميل التوقيع</value>
+  </data>
+  <data name="lblview" xml:space="preserve">
+    <value>رأي</value>
+  </data>
+  <data name="lblSelect" xml:space="preserve">
+    <value>حدد</value>
+  </data>
+  <data name="lblSectionHead" xml:space="preserve">
+    <value>رئيس قسم</value>
+  </data>
+  <data name="SHNotificationList" xml:space="preserve">
+    <value>رئيس القسم قائمة إعلام</value>
+  </data>
+  <data name="lblVacationPeriod" xml:space="preserve">
+    <value>عطلة الفترة</value>
+  </data>
+  <data name="lblCreatedBy" xml:space="preserve">
+    <value>التي أنشأتها</value>
+  </data>
+  <data name="lblCreatedOn" xml:space="preserve">
+    <value>تم إنشائه يوم</value>
+  </data>
+  <data name="lblAllocatedBy" xml:space="preserve">
+    <value>التي خصصتها</value>
+  </data>
+  <data name="lblLocationCoordinates" xml:space="preserve">
+    <value>إحداثيات موقع</value>
+  </data>
+  <data name="lblPendingNotifNSA" xml:space="preserve">
+<value>الإعلامات المعلقة (NSA)</value>
+</data>
+  <data name="lblPendingNotifCMS" xml:space="preserve">
+<value>الإعلامات المعلقة (CMS)</value>
+</data>
+  <data name="lblNotificationClass" xml:space="preserve">
+    <value>فئة إعلام</value>
+  </data>
+  <data name="btnAssignNotification" xml:space="preserve">
+    <value>تعيين إعلام</value>
+  </data>
+  <data name="btnViewExecutedNotif" xml:space="preserve">
+    <value>عرض الإخطارات المنفذة</value>
+  </data>
+  <data name="btnMarkasSpecNotif" xml:space="preserve">
+    <value>عرض الإخطارات المنفذة</value>
+  </data>
+  <data name="btnMarkUnMarkSpecific" xml:space="preserve">
+    <value>تحديد / عدم تحديد محددة</value>
+  </data>
+  <data name="btnAutoAssign" xml:space="preserve">
+    <value>تعيين السيارات</value>
+  </data>
+  <data name="btnManualAssign" xml:space="preserve">
+    <value>دليل تعيين</value>
+  </data>
+  <data name="btnViewHistory" xml:space="preserve">
+    <value>عرض التاريخ</value>
+  </data>
+  <data name="lblTrackBailiff" xml:space="preserve">
+    <value>تتبع البيليف</value>
+  </data>
+  <data name="lblExecutedNotifications" xml:space="preserve">
+<value>الإخطارات تنفيذها</value>
+</data>
+  <data name="lblAttachClearSig" xml:space="preserve">
+<value>نعلق / مسح التوقيع</value>
+</data>
+  <data name="lblDisplayOnDashBoard" xml:space="preserve">
+<value>عرض على المجلس</value>
+</data>
+  <data name="lblNotificationMapView" xml:space="preserve">
+<value>كود عرض الخريطة</value>
+</data>
+  <data name="lblViewAllocations" xml:space="preserve">
+<value>عرض المخصصات</value>
+</data>
+  <data name="rbActive" xml:space="preserve">
+<value>نشط</value>
+</data>
+  <data name="rbInActive" xml:space="preserve">
+<value>غير فعال</value>    
+</data>
+  <data name="lblNotifSubType" xml:space="preserve">
+    <value>الإخطار الفرعية نوع</value>
+  </data>
+  <data name="lblNotifInstructions" xml:space="preserve">
+    <value>تعليم إعلام</value>
+  </data>
+  <data name="lblCaseRelationship" xml:space="preserve">
+    <value>حالة العلاقة</value>
+  </data>
+  <data name="lblNationality" xml:space="preserve">
+    <value>جنسية</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>جنس</value>
+  </data>
+  <data name="lblEmirates" xml:space="preserve">
+    <value>الإمارات</value>
+  </data>
+  <data name="lblMobile" xml:space="preserve">
+    <value>متنقل</value>
+  </data>
+  <data name="lblLongitude" xml:space="preserve">
+    <value>خط الطول</value>
+  </data>
+  <data name="lblLatitude" xml:space="preserve">
+    <value>خط العرض</value>
+  </data>
+  <data name="lblExecutedNotifications" xml:space="preserve">
+    <value>الإخطارات تنفيذها</value>
+  </data>
+  <data name="lblPendingNotifications" xml:space="preserve">
+    <value>الإعلامات المعلقة</value>
+  </data>
+
+  <data name="msgNoRecords">
+    <value>.لا توجد سجلات للعرض</value>
+  </data>
+  <data name="rfvRoleselect" xml:space="preserve">
+    <value>اختر الاقل امتياز وصول واحد</value>
+  </data>
+  <data name="empImageExt">
+    <value>الرجاء اختيار الصورة، وأنواع المقبولة هي gif أو jpg أو JPEG،. بابوا نيو غينيا. ملف حد حجم 500 كيلو بايت.</value>
+  </data>
+  <data name="lblFileSize" xml:space="default">
+    <value>.ملف حد حجم 500 كيلو بايت</value>
+  </data>
+  <data name="ManageBranchPlant" xml:space="preserve">
+    <value>MANAGE BRANCH PLANT DETAILS</value>
+  </data>
+  <data name="gridBranchPlantCode" xml:space="preserve">
+    <value>Branch Plant Code</value>
+  </data>
+  <data name="gridBranchPlantName" xml:space="preserve">
+    <value>Branch Plant Name</value>
+  </data>
+  <data name="ManageCustomers" xml:space="preserve">
+    <value>MANAGE CUSTOMER DETAILS</value>
+  </data>
+  <data name="gridCustomerCode" xml:space="preserve">
+    <value>Customer Code</value>
+  </data>
+  <data name="gridCustomerName" xml:space="preserve">
+    <value>Customer Name</value>
+  </data>
+  <data name="ManageSupplier" xml:space="default">
+    <value>Manage Supplier Details</value>
+  </data>
+  <data name="gridSupplierCode" xml:space="default">
+    <value>Supplier Code</value>
+  </data>
+  <data name="gridSupplierName" xml:space="default">
+    <value>Supplier Name</value>
+  </data>
+  <data name="gridSupplierID" xml:space="default">
+    <value>Supplier ID</value>
+  </data>
+</root>
